@@ -1,0 +1,1331 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "798c97",
+      "Name": "Bag",
+      "Transform": {
+        "posX": -26.869915,
+        "posY": 0.8258502,
+        "posZ": 16.8012428,
+        "rotX": 1.03887169E-06,
+        "rotY": 0.000387186359,
+        "rotZ": -7.47048432E-07,
+        "scaleX": 0.725000262,
+        "scaleY": 0.725000262,
+        "scaleZ": 0.725000262
+      },
+      "Nickname": "Your Own Medicine",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 0.787783146,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "Tags": [
+        "EXPANSION"
+      ],
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "MaterialIndex": -1,
+      "MeshIndex": -1,
+      "Bag": {
+        "Order": 0
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "ContainedObjects": [
+        {
+          "GUID": "0decdb",
+          "Name": "Bag",
+          "Transform": {
+            "posX": -26.34115,
+            "posY": 2.27767587,
+            "posZ": 17.0728664,
+            "rotX": 3.06791329,
+            "rotY": 89.9321747,
+            "rotZ": 1.684014,
+            "scaleX": 0.7750002,
+            "scaleY": 0.7750002,
+            "scaleZ": 0.7750002
+          },
+          "Nickname": "US",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.187281668,
+            "g": 0.179614216,
+            "b": 0.179614216
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "MaterialIndex": -1,
+          "MeshIndex": -1,
+          "Bag": {
+            "Order": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "ContainedObjects": [
+            {
+              "GUID": "0745aa",
+              "Name": "Deck",
+              "Transform": {
+                "posX": -19.34935,
+                "posY": 2.96491861,
+                "posZ": 13.7932415,
+                "rotX": 355.554565,
+                "rotY": 183.489029,
+                "rotZ": 322.4068,
+                "scaleX": 1.4,
+                "scaleY": 1.0,
+                "scaleZ": 1.4
+              },
+              "Nickname": "LOOT",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "Tags": [
+                "L_PILL",
+                "Pill"
+              ],
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": true,
+              "Hands": false,
+              "SidewaysCard": false,
+              "DeckIDs": [
+                100,
+                116,
+                105,
+                101,
+                109,
+                106,
+                117,
+                102,
+                108,
+                115,
+                110,
+                113,
+                103,
+                111,
+                114,
+                104,
+                107,
+                112
+              ],
+              "CustomDeck": {
+                "1": {
+                  "FaceURL": "http://cloud-3.steamusercontent.com/ugc/2017097772400062064/384949B3088BA916B62BABEEB60705BCE3E244A8/",
+                  "BackURL": "http://cloud-3.steamusercontent.com/ugc/2024977169939246672/E7AE750DC00876F2CCFCC8A3FA7B13537C28AFDD/",
+                  "NumWidth": 4,
+                  "NumHeight": 5,
+                  "BackIsHidden": false,
+                  "UniqueBack": false,
+                  "Type": 0
+                }
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "ContainedObjects": [
+                {
+                  "GUID": "758e9b",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": 13.2984324,
+                    "posY": 0.9736048,
+                    "posZ": -3.61246562,
+                    "rotX": -1.57686515E-07,
+                    "rotY": 180.0,
+                    "rotZ": -1.7912312E-07,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Pills!",
+                  "Description": "",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "L_PILL",
+                    "Pill"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 100,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "1": {
+                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/2017097772400062064/384949B3088BA916B62BABEEB60705BCE3E244A8/",
+                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/2024977169939246672/E7AE750DC00876F2CCFCC8A3FA7B13537C28AFDD/",
+                      "NumWidth": 4,
+                      "NumHeight": 5,
+                      "BackIsHidden": false,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "type = \"pill\"",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "bca25f",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": 8.427465,
+                    "posY": 0.973604739,
+                    "posZ": -4.06285763,
+                    "rotX": 2.50413621E-07,
+                    "rotY": 180.0,
+                    "rotZ": -5.53116138E-07,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Pills!",
+                  "Description": "",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "L_PILL",
+                    "Pill"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 116,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "1": {
+                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/2017097772400062064/384949B3088BA916B62BABEEB60705BCE3E244A8/",
+                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/2024977169939246672/E7AE750DC00876F2CCFCC8A3FA7B13537C28AFDD/",
+                      "NumWidth": 4,
+                      "NumHeight": 5,
+                      "BackIsHidden": false,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "type = \"pill\"",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "a1d03b",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": 4.17121267,
+                    "posY": 0.973604739,
+                    "posZ": -2.72865367,
+                    "rotX": 6.39848636E-08,
+                    "rotY": 180.0,
+                    "rotZ": -8.86074531E-07,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Pills!",
+                  "Description": "",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "L_PILL",
+                    "Pill"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 105,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "1": {
+                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/2017097772400062064/384949B3088BA916B62BABEEB60705BCE3E244A8/",
+                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/2024977169939246672/E7AE750DC00876F2CCFCC8A3FA7B13537C28AFDD/",
+                      "NumWidth": 4,
+                      "NumHeight": 5,
+                      "BackIsHidden": false,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "type = \"pill\"",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "bb6a20",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": 4.33203,
+                    "posY": 0.973604739,
+                    "posZ": -9.80421448,
+                    "rotX": -2.05195832E-07,
+                    "rotY": 180.0,
+                    "rotZ": -7.76817842E-07,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Pills!",
+                  "Description": "",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "Active",
+                    "Item",
+                    "L_PILL",
+                    "Pill"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 101,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "1": {
+                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/2017097772400062064/384949B3088BA916B62BABEEB60705BCE3E244A8/",
+                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/2024977169939246672/E7AE750DC00876F2CCFCC8A3FA7B13537C28AFDD/",
+                      "NumWidth": 4,
+                      "NumHeight": 5,
+                      "BackIsHidden": false,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "type = \"pill\"",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "44ce75",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": 0.7764251,
+                    "posY": 0.973604739,
+                    "posZ": -9.878506,
+                    "rotX": -2.16707022E-07,
+                    "rotY": 180.0,
+                    "rotZ": -4.92288564E-07,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Pills!",
+                  "Description": "",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "L_PILL",
+                    "Pill"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 109,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "1": {
+                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/2017097772400062064/384949B3088BA916B62BABEEB60705BCE3E244A8/",
+                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/2024977169939246672/E7AE750DC00876F2CCFCC8A3FA7B13537C28AFDD/",
+                      "NumWidth": 4,
+                      "NumHeight": 5,
+                      "BackIsHidden": false,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "type = \"pill\"",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "b33b35",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": -1.376696,
+                    "posY": 0.9736048,
+                    "posZ": -4.73940229,
+                    "rotX": 4.73374627E-07,
+                    "rotY": 180.000244,
+                    "rotZ": -9.913244E-07,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Pills!",
+                  "Description": "",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "L_PILL",
+                    "Pill"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 106,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "1": {
+                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/2017097772400062064/384949B3088BA916B62BABEEB60705BCE3E244A8/",
+                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/2024977169939246672/E7AE750DC00876F2CCFCC8A3FA7B13537C28AFDD/",
+                      "NumWidth": 4,
+                      "NumHeight": 5,
+                      "BackIsHidden": false,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "type = \"pill\"",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "16775e",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": 9.244499,
+                    "posY": 0.9736048,
+                    "posZ": -11.1103306,
+                    "rotX": -2.34102E-07,
+                    "rotY": 180.000015,
+                    "rotZ": -2.692273E-07,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Pills!",
+                  "Description": "",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "L_PILL",
+                    "Pill"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 117,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "1": {
+                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/2017097772400062064/384949B3088BA916B62BABEEB60705BCE3E244A8/",
+                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/2024977169939246672/E7AE750DC00876F2CCFCC8A3FA7B13537C28AFDD/",
+                      "NumWidth": 4,
+                      "NumHeight": 5,
+                      "BackIsHidden": false,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "type = \"pill\"\nmultiplayer = true",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "200533",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": -2.67829251,
+                    "posY": 0.973604739,
+                    "posZ": -9.962191,
+                    "rotX": -6.45429736E-07,
+                    "rotY": 180.0,
+                    "rotZ": -3.80827174E-07,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Pills!",
+                  "Description": "",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "Active",
+                    "Item",
+                    "L_PILL",
+                    "Pill"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 102,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "1": {
+                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/2017097772400062064/384949B3088BA916B62BABEEB60705BCE3E244A8/",
+                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/2024977169939246672/E7AE750DC00876F2CCFCC8A3FA7B13537C28AFDD/",
+                      "NumWidth": 4,
+                      "NumHeight": 5,
+                      "BackIsHidden": false,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "type = \"pill\"",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "eb982d",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": -6.89219,
+                    "posY": 0.973604739,
+                    "posZ": -9.906574,
+                    "rotX": -9.179096E-08,
+                    "rotY": 180.0,
+                    "rotZ": -2.42867628E-07,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Pills!",
+                  "Description": "",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "L_PILL",
+                    "Pill"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 108,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "1": {
+                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/2017097772400062064/384949B3088BA916B62BABEEB60705BCE3E244A8/",
+                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/2024977169939246672/E7AE750DC00876F2CCFCC8A3FA7B13537C28AFDD/",
+                      "NumWidth": 4,
+                      "NumHeight": 5,
+                      "BackIsHidden": false,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "type = \"pill\"",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "505d33",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": -6.34528732,
+                    "posY": 0.973604739,
+                    "posZ": -4.51472569,
+                    "rotX": 6.680171E-08,
+                    "rotY": 180.0,
+                    "rotZ": -1.17275512E-07,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Pills!",
+                  "Description": "",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "L_PILL",
+                    "Pill"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 115,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "1": {
+                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/2017097772400062064/384949B3088BA916B62BABEEB60705BCE3E244A8/",
+                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/2024977169939246672/E7AE750DC00876F2CCFCC8A3FA7B13537C28AFDD/",
+                      "NumWidth": 4,
+                      "NumHeight": 5,
+                      "BackIsHidden": false,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "type = \"pill\"",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "2d99c0",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": -10.5639372,
+                    "posY": 0.973604739,
+                    "posZ": -9.991403,
+                    "rotX": 1.62531009E-07,
+                    "rotY": 179.999985,
+                    "rotZ": 1.93218654E-07,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Pills!",
+                  "Description": "",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "L_PILL",
+                    "Pill"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 110,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "1": {
+                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/2017097772400062064/384949B3088BA916B62BABEEB60705BCE3E244A8/",
+                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/2024977169939246672/E7AE750DC00876F2CCFCC8A3FA7B13537C28AFDD/",
+                      "NumWidth": 4,
+                      "NumHeight": 5,
+                      "BackIsHidden": false,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "type = \"pill\"",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "453c6e",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": -10.4144258,
+                    "posY": 0.9736048,
+                    "posZ": -4.399742,
+                    "rotX": -4.76727369E-09,
+                    "rotY": 180.0,
+                    "rotZ": -2.752098E-07,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Pills!",
+                  "Description": "",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "L_PILL",
+                    "Pill"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 113,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "1": {
+                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/2017097772400062064/384949B3088BA916B62BABEEB60705BCE3E244A8/",
+                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/2024977169939246672/E7AE750DC00876F2CCFCC8A3FA7B13537C28AFDD/",
+                      "NumWidth": 4,
+                      "NumHeight": 5,
+                      "BackIsHidden": false,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "type = \"pill\"",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "2f5e7f",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": -14.5979834,
+                    "posY": 0.9736049,
+                    "posZ": -4.14291859,
+                    "rotX": 1.44269645E-08,
+                    "rotY": 180.0,
+                    "rotZ": -3.394189E-07,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Pills!",
+                  "Description": "",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "L_PILL",
+                    "Pill"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 103,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "1": {
+                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/2017097772400062064/384949B3088BA916B62BABEEB60705BCE3E244A8/",
+                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/2024977169939246672/E7AE750DC00876F2CCFCC8A3FA7B13537C28AFDD/",
+                      "NumWidth": 4,
+                      "NumHeight": 5,
+                      "BackIsHidden": false,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "type = \"pill\"",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "f9c0eb",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": -14.9703417,
+                    "posY": 0.9736048,
+                    "posZ": -9.685561,
+                    "rotX": -6.900538E-07,
+                    "rotY": 180.00174,
+                    "rotZ": 2.832372E-07,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Pills!",
+                  "Description": "",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "L_PILL",
+                    "Pill"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 111,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "1": {
+                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/2017097772400062064/384949B3088BA916B62BABEEB60705BCE3E244A8/",
+                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/2024977169939246672/E7AE750DC00876F2CCFCC8A3FA7B13537C28AFDD/",
+                      "NumWidth": 4,
+                      "NumHeight": 5,
+                      "BackIsHidden": false,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "type = \"pill\"",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "eb2b18",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": -19.19697,
+                    "posY": 0.973604739,
+                    "posZ": -3.86862159,
+                    "rotX": 3.52079255E-08,
+                    "rotY": 180.0,
+                    "rotZ": -1.21922128E-07,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Pills!",
+                  "Description": "",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "L_PILL",
+                    "Pill"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 114,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "1": {
+                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/2017097772400062064/384949B3088BA916B62BABEEB60705BCE3E244A8/",
+                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/2024977169939246672/E7AE750DC00876F2CCFCC8A3FA7B13537C28AFDD/",
+                      "NumWidth": 4,
+                      "NumHeight": 5,
+                      "BackIsHidden": false,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "type = \"pill\"",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "973f87",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": -19.2377758,
+                    "posY": 0.973604739,
+                    "posZ": -9.849895,
+                    "rotX": 2.22217011E-07,
+                    "rotY": 179.999969,
+                    "rotZ": 1.60766476E-07,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Pills!",
+                  "Description": "",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "L_PILL",
+                    "Pill"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 104,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "1": {
+                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/2017097772400062064/384949B3088BA916B62BABEEB60705BCE3E244A8/",
+                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/2024977169939246672/E7AE750DC00876F2CCFCC8A3FA7B13537C28AFDD/",
+                      "NumWidth": 4,
+                      "NumHeight": 5,
+                      "BackIsHidden": false,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "type = \"pill\"",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "2abede",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": -9.417591,
+                    "posY": 1.18437707,
+                    "posZ": 12.612916,
+                    "rotX": -0.00190888287,
+                    "rotY": 180.0146,
+                    "rotZ": -0.00450304337,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Pills!",
+                  "Description": "",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "L_PILL",
+                    "Pill"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 107,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "1": {
+                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/2017097772400062064/384949B3088BA916B62BABEEB60705BCE3E244A8/",
+                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/2024977169939246672/E7AE750DC00876F2CCFCC8A3FA7B13537C28AFDD/",
+                      "NumWidth": 4,
+                      "NumHeight": 5,
+                      "BackIsHidden": false,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "type = \"pill\"",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "d0459c",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": -9.931977,
+                    "posY": 1.18441176,
+                    "posZ": 12.019825,
+                    "rotX": 359.993958,
+                    "rotY": 179.998489,
+                    "rotZ": -0.00134254748,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Pills!",
+                  "Description": "",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "Item",
+                    "L_PILL",
+                    "Pill"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 112,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "1": {
+                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/2017097772400062064/384949B3088BA916B62BABEEB60705BCE3E244A8/",
+                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/2024977169939246672/E7AE750DC00876F2CCFCC8A3FA7B13537C28AFDD/",
+                      "NumWidth": 4,
+                      "NumHeight": 5,
+                      "BackIsHidden": false,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "type = \"pill\"\r\n\r\nfunction getHP()\r\n    return 2\r\nend",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
