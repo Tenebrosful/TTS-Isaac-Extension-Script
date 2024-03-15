@@ -1,0 +1,2212 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "c2e68a",
+      "Name": "Bag",
+      "Transform": {
+        "posX": -11.8065605,
+        "posY": 0.8258416,
+        "posZ": 10.6380062,
+        "rotX": 2.04914886E-05,
+        "rotY": 179.976486,
+        "rotZ": 4.484776E-06,
+        "scaleX": 0.725000262,
+        "scaleY": 0.725000262,
+        "scaleZ": 0.725000262
+      },
+      "Nickname": "Blood Knight",
+      "Description": "NoteMEdown\r#4176 On Discord",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 0.787783146,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "Tags": [
+        "EXPANSION"
+      ],
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "MaterialIndex": -1,
+      "MeshIndex": -1,
+      "Bag": {
+        "Order": 0
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "ContainedObjects": [
+        {
+          "GUID": "3becb3",
+          "Name": "Bag",
+          "Transform": {
+            "posX": -11.7909336,
+            "posY": 2.28810477,
+            "posZ": 10.3225346,
+            "rotX": 353.892029,
+            "rotY": 0.0983998254,
+            "rotZ": 359.536957,
+            "scaleX": 0.7750002,
+            "scaleY": 0.7750002,
+            "scaleZ": 0.7750002
+          },
+          "Nickname": "Characters",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.7058823,
+            "g": 0.366520882,
+            "b": 0.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": false,
+          "Snap": false,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "MaterialIndex": -1,
+          "MeshIndex": -1,
+          "Bag": {
+            "Order": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "ContainedObjects": [
+            {
+              "GUID": "334b67",
+              "Name": "Deck",
+              "Transform": {
+                "posX": -4.975319,
+                "posY": 2.602902,
+                "posZ": 8.265047,
+                "rotX": 0.248431966,
+                "rotY": 179.98584,
+                "rotZ": 0.968746245,
+                "scaleX": 1.4,
+                "scaleY": 1.0,
+                "scaleZ": 1.4
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "Tags": [
+                "Active"
+              ],
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": true,
+              "Hands": false,
+              "SidewaysCard": false,
+              "DeckIDs": [
+                219400,
+                220000
+              ],
+              "CustomDeck": {
+                "2194": {
+                  "FaceURL": "https://i.imgur.com/5cy4RUC.jpg",
+                  "BackURL": "https://i.imgur.com/vb7p36j.png",
+                  "NumWidth": 1,
+                  "NumHeight": 1,
+                  "BackIsHidden": true,
+                  "UniqueBack": false,
+                  "Type": 0
+                },
+                "2200": {
+                  "FaceURL": "https://i.imgur.com/xN4xIsQ.jpg",
+                  "BackURL": "https://i.imgur.com/t4exsp5.png",
+                  "NumWidth": 1,
+                  "NumHeight": 1,
+                  "BackIsHidden": true,
+                  "UniqueBack": false,
+                  "Type": 0
+                }
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "ContainedObjects": [
+                {
+                  "GUID": "07da28",
+                  "Name": "CardCustom",
+                  "Transform": {
+                    "posX": -0.5199035,
+                    "posY": 0.972677767,
+                    "posZ": 8.644598,
+                    "rotX": 0.00624426361,
+                    "rotY": 179.858841,
+                    "rotZ": 0.04279665,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Armor Donation",
+                  "Description": "US_character-item",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "Active",
+                    "Eternal",
+                    "Item"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 219400,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2194": {
+                      "FaceURL": "https://i.imgur.com/5cy4RUC.jpg",
+                      "BackURL": "https://i.imgur.com/vb7p36j.png",
+                      "NumWidth": 1,
+                      "NumHeight": 1,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "\n\n\n\n\nisEvent = false",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "7d7064",
+                  "Name": "CardCustom",
+                  "Transform": {
+                    "posX": -0.1846973,
+                    "posY": 1.003355,
+                    "posZ": 8.725717,
+                    "rotX": 0.325958759,
+                    "rotY": 179.999878,
+                    "rotZ": 0.143500954,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Skeleton Warrior",
+                  "Description": "US_character",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "Active",
+                    "Character"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 220000,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2200": {
+                      "FaceURL": "https://i.imgur.com/xN4xIsQ.jpg",
+                      "BackURL": "https://i.imgur.com/t4exsp5.png",
+                      "NumWidth": 1,
+                      "NumHeight": 1,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "function getHP()\n  return 1\nend",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                }
+              ]
+            },
+            {
+              "GUID": "a67d9e",
+              "Name": "Deck",
+              "Transform": {
+                "posX": -5.51067162,
+                "posY": 2.562292,
+                "posZ": 7.630295,
+                "rotX": 2.070737,
+                "rotY": 179.990784,
+                "rotZ": 357.586151,
+                "scaleX": 1.4,
+                "scaleY": 1.0,
+                "scaleZ": 1.4
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": true,
+              "Hands": false,
+              "SidewaysCard": false,
+              "DeckIDs": [
+                219500,
+                219800
+              ],
+              "CustomDeck": {
+                "2195": {
+                  "FaceURL": "https://i.imgur.com/qJ97eId.jpg",
+                  "BackURL": "https://i.imgur.com/vb7p36j.png",
+                  "NumWidth": 1,
+                  "NumHeight": 1,
+                  "BackIsHidden": true,
+                  "UniqueBack": false,
+                  "Type": 0
+                },
+                "2198": {
+                  "FaceURL": "https://i.imgur.com/GfktHdB.jpg",
+                  "BackURL": "https://i.imgur.com/t4exsp5.png",
+                  "NumWidth": 1,
+                  "NumHeight": 1,
+                  "BackIsHidden": true,
+                  "UniqueBack": false,
+                  "Type": 0
+                }
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "ContainedObjects": [
+                {
+                  "GUID": "5bf956",
+                  "Name": "CardCustom",
+                  "Transform": {
+                    "posX": -0.5124497,
+                    "posY": 0.973023951,
+                    "posZ": 4.353549,
+                    "rotX": 0.00427634036,
+                    "rotY": 180.057343,
+                    "rotZ": 0.0267688371,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Blood Sacrifice",
+                  "Description": "US_character-item",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "Eternal",
+                    "Item"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 219500,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2195": {
+                      "FaceURL": "https://i.imgur.com/qJ97eId.jpg",
+                      "BackURL": "https://i.imgur.com/vb7p36j.png",
+                      "NumWidth": 1,
+                      "NumHeight": 1,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "\n\n\n\n\nisEvent = false",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "0a5c19",
+                  "Name": "CardCustom",
+                  "Transform": {
+                    "posX": -0.325959265,
+                    "posY": 1.007497,
+                    "posZ": 4.023561,
+                    "rotX": 0.2268882,
+                    "rotY": 179.993347,
+                    "rotZ": 0.417251766,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Mad Murderer",
+                  "Description": "US_character",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "Active",
+                    "Character"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 219800,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2198": {
+                      "FaceURL": "https://i.imgur.com/GfktHdB.jpg",
+                      "BackURL": "https://i.imgur.com/t4exsp5.png",
+                      "NumWidth": 1,
+                      "NumHeight": 1,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "function getHP()\n  return 1\nend",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                }
+              ]
+            },
+            {
+              "GUID": "e1c2f9",
+              "Name": "Deck",
+              "Transform": {
+                "posX": -4.730829,
+                "posY": 2.57660818,
+                "posZ": 7.86044264,
+                "rotX": 1.62665725,
+                "rotY": 180.033768,
+                "rotZ": 2.43453026,
+                "scaleX": 1.4,
+                "scaleY": 1.0,
+                "scaleZ": 1.4
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "Tags": [
+                "Active"
+              ],
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": true,
+              "Hands": false,
+              "SidewaysCard": false,
+              "DeckIDs": [
+                219600,
+                220100
+              ],
+              "CustomDeck": {
+                "2196": {
+                  "FaceURL": "https://i.imgur.com/0XI4NST.jpg",
+                  "BackURL": "https://i.imgur.com/vb7p36j.png",
+                  "NumWidth": 1,
+                  "NumHeight": 1,
+                  "BackIsHidden": true,
+                  "UniqueBack": false,
+                  "Type": 0
+                },
+                "2201": {
+                  "FaceURL": "https://i.imgur.com/VQ1ZrLT.jpg",
+                  "BackURL": "https://i.imgur.com/t4exsp5.png",
+                  "NumWidth": 1,
+                  "NumHeight": 1,
+                  "BackIsHidden": true,
+                  "UniqueBack": false,
+                  "Type": 0
+                }
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "ContainedObjects": [
+                {
+                  "GUID": "4266a4",
+                  "Name": "CardCustom",
+                  "Transform": {
+                    "posX": 5.674199,
+                    "posY": 0.9732399,
+                    "posZ": 3.9303112,
+                    "rotX": 0.00263711833,
+                    "rotY": 179.999222,
+                    "rotZ": 0.016794445,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Cursed Doubloons",
+                  "Description": "US_character-item",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "Active",
+                    "Eternal",
+                    "Item"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 219600,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2196": {
+                      "FaceURL": "https://i.imgur.com/0XI4NST.jpg",
+                      "BackURL": "https://i.imgur.com/vb7p36j.png",
+                      "NumWidth": 1,
+                      "NumHeight": 1,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "\n\n\n\n\nisEvent = false",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "f31f2e",
+                  "Name": "CardCustom",
+                  "Transform": {
+                    "posX": 5.369412,
+                    "posY": 1.005902,
+                    "posZ": 3.920682,
+                    "rotX": 0.226329386,
+                    "rotY": 179.992386,
+                    "rotZ": 0.356256574,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Undead Pirate",
+                  "Description": "US_character",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "Active",
+                    "Character"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 220100,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2201": {
+                      "FaceURL": "https://i.imgur.com/VQ1ZrLT.jpg",
+                      "BackURL": "https://i.imgur.com/t4exsp5.png",
+                      "NumWidth": 1,
+                      "NumHeight": 1,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "function getHP()\n  return 1\nend",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                }
+              ]
+            },
+            {
+              "GUID": "8643e9",
+              "Name": "Deck",
+              "Transform": {
+                "posX": -5.35150862,
+                "posY": 2.595269,
+                "posZ": 8.301216,
+                "rotX": 0.084335506,
+                "rotY": 180.027039,
+                "rotZ": 357.8818,
+                "scaleX": 1.4,
+                "scaleY": 1.0,
+                "scaleZ": 1.4
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": true,
+              "Hands": false,
+              "SidewaysCard": false,
+              "DeckIDs": [
+                219700,
+                219900
+              ],
+              "CustomDeck": {
+                "2197": {
+                  "FaceURL": "https://i.imgur.com/Brsc3T5.jpg",
+                  "BackURL": "https://i.imgur.com/vb7p36j.png",
+                  "NumWidth": 1,
+                  "NumHeight": 1,
+                  "BackIsHidden": true,
+                  "UniqueBack": false,
+                  "Type": 0
+                },
+                "2199": {
+                  "FaceURL": "https://i.imgur.com/TMIKr9q.jpg",
+                  "BackURL": "https://i.imgur.com/t4exsp5.png",
+                  "NumWidth": 1,
+                  "NumHeight": 1,
+                  "BackIsHidden": true,
+                  "UniqueBack": false,
+                  "Type": 0
+                }
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "ContainedObjects": [
+                {
+                  "GUID": "181e22",
+                  "Name": "CardCustom",
+                  "Transform": {
+                    "posX": 5.80143356,
+                    "posY": 0.9720144,
+                    "posZ": 8.561338,
+                    "rotX": 0.0105442032,
+                    "rotY": 180.028671,
+                    "rotZ": 0.0732334256,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "The Necronomicon",
+                  "Description": "US_character-item",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "Eternal",
+                    "Item"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 219700,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2197": {
+                      "FaceURL": "https://i.imgur.com/Brsc3T5.jpg",
+                      "BackURL": "https://i.imgur.com/vb7p36j.png",
+                      "NumWidth": 1,
+                      "NumHeight": 1,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "\n\n\n\n\nisEvent = false",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "b2c9cb",
+                  "Name": "CardCustom",
+                  "Transform": {
+                    "posX": 5.3072176,
+                    "posY": 1.00486422,
+                    "posZ": 8.063233,
+                    "rotX": 0.398490727,
+                    "rotY": 180.020691,
+                    "rotZ": 359.917664,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Necromancer",
+                  "Description": "US_character",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "Active",
+                    "Character"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 219900,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2199": {
+                      "FaceURL": "https://i.imgur.com/TMIKr9q.jpg",
+                      "BackURL": "https://i.imgur.com/t4exsp5.png",
+                      "NumWidth": 1,
+                      "NumHeight": 1,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "function getHP()\n  return 1\nend",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "GUID": "af4593",
+          "Name": "Bag",
+          "Transform": {
+            "posX": -11.8922434,
+            "posY": 2.31194258,
+            "posZ": 10.7861948,
+            "rotX": 356.230072,
+            "rotY": 180.147919,
+            "rotZ": 357.419617,
+            "scaleX": 0.7750002,
+            "scaleY": 0.7750002,
+            "scaleZ": 0.7750002
+          },
+          "Nickname": "US",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.187281787,
+            "g": 0.179614335,
+            "b": 0.179614335
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "MaterialIndex": -1,
+          "MeshIndex": -1,
+          "Bag": {
+            "Order": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "ContainedObjects": [
+            {
+              "GUID": "9af4e2",
+              "Name": "Deck",
+              "Transform": {
+                "posX": -9.930439,
+                "posY": 2.646083,
+                "posZ": 3.57583737,
+                "rotX": 0.961117446,
+                "rotY": 180.048767,
+                "rotZ": 3.55097628,
+                "scaleX": 1.4,
+                "scaleY": 1.0,
+                "scaleZ": 1.4
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": true,
+              "Hands": false,
+              "SidewaysCard": false,
+              "DeckIDs": [
+                219300,
+                219300,
+                219300,
+                219300,
+                219300,
+                219300,
+                219300,
+                219300,
+                219300,
+                219300,
+                219300,
+                219300,
+                219300,
+                219300,
+                219300,
+                219300,
+                219300,
+                219300,
+                219300,
+                219300
+              ],
+              "CustomDeck": {
+                "2193": {
+                  "FaceURL": "https://i.imgur.com/YpcBTQt.jpg",
+                  "BackURL": "https://i.imgur.com/JFVhBS9.png",
+                  "NumWidth": 1,
+                  "NumHeight": 1,
+                  "BackIsHidden": true,
+                  "UniqueBack": false,
+                  "Type": 0
+                }
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "ContainedObjects": [
+                {
+                  "GUID": "db9613",
+                  "Name": "CardCustom",
+                  "Transform": {
+                    "posX": 2.74264336,
+                    "posY": 0.9736046,
+                    "posZ": 3.32671046,
+                    "rotX": 0.000740643765,
+                    "rotY": 180.0117,
+                    "rotZ": 0.000726244,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Blood Knight",
+                  "Description": "",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 219300,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2193": {
+                      "FaceURL": "https://i.imgur.com/YpcBTQt.jpg",
+                      "BackURL": "https://i.imgur.com/JFVhBS9.png",
+                      "NumWidth": 1,
+                      "NumHeight": 1,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "\n\n\n\n\nisEvent = false",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "3ba941",
+                  "Name": "CardCustom",
+                  "Transform": {
+                    "posX": 2.74264,
+                    "posY": 1.011975,
+                    "posZ": 3.32670975,
+                    "rotX": 359.7612,
+                    "rotY": 180.011078,
+                    "rotZ": 0.322558761,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Blood Knight",
+                  "Description": "",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 219300,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2193": {
+                      "FaceURL": "https://i.imgur.com/YpcBTQt.jpg",
+                      "BackURL": "https://i.imgur.com/JFVhBS9.png",
+                      "NumWidth": 1,
+                      "NumHeight": 1,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "\n\n\n\n\nisEvent = false",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "ed0c2b",
+                  "Name": "CardCustom",
+                  "Transform": {
+                    "posX": 2.58920312,
+                    "posY": 1.04987741,
+                    "posZ": 3.03572488,
+                    "rotX": 0.0248671882,
+                    "rotY": 180.012558,
+                    "rotZ": 0.375943959,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Blood Knight",
+                  "Description": "",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 219300,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2193": {
+                      "FaceURL": "https://i.imgur.com/YpcBTQt.jpg",
+                      "BackURL": "https://i.imgur.com/JFVhBS9.png",
+                      "NumWidth": 1,
+                      "NumHeight": 1,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "\n\n\n\n\nisEvent = false",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "c76785",
+                  "Name": "CardCustom",
+                  "Transform": {
+                    "posX": 3.1762166,
+                    "posY": 1.10226369,
+                    "posZ": 2.84486,
+                    "rotX": 0.0508538447,
+                    "rotY": 180.013275,
+                    "rotZ": 1.1919893,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Blood Knight",
+                  "Description": "",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 219300,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2193": {
+                      "FaceURL": "https://i.imgur.com/YpcBTQt.jpg",
+                      "BackURL": "https://i.imgur.com/JFVhBS9.png",
+                      "NumWidth": 1,
+                      "NumHeight": 1,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "\n\n\n\n\nisEvent = false",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "79346b",
+                  "Name": "CardCustom",
+                  "Transform": {
+                    "posX": 3.69198251,
+                    "posY": 1.100525,
+                    "posZ": 2.86436224,
+                    "rotX": 0.0426059552,
+                    "rotY": 180.013046,
+                    "rotZ": 1.28293693,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Blood Knight",
+                  "Description": "",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 219300,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2193": {
+                      "FaceURL": "https://i.imgur.com/YpcBTQt.jpg",
+                      "BackURL": "https://i.imgur.com/JFVhBS9.png",
+                      "NumWidth": 1,
+                      "NumHeight": 1,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "\n\n\n\n\nisEvent = false",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "276a1e",
+                  "Name": "CardCustom",
+                  "Transform": {
+                    "posX": 3.41731262,
+                    "posY": 1.11444151,
+                    "posZ": 2.853956,
+                    "rotX": 4.93350126E-05,
+                    "rotY": 180.011734,
+                    "rotZ": 1.151259,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Blood Knight",
+                  "Description": "",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 219300,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2193": {
+                      "FaceURL": "https://i.imgur.com/YpcBTQt.jpg",
+                      "BackURL": "https://i.imgur.com/JFVhBS9.png",
+                      "NumWidth": 1,
+                      "NumHeight": 1,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "\n\n\n\n\nisEvent = false",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "2004a9",
+                  "Name": "CardCustom",
+                  "Transform": {
+                    "posX": 3.261855,
+                    "posY": 1.11182606,
+                    "posZ": 2.83036852,
+                    "rotX": 2.927733E-05,
+                    "rotY": 180.011734,
+                    "rotZ": 0.400600255,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Blood Knight",
+                  "Description": "",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 219300,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2193": {
+                      "FaceURL": "https://i.imgur.com/YpcBTQt.jpg",
+                      "BackURL": "https://i.imgur.com/JFVhBS9.png",
+                      "NumWidth": 1,
+                      "NumHeight": 1,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "\n\n\n\n\nisEvent = false",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "3cf6b9",
+                  "Name": "CardCustom",
+                  "Transform": {
+                    "posX": 2.33441734,
+                    "posY": 1.12092662,
+                    "posZ": 2.653676,
+                    "rotX": 0.0246471055,
+                    "rotY": 180.0118,
+                    "rotZ": 0.252983153,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Blood Knight",
+                  "Description": "",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 219300,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2193": {
+                      "FaceURL": "https://i.imgur.com/YpcBTQt.jpg",
+                      "BackURL": "https://i.imgur.com/JFVhBS9.png",
+                      "NumWidth": 1,
+                      "NumHeight": 1,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "\n\n\n\n\nisEvent = false",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "929f04",
+                  "Name": "CardCustom",
+                  "Transform": {
+                    "posX": 1.8700819,
+                    "posY": 1.12737334,
+                    "posZ": 2.68920636,
+                    "rotX": 0.0360981748,
+                    "rotY": 180.01178,
+                    "rotZ": 0.156643778,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Blood Knight",
+                  "Description": "",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 219300,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2193": {
+                      "FaceURL": "https://i.imgur.com/YpcBTQt.jpg",
+                      "BackURL": "https://i.imgur.com/JFVhBS9.png",
+                      "NumWidth": 1,
+                      "NumHeight": 1,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "\n\n\n\n\nisEvent = false",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "929f04",
+                  "Name": "CardCustom",
+                  "Transform": {
+                    "posX": 1.52727151,
+                    "posY": 1.13543,
+                    "posZ": 2.62315,
+                    "rotX": 0.02627728,
+                    "rotY": 180.011765,
+                    "rotZ": 0.1105636,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Blood Knight",
+                  "Description": "",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 219300,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2193": {
+                      "FaceURL": "https://i.imgur.com/YpcBTQt.jpg",
+                      "BackURL": "https://i.imgur.com/JFVhBS9.png",
+                      "NumWidth": 1,
+                      "NumHeight": 1,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "\n\n\n\n\nisEvent = false",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "929f04",
+                  "Name": "CardCustom",
+                  "Transform": {
+                    "posX": 1.52727151,
+                    "posY": 1.14040637,
+                    "posZ": 2.62315,
+                    "rotX": 0.0470638834,
+                    "rotY": 180.011734,
+                    "rotZ": 0.0193012115,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Blood Knight",
+                  "Description": "",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 219300,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2193": {
+                      "FaceURL": "https://i.imgur.com/YpcBTQt.jpg",
+                      "BackURL": "https://i.imgur.com/JFVhBS9.png",
+                      "NumWidth": 1,
+                      "NumHeight": 1,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "\n\n\n\n\nisEvent = false",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "473b71",
+                  "Name": "CardCustom",
+                  "Transform": {
+                    "posX": 0.248870134,
+                    "posY": 0.9732057,
+                    "posZ": 2.89399338,
+                    "rotX": 0.00284792227,
+                    "rotY": 180.0133,
+                    "rotZ": 0.0183843188,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Blood Knight",
+                  "Description": "",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 219300,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2193": {
+                      "FaceURL": "https://i.imgur.com/YpcBTQt.jpg",
+                      "BackURL": "https://i.imgur.com/JFVhBS9.png",
+                      "NumWidth": 1,
+                      "NumHeight": 1,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "\n\n\n\n\nisEvent = false",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "929f04",
+                  "Name": "CardCustom",
+                  "Transform": {
+                    "posX": -0.646325946,
+                    "posY": 0.9731165,
+                    "posZ": 2.940588,
+                    "rotX": 0.00348682026,
+                    "rotY": 180.007767,
+                    "rotZ": 0.0226253662,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Blood Knight",
+                  "Description": "",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 219300,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2193": {
+                      "FaceURL": "https://i.imgur.com/YpcBTQt.jpg",
+                      "BackURL": "https://i.imgur.com/JFVhBS9.png",
+                      "NumWidth": 1,
+                      "NumHeight": 1,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "\n\n\n\n\nisEvent = false",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "8f95c2",
+                  "Name": "CardCustom",
+                  "Transform": {
+                    "posX": -1.45851421,
+                    "posY": 1.08410227,
+                    "posZ": 2.45706034,
+                    "rotX": 0.140401527,
+                    "rotY": 180.003326,
+                    "rotZ": 359.156281,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Blood Knight",
+                  "Description": "",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 219300,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2193": {
+                      "FaceURL": "https://i.imgur.com/YpcBTQt.jpg",
+                      "BackURL": "https://i.imgur.com/JFVhBS9.png",
+                      "NumWidth": 1,
+                      "NumHeight": 1,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "\n\n\n\n\nisEvent = false",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "31bdc4",
+                  "Name": "CardCustom",
+                  "Transform": {
+                    "posX": -0.431929141,
+                    "posY": 1.05539024,
+                    "posZ": 2.49509764,
+                    "rotX": 0.143676758,
+                    "rotY": 179.849716,
+                    "rotZ": 359.3615,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Blood Knight",
+                  "Description": "",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 219300,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2193": {
+                      "FaceURL": "https://i.imgur.com/YpcBTQt.jpg",
+                      "BackURL": "https://i.imgur.com/JFVhBS9.png",
+                      "NumWidth": 1,
+                      "NumHeight": 1,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "\n\n\n\n\nisEvent = false",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "73156f",
+                  "Name": "CardCustom",
+                  "Transform": {
+                    "posX": -1.33782649,
+                    "posY": 1.12347591,
+                    "posZ": 2.4618485,
+                    "rotX": 0.0256135631,
+                    "rotY": 180.012878,
+                    "rotZ": 359.200745,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Blood Knight",
+                  "Description": "",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 219300,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2193": {
+                      "FaceURL": "https://i.imgur.com/YpcBTQt.jpg",
+                      "BackURL": "https://i.imgur.com/JFVhBS9.png",
+                      "NumWidth": 1,
+                      "NumHeight": 1,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "\n\n\n\n\nisEvent = false",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "37081e",
+                  "Name": "CardCustom",
+                  "Transform": {
+                    "posX": -1.69867373,
+                    "posY": 1.1517272,
+                    "posZ": 2.43043876,
+                    "rotX": 359.894684,
+                    "rotY": 180.012589,
+                    "rotZ": 359.2178,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Blood Knight",
+                  "Description": "",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 219300,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2193": {
+                      "FaceURL": "https://i.imgur.com/YpcBTQt.jpg",
+                      "BackURL": "https://i.imgur.com/JFVhBS9.png",
+                      "NumWidth": 1,
+                      "NumHeight": 1,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "\n\n\n\n\nisEvent = false",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "929f04",
+                  "Name": "CardCustom",
+                  "Transform": {
+                    "posX": -1.507547,
+                    "posY": 1.10688984,
+                    "posZ": 2.36706138,
+                    "rotX": 359.993744,
+                    "rotY": 180.011826,
+                    "rotZ": 359.578552,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Blood Knight",
+                  "Description": "",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 219300,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2193": {
+                      "FaceURL": "https://i.imgur.com/YpcBTQt.jpg",
+                      "BackURL": "https://i.imgur.com/JFVhBS9.png",
+                      "NumWidth": 1,
+                      "NumHeight": 1,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "\n\n\n\n\nisEvent = false",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "929f04",
+                  "Name": "CardCustom",
+                  "Transform": {
+                    "posX": -1.282794,
+                    "posY": 1.11392391,
+                    "posZ": 2.340252,
+                    "rotX": 0.06605333,
+                    "rotY": 180.011581,
+                    "rotZ": 359.71225,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Blood Knight",
+                  "Description": "",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 219300,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2193": {
+                      "FaceURL": "https://i.imgur.com/YpcBTQt.jpg",
+                      "BackURL": "https://i.imgur.com/JFVhBS9.png",
+                      "NumWidth": 1,
+                      "NumHeight": 1,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "\n\n\n\n\nisEvent = false",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "929f04",
+                  "Name": "CardCustom",
+                  "Transform": {
+                    "posX": -0.4653586,
+                    "posY": 1.11836731,
+                    "posZ": 2.56549263,
+                    "rotX": 359.94165,
+                    "rotY": 180.011551,
+                    "rotZ": 0.356068552,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Blood Knight",
+                  "Description": "",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 219300,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2193": {
+                      "FaceURL": "https://i.imgur.com/YpcBTQt.jpg",
+                      "BackURL": "https://i.imgur.com/JFVhBS9.png",
+                      "NumWidth": 1,
+                      "NumHeight": 1,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "\n\n\n\n\nisEvent = false",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
