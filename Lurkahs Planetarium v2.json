@@ -518,7 +518,7 @@
                       "Type": 0
                     }
                   },
-                  "LuaScript": "hp = 5\natk = 3\ndice = 2\n\nisEvent = false",
+                  "LuaScript": "hp = 5\natk = 3\ndice = 2",
                   "LuaScriptState": "",
                   "XmlUI": ""
                 },
@@ -579,7 +579,7 @@
                       "Type": 0
                     }
                   },
-                  "LuaScript": "hp = 4\natk = 2\ndice = 4\nsoul = 1\nrewards = {CENTS = 0, LOOT = 0, TREASURES = 0, SOULS = 1}\n\nisEvent = false",
+                  "LuaScript": "hp = 4\natk = 2\ndice = 4\nsoul = 1\nrewards = {CENTS = 0, LOOT = 0, TREASURES = 0, SOULS = 1}",
                   "LuaScriptState": "",
                   "XmlUI": ""
                 }
