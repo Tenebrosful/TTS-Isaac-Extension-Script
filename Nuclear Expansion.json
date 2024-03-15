@@ -1,0 +1,2627 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "98dba4",
+      "Name": "Bag",
+      "Transform": {
+        "posX": -11.8056183,
+        "posY": 0.8258431,
+        "posZ": 10.3928766,
+        "rotX": 2.77965228E-05,
+        "rotY": 270.01297,
+        "rotZ": 1.20500608E-05,
+        "scaleX": 0.725000262,
+        "scaleY": 0.725000262,
+        "scaleZ": 0.725000262
+      },
+      "Nickname": "Nuclear Expansion",
+      "Description": "By Apollyon Woman",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 0.787783146,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "Tags": [
+        "EXPANSION"
+      ],
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "MaterialIndex": -1,
+      "MeshIndex": -1,
+      "Bag": {
+        "Order": 0
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "ContainedObjects": [
+        {
+          "GUID": "fddc12",
+          "Name": "Bag",
+          "Transform": {
+            "posX": -11.03455,
+            "posY": 2.32978535,
+            "posZ": 10.1579018,
+            "rotX": 359.540436,
+            "rotY": 0.0862826556,
+            "rotZ": 358.80365,
+            "scaleX": 0.7750002,
+            "scaleY": 0.7750002,
+            "scaleZ": 0.7750002
+          },
+          "Nickname": "Characters",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.7058823,
+            "g": 0.366520882,
+            "b": 0.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": false,
+          "Snap": false,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "MaterialIndex": -1,
+          "MeshIndex": -1,
+          "Bag": {
+            "Order": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "ContainedObjects": [
+            {
+              "GUID": "8dff98",
+              "Name": "Custom_Model_Bag",
+              "Transform": {
+                "posX": -6.52031946,
+                "posY": 2.737058,
+                "posZ": 10.2905293,
+                "rotX": 358.899719,
+                "rotY": 180.016556,
+                "rotZ": 358.277771,
+                "scaleX": 0.85,
+                "scaleY": 0.85,
+                "scaleZ": 0.85
+              },
+              "Nickname": "Fish (TNE)",
+              "Description": "character-pack",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "Tags": [
+                "C_BAG"
+              ],
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "MaterialIndex": -1,
+              "MeshIndex": -1,
+              "CustomMesh": {
+                "MeshURL": "http://pastebin.com/raw/PqfGKtKR",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1699529322651195885/CE3DB39E200DF3EB27D3F7039EA2F92BDC2DEE68/",
+                "NormalURL": "http://cloud-3.steamusercontent.com/ugc/861734852198391028/D75480247FA058266F0D423501D867407458666D/",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 0,
+                "TypeIndex": 6,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.5,
+                  "SpecularSharpness": 5.000001,
+                  "FresnelStrength": 0.4
+                },
+                "CastShadows": true
+              },
+              "Bag": {
+                "Order": 0
+              },
+              "LuaScript": "    CHARACTER_PLACER_GUID = \"d2c68a\"\n    CHARACTER_RANDOMIZER_GUID = \"bc6e13\"\n    PLAYER_COLORS = {'Red', 'Blue', 'Yellow', 'Green'}\n\n    spawnData = nil\n\n    function onLoad()\n      spawnData = loadSpawnData()\n      initButtons()\n    end\n\n    function loadSpawnData()\n      local characterPlacer = getObjectFromGUID(CHARACTER_PLACER_GUID)\n      return characterPlacer.getTable(\"SPAWN_DATA\")\n    end\n\n    function initButtons()\n      self.clearButtons()\n      self.interactable = false\n\n      self.createButton({\n        click_function = \"selectCharacter\",\n        function_owner = self,\n        label          = \"Select\",\n        position       = {0, 0.3, 1.7},\n        width          = 760,\n        height         = 260,\n        font_size      = 180,\n        font_color     = {1, 1, 1},\n        color          = {84/225, 110/255, 122/255}\n      })\n      self.createButton({\n        click_function = \"unlock\",\n        function_owner = self,\n        label          = \"Unlock\",\n        position       = {0.4, 0.3, -1.7},\n        width          = 400,\n        height         = 110,\n        font_size      = 80,\n        color          = {102/225, 187/255, 106/255}\n      })\n      self.createButton({\n        click_function = \"lock\",\n        function_owner = self,\n        label          = \"Lock\",\n        position       = {-0.4, 0.3, -1.7},\n        width          = 400,\n        height         = 110,\n        font_size      = 80,\n        color          = {239/225, 83/255, 80/255}\n      })\n    end\n\n    function selectCharacter(_, playerClickerColor)\n      if spawnData[playerClickerColor] == nil then\n        Global.call(\"printWarningTP\", {text = \"Invalid player color. No position points for this color. Available colors: [DA1917]Red[-], [1E87FF]Blue[-], [E6E42B]Yellow[-], [30B22A]Green[-]\", color =  playerClickerColor})\n        return\n      end\n\n      local characterRandomizer = getObjectFromGUID(CHARACTER_RANDOMIZER_GUID)\n      local waitForSelectCharacters = characterRandomizer.getTable(\"waitForSelectCharacters\")\n      if #waitForSelectCharacters[playerClickerColor] > 0 and not isCharacterInPullToSelect(waitForSelectCharacters) then\n        Global.call(\"printWarningTP\", {text = \"You can't select character from global pull while you select from random.\", color =  playerClickerColor})\n        return\n      end\n\n      if isCharacterInAnotherPlayerPullToSelect(playerClickerColor, waitForSelectCharacters) then\n        Global.call(\"printWarningTP\", {text = \"You can't select character from another player pull.\", color =  playerClickerColor})\n        return\n      end\n\n      cleanupSpawnedObj(playerClickerColor)\n\n      local spawnedObj = {}\n      local cardsInPackCount = self.getQuantity()\n      for i = 1, cardsInPackCount do\n        local obj = self.takeObject({ index = 0 })\n        local objClone = obj.clone()\n        Wait.frames(function() self.putObject(obj) end, 5)\n        local objDescription = objClone.getDescription()\n\n        local cardSpawnData = getCardSpawnData(objDescription, playerClickerColor)\n        objClone.setPositionSmooth(cardSpawnData.position, false)\n        objClone.setRotation(cardSpawnData.rotation)\n\n        if objClone.getStateId() != -1 then\n          for _, state in pairs(objClone.getStates()) do\n            table.insert(spawnedObj, state.guid)\n          end\n        end\n\n        table.insert(spawnedObj, objClone.guid)\n      end\n\n      updatePlayerSpawnedObj(playerClickerColor, spawnedObj)\n    end\n\n    function isCharacterInPullToSelect(waitForSelectCharacters)\n      local isInPull = false\n      for _, pull in pairs(waitForSelectCharacters) do\n        for _, obj in pairs(pull) do\n          if obj.guid == self.guid then\n            isInPull = true\n          end\n        end\n      end\n      return isInPull\n    end\n\n    function isCharacterInAnotherPlayerPullToSelect(clickedPlayerColor, waitForSelectCharacters)\n        local inAnotherPull = false\n        for _, color in pairs(PLAYER_COLORS) do\n            if (color != clickedPlayerColor) then\n                inAnotherPull = isCharacterInPlayerPullToSelect(color, waitForSelectCharacters)\n                if (inAnotherPull == true) then break end\n            end\n        end\n        return inAnotherPull\n    end\n\n    function isCharacterInPlayerPullToSelect(playerColor, waitForSelectCharacters)\n      local isInPull = false\n      for _, obj in pairs(waitForSelectCharacters[playerColor]) do\n        if obj.guid == self.guid then\n          isInPull = true\n        end\n      end\n      return isInPull\n    end\n\n    function cleanupSpawnedObj(playerColor)\n      local playerCharacterObj = getPlayerSpanedObj(playerColor)\n      if playerCharacterObj ~= nil then\n        for _, guid in pairs(playerCharacterObj) do\n          local obj = getObjectFromGUID(guid)\n          if obj ~= nil then\n            obj.destruct()\n          end\n        end\n        updatePlayerSpawnedObj(playerColor, {})\n      end\n    end\n\n    function getCardSpawnData(description, playerColor)\n      if description == \"character\" then\n        return spawnData[playerColor].character\n      elseif description == \"character-item\" or description == \"character-item-counter\" then\n        return spawnData[playerColor].characterItem\n      elseif description == \"character-soul\" then\n        return spawnData[playerColor].characterStartSoul\n      else\n        printToColor(\"[ef5350][ERROR][-] Unknown \" .. description .. \" card description matadata. Maybe you changed description of card?\" , playerColor)\n        return\n      end\n    end\n\n    function getPlayerSpanedObj(playercolor)\n      characterPlacer = getObjectFromGUID(CHARACTER_PLACER_GUID)\n      return characterPlacer.getTable(\"playersSpawnedCharacterObj\")[playercolor]\n    end\n\n    function updatePlayerSpawnedObj(playerColor, spawnedObj)\n      characterPlacer = getObjectFromGUID(CHARACTER_PLACER_GUID)\n      local playersSpawnedCharacterObj = characterPlacer.getTable(\"playersSpawnedCharacterObj\")\n      playersSpawnedCharacterObj[playerColor] = spawnedObj\n      characterPlacer.setTable(\"playersSpawnedCharacterObj\", playersSpawnedCharacterObj)\n    end\n\n    function unlock(obj)\n      obj.interactable = true\n    end\n\n    function lock(obj)\n        obj.interactable = false\n    end\n\n    -- For extended calls\n    function selectCharacterByCall(params)\n      selectCharacter(nil, params.playerColor)\n    end\n\n    function isCharacterInPullToSelectByCall(params)\n      return isCharacterInPullToSelect(params.waitForSelectCharacters)\n    end\n  ",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "ContainedObjects": [
+                {
+                  "GUID": "740efb",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": -9.21151352,
+                    "posY": 1.32223749,
+                    "posZ": 2.64815545,
+                    "rotX": -0.0020560273,
+                    "rotY": 180.0,
+                    "rotZ": 0.00229499349,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Fish",
+                  "Description": "US_character",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "Active",
+                    "Character"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 5200,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "52": {
+                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/987883208224000343/FD150AE68328E805699807A3CD4199D98BB803DF/",
+                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/987883208224002004/E4AAFF1A1425F9B3C650DD77904DA0C52A009CF0/",
+                      "NumWidth": 5,
+                      "NumHeight": 3,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "function getHp()\n  return 2\nend",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "cc36f9",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": -8.953088,
+                    "posY": 1.32229662,
+                    "posZ": 2.29766321,
+                    "rotX": -0.0006291466,
+                    "rotY": 179.999939,
+                    "rotZ": 0.00180157227,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Roll",
+                  "Description": "US_character-item",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.709803939,
+                    "g": 0.709803939,
+                    "b": 0.709803939
+                  },
+                  "Tags": [
+                    "Eternal",
+                    "Item"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 5300,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "53": {
+                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/987883208224006528/26FDF25627208F413EF2A282629AA64CAEFB4C3F/",
+                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/987883208220073879/B7262893D76BC4EA26F59DCE57903EBE93871685/",
+                      "NumWidth": 5,
+                      "NumHeight": 3,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                }
+              ]
+            },
+            {
+              "GUID": "2a597d",
+              "Name": "Custom_Model_Bag",
+              "Transform": {
+                "posX": -6.39679956,
+                "posY": 2.7392,
+                "posZ": 9.838326,
+                "rotX": 1.24774814,
+                "rotY": 180.00206,
+                "rotZ": 0.195306554,
+                "scaleX": 0.85,
+                "scaleY": 0.85,
+                "scaleZ": 0.85
+              },
+              "Nickname": "Yung Venuz (TNE)",
+              "Description": "character-pack",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "Tags": [
+                "C_BAG"
+              ],
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "MaterialIndex": -1,
+              "MeshIndex": -1,
+              "CustomMesh": {
+                "MeshURL": "http://pastebin.com/raw/PqfGKtKR",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1725423543396420853/10409D921EAFEEC9DA47A51AB80D584642F637D0/",
+                "NormalURL": "http://cloud-3.steamusercontent.com/ugc/861734852198391028/D75480247FA058266F0D423501D867407458666D/",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 0,
+                "TypeIndex": 6,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.5,
+                  "SpecularSharpness": 5.000001,
+                  "FresnelStrength": 0.4
+                },
+                "CastShadows": true
+              },
+              "Bag": {
+                "Order": 0
+              },
+              "LuaScript": "    CHARACTER_PLACER_GUID = \"d2c68a\"\n    CHARACTER_RANDOMIZER_GUID = \"bc6e13\"\n    PLAYER_COLORS = {'Red', 'Blue', 'Yellow', 'Green'}\n\n    spawnData = nil\n\n    function onLoad()\n      spawnData = loadSpawnData()\n      initButtons()\n    end\n\n    function loadSpawnData()\n      local characterPlacer = getObjectFromGUID(CHARACTER_PLACER_GUID)\n      return characterPlacer.getTable(\"SPAWN_DATA\")\n    end\n\n    function initButtons()\n      self.clearButtons()\n      self.interactable = false\n\n      self.createButton({\n        click_function = \"selectCharacter\",\n        function_owner = self,\n        label          = \"Select\",\n        position       = {0, 0.3, 1.7},\n        width          = 760,\n        height         = 260,\n        font_size      = 180,\n        font_color     = {1, 1, 1},\n        color          = {84/225, 110/255, 122/255}\n      })\n      self.createButton({\n        click_function = \"unlock\",\n        function_owner = self,\n        label          = \"Unlock\",\n        position       = {0.4, 0.3, -1.7},\n        width          = 400,\n        height         = 110,\n        font_size      = 80,\n        color          = {102/225, 187/255, 106/255}\n      })\n      self.createButton({\n        click_function = \"lock\",\n        function_owner = self,\n        label          = \"Lock\",\n        position       = {-0.4, 0.3, -1.7},\n        width          = 400,\n        height         = 110,\n        font_size      = 80,\n        color          = {239/225, 83/255, 80/255}\n      })\n    end\n\n    function selectCharacter(_, playerClickerColor)\n      if spawnData[playerClickerColor] == nil then\n        Global.call(\"printWarningTP\", {text = \"Invalid player color. No position points for this color. Available colors: [DA1917]Red[-], [1E87FF]Blue[-], [E6E42B]Yellow[-], [30B22A]Green[-]\", color =  playerClickerColor})\n        return\n      end\n\n      local characterRandomizer = getObjectFromGUID(CHARACTER_RANDOMIZER_GUID)\n      local waitForSelectCharacters = characterRandomizer.getTable(\"waitForSelectCharacters\")\n      if #waitForSelectCharacters[playerClickerColor] > 0 and not isCharacterInPullToSelect(waitForSelectCharacters) then\n        Global.call(\"printWarningTP\", {text = \"You can't select character from global pull while you select from random.\", color =  playerClickerColor})\n        return\n      end\n\n      if isCharacterInAnotherPlayerPullToSelect(playerClickerColor, waitForSelectCharacters) then\n        Global.call(\"printWarningTP\", {text = \"You can't select character from another player pull.\", color =  playerClickerColor})\n        return\n      end\n\n      cleanupSpawnedObj(playerClickerColor)\n\n      local spawnedObj = {}\n      local cardsInPackCount = self.getQuantity()\n      for i = 1, cardsInPackCount do\n        local obj = self.takeObject({ index = 0 })\n        local objClone = obj.clone()\n        Wait.frames(function() self.putObject(obj) end, 5)\n        local objDescription = objClone.getDescription()\n\n        local cardSpawnData = getCardSpawnData(objDescription, playerClickerColor)\n        objClone.setPositionSmooth(cardSpawnData.position, false)\n        objClone.setRotation(cardSpawnData.rotation)\n\n        if objClone.getStateId() != -1 then\n          for _, state in pairs(objClone.getStates()) do\n            table.insert(spawnedObj, state.guid)\n          end\n        end\n\n        table.insert(spawnedObj, objClone.guid)\n      end\n\n      updatePlayerSpawnedObj(playerClickerColor, spawnedObj)\n    end\n\n    function isCharacterInPullToSelect(waitForSelectCharacters)\n      local isInPull = false\n      for _, pull in pairs(waitForSelectCharacters) do\n        for _, obj in pairs(pull) do\n          if obj.guid == self.guid then\n            isInPull = true\n          end\n        end\n      end\n      return isInPull\n    end\n\n    function isCharacterInAnotherPlayerPullToSelect(clickedPlayerColor, waitForSelectCharacters)\n        local inAnotherPull = false\n        for _, color in pairs(PLAYER_COLORS) do\n            if (color != clickedPlayerColor) then\n                inAnotherPull = isCharacterInPlayerPullToSelect(color, waitForSelectCharacters)\n                if (inAnotherPull == true) then break end\n            end\n        end\n        return inAnotherPull\n    end\n\n    function isCharacterInPlayerPullToSelect(playerColor, waitForSelectCharacters)\n      local isInPull = false\n      for _, obj in pairs(waitForSelectCharacters[playerColor]) do\n        if obj.guid == self.guid then\n          isInPull = true\n        end\n      end\n      return isInPull\n    end\n\n    function cleanupSpawnedObj(playerColor)\n      local playerCharacterObj = getPlayerSpanedObj(playerColor)\n      if playerCharacterObj ~= nil then\n        for _, guid in pairs(playerCharacterObj) do\n          local obj = getObjectFromGUID(guid)\n          if obj ~= nil then\n            obj.destruct()\n          end\n        end\n        updatePlayerSpawnedObj(playerColor, {})\n      end\n    end\n\n    function getCardSpawnData(description, playerColor)\n      if description == \"character\" then\n        return spawnData[playerColor].character\n      elseif description == \"character-item\" or description == \"character-item-counter\" then\n        return spawnData[playerColor].characterItem\n      elseif description == \"character-soul\" then\n        return spawnData[playerColor].characterStartSoul\n      else\n        printToColor(\"[ef5350][ERROR][-] Unknown \" .. description .. \" card description matadata. Maybe you changed description of card?\" , playerColor)\n        return\n      end\n    end\n\n    function getPlayerSpanedObj(playercolor)\n      characterPlacer = getObjectFromGUID(CHARACTER_PLACER_GUID)\n      return characterPlacer.getTable(\"playersSpawnedCharacterObj\")[playercolor]\n    end\n\n    function updatePlayerSpawnedObj(playerColor, spawnedObj)\n      characterPlacer = getObjectFromGUID(CHARACTER_PLACER_GUID)\n      local playersSpawnedCharacterObj = characterPlacer.getTable(\"playersSpawnedCharacterObj\")\n      playersSpawnedCharacterObj[playerColor] = spawnedObj\n      characterPlacer.setTable(\"playersSpawnedCharacterObj\", playersSpawnedCharacterObj)\n    end\n\n    function unlock(obj)\n      obj.interactable = true\n    end\n\n    function lock(obj)\n        obj.interactable = false\n    end\n\n    -- For extended calls\n    function selectCharacterByCall(params)\n      selectCharacter(nil, params.playerColor)\n    end\n\n    function isCharacterInPullToSelectByCall(params)\n      return isCharacterInPullToSelect(params.waitForSelectCharacters)\n    end\n  ",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "ContainedObjects": [
+                {
+                  "GUID": "a5515a",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": -5.01159859,
+                    "posY": 1.32226086,
+                    "posZ": 1.61872959,
+                    "rotX": -9.18034857E-05,
+                    "rotY": 179.980789,
+                    "rotZ": 0.00386111555,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Y.V. a.k.a. Yung Venuz",
+                  "Description": "US_character",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "Active",
+                    "Character"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 5204,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "52": {
+                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/987883208224000343/FD150AE68328E805699807A3CD4199D98BB803DF/",
+                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/987883208224002004/E4AAFF1A1425F9B3C650DD77904DA0C52A009CF0/",
+                      "NumWidth": 5,
+                      "NumHeight": 3,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "61bb91",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": -5.60888672,
+                    "posY": 1.32233691,
+                    "posZ": 1.84524786,
+                    "rotX": 0.000505001459,
+                    "rotY": 179.973465,
+                    "rotZ": -0.000104674509,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "PoP-PoP",
+                  "Description": "US_character-item",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.709803939,
+                    "g": 0.709803939,
+                    "b": 0.709803939
+                  },
+                  "Tags": [
+                    "Active",
+                    "Eternal",
+                    "Item"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 5304,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "53": {
+                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/987883208224006528/26FDF25627208F413EF2A282629AA64CAEFB4C3F/",
+                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/987883208220073879/B7262893D76BC4EA26F59DCE57903EBE93871685/",
+                      "NumWidth": 5,
+                      "NumHeight": 3,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                }
+              ]
+            },
+            {
+              "GUID": "5180df",
+              "Name": "Custom_Model_Bag",
+              "Transform": {
+                "posX": -6.347592,
+                "posY": 2.7115624,
+                "posZ": 9.403235,
+                "rotX": 2.71353269,
+                "rotY": 180.018127,
+                "rotZ": 0.7660573,
+                "scaleX": 0.85,
+                "scaleY": 0.85,
+                "scaleZ": 0.85
+              },
+              "Nickname": "Chicken (TNE)",
+              "Description": "character-pack",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "Tags": [
+                "C_BAG"
+              ],
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "MaterialIndex": -1,
+              "MeshIndex": -1,
+              "CustomMesh": {
+                "MeshURL": "http://pastebin.com/raw/PqfGKtKR",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1699529322651198527/B6DFDDC8643841ED5D47C67931E7EB2A0990F726/",
+                "NormalURL": "http://cloud-3.steamusercontent.com/ugc/861734852198391028/D75480247FA058266F0D423501D867407458666D/",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 0,
+                "TypeIndex": 6,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.5,
+                  "SpecularSharpness": 5.000001,
+                  "FresnelStrength": 0.4
+                },
+                "CastShadows": true
+              },
+              "Bag": {
+                "Order": 0
+              },
+              "LuaScript": "    CHARACTER_PLACER_GUID = \"d2c68a\"\n    CHARACTER_RANDOMIZER_GUID = \"bc6e13\"\n    PLAYER_COLORS = {'Red', 'Blue', 'Yellow', 'Green'}\n\n    spawnData = nil\n\n    function onLoad()\n      spawnData = loadSpawnData()\n      initButtons()\n    end\n\n    function loadSpawnData()\n      local characterPlacer = getObjectFromGUID(CHARACTER_PLACER_GUID)\n      return characterPlacer.getTable(\"SPAWN_DATA\")\n    end\n\n    function initButtons()\n      self.clearButtons()\n      self.interactable = false\n\n      self.createButton({\n        click_function = \"selectCharacter\",\n        function_owner = self,\n        label          = \"Select\",\n        position       = {0, 0.3, 1.7},\n        width          = 760,\n        height         = 260,\n        font_size      = 180,\n        font_color     = {1, 1, 1},\n        color          = {84/225, 110/255, 122/255}\n      })\n      self.createButton({\n        click_function = \"unlock\",\n        function_owner = self,\n        label          = \"Unlock\",\n        position       = {0.4, 0.3, -1.7},\n        width          = 400,\n        height         = 110,\n        font_size      = 80,\n        color          = {102/225, 187/255, 106/255}\n      })\n      self.createButton({\n        click_function = \"lock\",\n        function_owner = self,\n        label          = \"Lock\",\n        position       = {-0.4, 0.3, -1.7},\n        width          = 400,\n        height         = 110,\n        font_size      = 80,\n        color          = {239/225, 83/255, 80/255}\n      })\n    end\n\n    function selectCharacter(_, playerClickerColor)\n      if spawnData[playerClickerColor] == nil then\n        Global.call(\"printWarningTP\", {text = \"Invalid player color. No position points for this color. Available colors: [DA1917]Red[-], [1E87FF]Blue[-], [E6E42B]Yellow[-], [30B22A]Green[-]\", color =  playerClickerColor})\n        return\n      end\n\n      local characterRandomizer = getObjectFromGUID(CHARACTER_RANDOMIZER_GUID)\n      local waitForSelectCharacters = characterRandomizer.getTable(\"waitForSelectCharacters\")\n      if #waitForSelectCharacters[playerClickerColor] > 0 and not isCharacterInPullToSelect(waitForSelectCharacters) then\n        Global.call(\"printWarningTP\", {text = \"You can't select character from global pull while you select from random.\", color =  playerClickerColor})\n        return\n      end\n\n      if isCharacterInAnotherPlayerPullToSelect(playerClickerColor, waitForSelectCharacters) then\n        Global.call(\"printWarningTP\", {text = \"You can't select character from another player pull.\", color =  playerClickerColor})\n        return\n      end\n\n      cleanupSpawnedObj(playerClickerColor)\n\n      local spawnedObj = {}\n      local cardsInPackCount = self.getQuantity()\n      for i = 1, cardsInPackCount do\n        local obj = self.takeObject({ index = 0 })\n        local objClone = obj.clone()\n        Wait.frames(function() self.putObject(obj) end, 5)\n        local objDescription = objClone.getDescription()\n\n        local cardSpawnData = getCardSpawnData(objDescription, playerClickerColor)\n        objClone.setPositionSmooth(cardSpawnData.position, false)\n        objClone.setRotation(cardSpawnData.rotation)\n\n        if objClone.getStateId() != -1 then\n          for _, state in pairs(objClone.getStates()) do\n            table.insert(spawnedObj, state.guid)\n          end\n        end\n\n        table.insert(spawnedObj, objClone.guid)\n      end\n\n      updatePlayerSpawnedObj(playerClickerColor, spawnedObj)\n    end\n\n    function isCharacterInPullToSelect(waitForSelectCharacters)\n      local isInPull = false\n      for _, pull in pairs(waitForSelectCharacters) do\n        for _, obj in pairs(pull) do\n          if obj.guid == self.guid then\n            isInPull = true\n          end\n        end\n      end\n      return isInPull\n    end\n\n    function isCharacterInAnotherPlayerPullToSelect(clickedPlayerColor, waitForSelectCharacters)\n        local inAnotherPull = false\n        for _, color in pairs(PLAYER_COLORS) do\n            if (color != clickedPlayerColor) then\n                inAnotherPull = isCharacterInPlayerPullToSelect(color, waitForSelectCharacters)\n                if (inAnotherPull == true) then break end\n            end\n        end\n        return inAnotherPull\n    end\n\n    function isCharacterInPlayerPullToSelect(playerColor, waitForSelectCharacters)\n      local isInPull = false\n      for _, obj in pairs(waitForSelectCharacters[playerColor]) do\n        if obj.guid == self.guid then\n          isInPull = true\n        end\n      end\n      return isInPull\n    end\n\n    function cleanupSpawnedObj(playerColor)\n      local playerCharacterObj = getPlayerSpanedObj(playerColor)\n      if playerCharacterObj ~= nil then\n        for _, guid in pairs(playerCharacterObj) do\n          local obj = getObjectFromGUID(guid)\n          if obj ~= nil then\n            obj.destruct()\n          end\n        end\n        updatePlayerSpawnedObj(playerColor, {})\n      end\n    end\n\n    function getCardSpawnData(description, playerColor)\n      if description == \"character\" then\n        return spawnData[playerColor].character\n      elseif description == \"character-item\" or description == \"character-item-counter\" then\n        return spawnData[playerColor].characterItem\n      elseif description == \"character-soul\" then\n        return spawnData[playerColor].characterStartSoul\n      else\n        printToColor(\"[ef5350][ERROR][-] Unknown \" .. description .. \" card description matadata. Maybe you changed description of card?\" , playerColor)\n        return\n      end\n    end\n\n    function getPlayerSpanedObj(playercolor)\n      characterPlacer = getObjectFromGUID(CHARACTER_PLACER_GUID)\n      return characterPlacer.getTable(\"playersSpawnedCharacterObj\")[playercolor]\n    end\n\n    function updatePlayerSpawnedObj(playerColor, spawnedObj)\n      characterPlacer = getObjectFromGUID(CHARACTER_PLACER_GUID)\n      local playersSpawnedCharacterObj = characterPlacer.getTable(\"playersSpawnedCharacterObj\")\n      playersSpawnedCharacterObj[playerColor] = spawnedObj\n      characterPlacer.setTable(\"playersSpawnedCharacterObj\", playersSpawnedCharacterObj)\n    end\n\n    function unlock(obj)\n      obj.interactable = true\n    end\n\n    function lock(obj)\n        obj.interactable = false\n    end\n\n    -- For extended calls\n    function selectCharacterByCall(params)\n      selectCharacter(nil, params.playerColor)\n    end\n\n    function isCharacterInPullToSelectByCall(params)\n      return isCharacterInPullToSelect(params.waitForSelectCharacters)\n    end\n  ",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "ContainedObjects": [
+                {
+                  "GUID": "c80575",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": -0.9552613,
+                    "posY": 1.32189918,
+                    "posZ": -0.9808166,
+                    "rotX": 359.991119,
+                    "rotY": 179.9823,
+                    "rotZ": 0.01624471,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Chicken",
+                  "Description": "US_character",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "Active",
+                    "Character"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 5203,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "52": {
+                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/987883208224000343/FD150AE68328E805699807A3CD4199D98BB803DF/",
+                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/987883208224002004/E4AAFF1A1425F9B3C650DD77904DA0C52A009CF0/",
+                      "NumWidth": 5,
+                      "NumHeight": 3,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "function getHP()\n  return 2\nend",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "a56897",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": -1.37558579,
+                    "posY": 1.322233,
+                    "posZ": -1.80121052,
+                    "rotX": 0.000306894071,
+                    "rotY": 180.024368,
+                    "rotZ": 0.0007807164,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Headless",
+                  "Description": "US_character-item",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.709803939,
+                    "g": 0.709803939,
+                    "b": 0.709803939
+                  },
+                  "Tags": [
+                    "Eternal",
+                    "Item"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 5303,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "53": {
+                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/987883208224006528/26FDF25627208F413EF2A282629AA64CAEFB4C3F/",
+                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/987883208220073879/B7262893D76BC4EA26F59DCE57903EBE93871685/",
+                      "NumWidth": 5,
+                      "NumHeight": 3,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                }
+              ]
+            },
+            {
+              "GUID": "a58629",
+              "Name": "Custom_Model_Bag",
+              "Transform": {
+                "posX": -6.34033728,
+                "posY": 2.703671,
+                "posZ": 10.8446932,
+                "rotX": 357.050323,
+                "rotY": 179.885208,
+                "rotZ": 0.7680428,
+                "scaleX": 0.85,
+                "scaleY": 0.85,
+                "scaleZ": 0.85
+              },
+              "Nickname": "Steroids (TNE)",
+              "Description": "character-pack",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "Tags": [
+                "C_BAG"
+              ],
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "MaterialIndex": -1,
+              "MeshIndex": -1,
+              "CustomMesh": {
+                "MeshURL": "http://pastebin.com/raw/PqfGKtKR",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1699529322651196824/799D435C2907502041D057089EFFFF8D7818286E/",
+                "NormalURL": "http://cloud-3.steamusercontent.com/ugc/861734852198391028/D75480247FA058266F0D423501D867407458666D/",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 0,
+                "TypeIndex": 6,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.5,
+                  "SpecularSharpness": 5.000001,
+                  "FresnelStrength": 0.4
+                },
+                "CastShadows": true
+              },
+              "Bag": {
+                "Order": 0
+              },
+              "LuaScript": "    CHARACTER_PLACER_GUID = \"d2c68a\"\n    CHARACTER_RANDOMIZER_GUID = \"bc6e13\"\n    PLAYER_COLORS = {'Red', 'Blue', 'Yellow', 'Green'}\n\n    spawnData = nil\n\n    function onLoad()\n      spawnData = loadSpawnData()\n      initButtons()\n    end\n\n    function loadSpawnData()\n      local characterPlacer = getObjectFromGUID(CHARACTER_PLACER_GUID)\n      return characterPlacer.getTable(\"SPAWN_DATA\")\n    end\n\n    function initButtons()\n      self.clearButtons()\n      self.interactable = false\n\n      self.createButton({\n        click_function = \"selectCharacter\",\n        function_owner = self,\n        label          = \"Select\",\n        position       = {0, 0.3, 1.7},\n        width          = 760,\n        height         = 260,\n        font_size      = 180,\n        font_color     = {1, 1, 1},\n        color          = {84/225, 110/255, 122/255}\n      })\n      self.createButton({\n        click_function = \"unlock\",\n        function_owner = self,\n        label          = \"Unlock\",\n        position       = {0.4, 0.3, -1.7},\n        width          = 400,\n        height         = 110,\n        font_size      = 80,\n        color          = {102/225, 187/255, 106/255}\n      })\n      self.createButton({\n        click_function = \"lock\",\n        function_owner = self,\n        label          = \"Lock\",\n        position       = {-0.4, 0.3, -1.7},\n        width          = 400,\n        height         = 110,\n        font_size      = 80,\n        color          = {239/225, 83/255, 80/255}\n      })\n    end\n\n    function selectCharacter(_, playerClickerColor)\n      if spawnData[playerClickerColor] == nil then\n        Global.call(\"printWarningTP\", {text = \"Invalid player color. No position points for this color. Available colors: [DA1917]Red[-], [1E87FF]Blue[-], [E6E42B]Yellow[-], [30B22A]Green[-]\", color =  playerClickerColor})\n        return\n      end\n\n      local characterRandomizer = getObjectFromGUID(CHARACTER_RANDOMIZER_GUID)\n      local waitForSelectCharacters = characterRandomizer.getTable(\"waitForSelectCharacters\")\n      if #waitForSelectCharacters[playerClickerColor] > 0 and not isCharacterInPullToSelect(waitForSelectCharacters) then\n        Global.call(\"printWarningTP\", {text = \"You can't select character from global pull while you select from random.\", color =  playerClickerColor})\n        return\n      end\n\n      if isCharacterInAnotherPlayerPullToSelect(playerClickerColor, waitForSelectCharacters) then\n        Global.call(\"printWarningTP\", {text = \"You can't select character from another player pull.\", color =  playerClickerColor})\n        return\n      end\n\n      cleanupSpawnedObj(playerClickerColor)\n\n      local spawnedObj = {}\n      local cardsInPackCount = self.getQuantity()\n      for i = 1, cardsInPackCount do\n        local obj = self.takeObject({ index = 0 })\n        local objClone = obj.clone()\n        Wait.frames(function() self.putObject(obj) end, 5)\n        local objDescription = objClone.getDescription()\n\n        local cardSpawnData = getCardSpawnData(objDescription, playerClickerColor)\n        objClone.setPositionSmooth(cardSpawnData.position, false)\n        objClone.setRotation(cardSpawnData.rotation)\n\n        if objClone.getStateId() != -1 then\n          for _, state in pairs(objClone.getStates()) do\n            table.insert(spawnedObj, state.guid)\n          end\n        end\n\n        table.insert(spawnedObj, objClone.guid)\n      end\n\n      updatePlayerSpawnedObj(playerClickerColor, spawnedObj)\n    end\n\n    function isCharacterInPullToSelect(waitForSelectCharacters)\n      local isInPull = false\n      for _, pull in pairs(waitForSelectCharacters) do\n        for _, obj in pairs(pull) do\n          if obj.guid == self.guid then\n            isInPull = true\n          end\n        end\n      end\n      return isInPull\n    end\n\n    function isCharacterInAnotherPlayerPullToSelect(clickedPlayerColor, waitForSelectCharacters)\n        local inAnotherPull = false\n        for _, color in pairs(PLAYER_COLORS) do\n            if (color != clickedPlayerColor) then\n                inAnotherPull = isCharacterInPlayerPullToSelect(color, waitForSelectCharacters)\n                if (inAnotherPull == true) then break end\n            end\n        end\n        return inAnotherPull\n    end\n\n    function isCharacterInPlayerPullToSelect(playerColor, waitForSelectCharacters)\n      local isInPull = false\n      for _, obj in pairs(waitForSelectCharacters[playerColor]) do\n        if obj.guid == self.guid then\n          isInPull = true\n        end\n      end\n      return isInPull\n    end\n\n    function cleanupSpawnedObj(playerColor)\n      local playerCharacterObj = getPlayerSpanedObj(playerColor)\n      if playerCharacterObj ~= nil then\n        for _, guid in pairs(playerCharacterObj) do\n          local obj = getObjectFromGUID(guid)\n          if obj ~= nil then\n            obj.destruct()\n          end\n        end\n        updatePlayerSpawnedObj(playerColor, {})\n      end\n    end\n\n    function getCardSpawnData(description, playerColor)\n      if description == \"character\" then\n        return spawnData[playerColor].character\n      elseif description == \"character-item\" or description == \"character-item-counter\" then\n        return spawnData[playerColor].characterItem\n      elseif description == \"character-soul\" then\n        return spawnData[playerColor].characterStartSoul\n      else\n        printToColor(\"[ef5350][ERROR][-] Unknown \" .. description .. \" card description matadata. Maybe you changed description of card?\" , playerColor)\n        return\n      end\n    end\n\n    function getPlayerSpanedObj(playercolor)\n      characterPlacer = getObjectFromGUID(CHARACTER_PLACER_GUID)\n      return characterPlacer.getTable(\"playersSpawnedCharacterObj\")[playercolor]\n    end\n\n    function updatePlayerSpawnedObj(playerColor, spawnedObj)\n      characterPlacer = getObjectFromGUID(CHARACTER_PLACER_GUID)\n      local playersSpawnedCharacterObj = characterPlacer.getTable(\"playersSpawnedCharacterObj\")\n      playersSpawnedCharacterObj[playerColor] = spawnedObj\n      characterPlacer.setTable(\"playersSpawnedCharacterObj\", playersSpawnedCharacterObj)\n    end\n\n    function unlock(obj)\n      obj.interactable = true\n    end\n\n    function lock(obj)\n        obj.interactable = false\n    end\n\n    -- For extended calls\n    function selectCharacterByCall(params)\n      selectCharacter(nil, params.playerColor)\n    end\n\n    function isCharacterInPullToSelectByCall(params)\n      return isCharacterInPullToSelect(params.waitForSelectCharacters)\n    end\n  ",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "ContainedObjects": [
+                {
+                  "GUID": "ec0fc0",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": -1.42433643,
+                    "posY": 1.322478,
+                    "posZ": 6.698584,
+                    "rotX": 0.000174224828,
+                    "rotY": 180.005737,
+                    "rotZ": 0.000236885666,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Steroids",
+                  "Description": "US_character",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "Active",
+                    "Character"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 20607,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "206": {
+                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/993513973464476367/6F7A1A792288C9555DE51B38E5DB673AC44AA0D3/",
+                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/987883208224002004/E4AAFF1A1425F9B3C650DD77904DA0C52A009CF0/",
+                      "NumWidth": 5,
+                      "NumHeight": 3,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "function getHP()\n  return 2\nend",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "aabee5",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": -2.16193223,
+                    "posY": 1.32206106,
+                    "posZ": 6.388384,
+                    "rotX": 0.000280911219,
+                    "rotY": 180.025375,
+                    "rotZ": -0.00146724191,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Dual-Wielo",
+                  "Description": "US_character-item",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.709803939,
+                    "g": 0.709803939,
+                    "b": 0.709803939
+                  },
+                  "Tags": [
+                    "Eternal",
+                    "Item"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 63407,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "634": {
+                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/993513973464486089/7CBC7A63ED7CCFB77781F488A580EC94806D0D78/",
+                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/987883208220073879/B7262893D76BC4EA26F59DCE57903EBE93871685/",
+                      "NumWidth": 5,
+                      "NumHeight": 3,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                }
+              ]
+            },
+            {
+              "GUID": "0d58ae",
+              "Name": "Custom_Model_Bag",
+              "Transform": {
+                "posX": -6.28546,
+                "posY": 2.71624112,
+                "posZ": 10.64695,
+                "rotX": 357.515167,
+                "rotY": 179.889618,
+                "rotZ": 1.59298635,
+                "scaleX": 0.85,
+                "scaleY": 0.85,
+                "scaleZ": 0.85
+              },
+              "Nickname": "Robot (TNE)",
+              "Description": "character-pack",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "Tags": [
+                "C_BAG"
+              ],
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "MaterialIndex": -1,
+              "MeshIndex": -1,
+              "CustomMesh": {
+                "MeshURL": "http://pastebin.com/raw/PqfGKtKR",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1699529322651197884/D111D82540ABD1D107FF5935249EEC69D957F5E2/",
+                "NormalURL": "http://cloud-3.steamusercontent.com/ugc/861734852198391028/D75480247FA058266F0D423501D867407458666D/",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 0,
+                "TypeIndex": 6,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.5,
+                  "SpecularSharpness": 5.000001,
+                  "FresnelStrength": 0.4
+                },
+                "CastShadows": true
+              },
+              "Bag": {
+                "Order": 0
+              },
+              "LuaScript": "    CHARACTER_PLACER_GUID = \"d2c68a\"\n    CHARACTER_RANDOMIZER_GUID = \"bc6e13\"\n    PLAYER_COLORS = {'Red', 'Blue', 'Yellow', 'Green'}\n\n    spawnData = nil\n\n    function onLoad()\n      spawnData = loadSpawnData()\n      initButtons()\n    end\n\n    function loadSpawnData()\n      local characterPlacer = getObjectFromGUID(CHARACTER_PLACER_GUID)\n      return characterPlacer.getTable(\"SPAWN_DATA\")\n    end\n\n    function initButtons()\n      self.clearButtons()\n      self.interactable = false\n\n      self.createButton({\n        click_function = \"selectCharacter\",\n        function_owner = self,\n        label          = \"Select\",\n        position       = {0, 0.3, 1.7},\n        width          = 760,\n        height         = 260,\n        font_size      = 180,\n        font_color     = {1, 1, 1},\n        color          = {84/225, 110/255, 122/255}\n      })\n      self.createButton({\n        click_function = \"unlock\",\n        function_owner = self,\n        label          = \"Unlock\",\n        position       = {0.4, 0.3, -1.7},\n        width          = 400,\n        height         = 110,\n        font_size      = 80,\n        color          = {102/225, 187/255, 106/255}\n      })\n      self.createButton({\n        click_function = \"lock\",\n        function_owner = self,\n        label          = \"Lock\",\n        position       = {-0.4, 0.3, -1.7},\n        width          = 400,\n        height         = 110,\n        font_size      = 80,\n        color          = {239/225, 83/255, 80/255}\n      })\n    end\n\n    function selectCharacter(_, playerClickerColor)\n      if spawnData[playerClickerColor] == nil then\n        Global.call(\"printWarningTP\", {text = \"Invalid player color. No position points for this color. Available colors: [DA1917]Red[-], [1E87FF]Blue[-], [E6E42B]Yellow[-], [30B22A]Green[-]\", color =  playerClickerColor})\n        return\n      end\n\n      local characterRandomizer = getObjectFromGUID(CHARACTER_RANDOMIZER_GUID)\n      local waitForSelectCharacters = characterRandomizer.getTable(\"waitForSelectCharacters\")\n      if #waitForSelectCharacters[playerClickerColor] > 0 and not isCharacterInPullToSelect(waitForSelectCharacters) then\n        Global.call(\"printWarningTP\", {text = \"You can't select character from global pull while you select from random.\", color =  playerClickerColor})\n        return\n      end\n\n      if isCharacterInAnotherPlayerPullToSelect(playerClickerColor, waitForSelectCharacters) then\n        Global.call(\"printWarningTP\", {text = \"You can't select character from another player pull.\", color =  playerClickerColor})\n        return\n      end\n\n      cleanupSpawnedObj(playerClickerColor)\n\n      local spawnedObj = {}\n      local cardsInPackCount = self.getQuantity()\n      for i = 1, cardsInPackCount do\n        local obj = self.takeObject({ index = 0 })\n        local objClone = obj.clone()\n        Wait.frames(function() self.putObject(obj) end, 5)\n        local objDescription = objClone.getDescription()\n\n        local cardSpawnData = getCardSpawnData(objDescription, playerClickerColor)\n        objClone.setPositionSmooth(cardSpawnData.position, false)\n        objClone.setRotation(cardSpawnData.rotation)\n\n        if objClone.getStateId() != -1 then\n          for _, state in pairs(objClone.getStates()) do\n            table.insert(spawnedObj, state.guid)\n          end\n        end\n\n        table.insert(spawnedObj, objClone.guid)\n      end\n\n      updatePlayerSpawnedObj(playerClickerColor, spawnedObj)\n    end\n\n    function isCharacterInPullToSelect(waitForSelectCharacters)\n      local isInPull = false\n      for _, pull in pairs(waitForSelectCharacters) do\n        for _, obj in pairs(pull) do\n          if obj.guid == self.guid then\n            isInPull = true\n          end\n        end\n      end\n      return isInPull\n    end\n\n    function isCharacterInAnotherPlayerPullToSelect(clickedPlayerColor, waitForSelectCharacters)\n        local inAnotherPull = false\n        for _, color in pairs(PLAYER_COLORS) do\n            if (color != clickedPlayerColor) then\n                inAnotherPull = isCharacterInPlayerPullToSelect(color, waitForSelectCharacters)\n                if (inAnotherPull == true) then break end\n            end\n        end\n        return inAnotherPull\n    end\n\n    function isCharacterInPlayerPullToSelect(playerColor, waitForSelectCharacters)\n      local isInPull = false\n      for _, obj in pairs(waitForSelectCharacters[playerColor]) do\n        if obj.guid == self.guid then\n          isInPull = true\n        end\n      end\n      return isInPull\n    end\n\n    function cleanupSpawnedObj(playerColor)\n      local playerCharacterObj = getPlayerSpanedObj(playerColor)\n      if playerCharacterObj ~= nil then\n        for _, guid in pairs(playerCharacterObj) do\n          local obj = getObjectFromGUID(guid)\n          if obj ~= nil then\n            obj.destruct()\n          end\n        end\n        updatePlayerSpawnedObj(playerColor, {})\n      end\n    end\n\n    function getCardSpawnData(description, playerColor)\n      if description == \"character\" then\n        return spawnData[playerColor].character\n      elseif description == \"character-item\" or description == \"character-item-counter\" then\n        return spawnData[playerColor].characterItem\n      elseif description == \"character-soul\" then\n        return spawnData[playerColor].characterStartSoul\n      else\n        printToColor(\"[ef5350][ERROR][-] Unknown \" .. description .. \" card description matadata. Maybe you changed description of card?\" , playerColor)\n        return\n      end\n    end\n\n    function getPlayerSpanedObj(playercolor)\n      characterPlacer = getObjectFromGUID(CHARACTER_PLACER_GUID)\n      return characterPlacer.getTable(\"playersSpawnedCharacterObj\")[playercolor]\n    end\n\n    function updatePlayerSpawnedObj(playerColor, spawnedObj)\n      characterPlacer = getObjectFromGUID(CHARACTER_PLACER_GUID)\n      local playersSpawnedCharacterObj = characterPlacer.getTable(\"playersSpawnedCharacterObj\")\n      playersSpawnedCharacterObj[playerColor] = spawnedObj\n      characterPlacer.setTable(\"playersSpawnedCharacterObj\", playersSpawnedCharacterObj)\n    end\n\n    function unlock(obj)\n      obj.interactable = true\n    end\n\n    function lock(obj)\n        obj.interactable = false\n    end\n\n    -- For extended calls\n    function selectCharacterByCall(params)\n      selectCharacter(nil, params.playerColor)\n    end\n\n    function isCharacterInPullToSelectByCall(params)\n      return isCharacterInPullToSelect(params.waitForSelectCharacters)\n    end\n  ",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "ContainedObjects": [
+                {
+                  "GUID": "9684c7",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": -7.85944557,
+                    "posY": 1.32224691,
+                    "posZ": -0.9328914,
+                    "rotX": 2.3520679E-05,
+                    "rotY": 180.010956,
+                    "rotZ": 0.0006569035,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Robot",
+                  "Description": "US_character",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "Active",
+                    "Character"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 20608,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "206": {
+                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/993513973464476367/6F7A1A792288C9555DE51B38E5DB673AC44AA0D3/",
+                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/987883208224002004/E4AAFF1A1425F9B3C650DD77904DA0C52A009CF0/",
+                      "NumWidth": 5,
+                      "NumHeight": 3,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "function getHP()\n  return 2\nend",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "8adda9",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": -7.53106976,
+                    "posY": 1.32201862,
+                    "posZ": -1.28333521,
+                    "rotX": 0.00583979953,
+                    "rotY": 180.02597,
+                    "rotZ": 0.0147791319,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Digest",
+                  "Description": "US_character-item",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.709803939,
+                    "g": 0.709803939,
+                    "b": 0.709803939
+                  },
+                  "Tags": [
+                    "Active",
+                    "Eternal",
+                    "Item"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 63008,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "630": {
+                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/993513973464486089/7CBC7A63ED7CCFB77781F488A580EC94806D0D78/",
+                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/987883208220073879/B7262893D76BC4EA26F59DCE57903EBE93871685/",
+                      "NumWidth": 5,
+                      "NumHeight": 3,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                }
+              ]
+            },
+            {
+              "GUID": "3465e0",
+              "Name": "Custom_Model_Bag",
+              "Transform": {
+                "posX": -6.954257,
+                "posY": 2.693659,
+                "posZ": 10.0607767,
+                "rotX": 0.0614618845,
+                "rotY": 179.9969,
+                "rotZ": 354.637024,
+                "scaleX": 0.85,
+                "scaleY": 0.85,
+                "scaleZ": 0.85
+              },
+              "Nickname": "Eyes (TNE)",
+              "Description": "character-pack",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "Tags": [
+                "C_BAG"
+              ],
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "MaterialIndex": -1,
+              "MeshIndex": -1,
+              "CustomMesh": {
+                "MeshURL": "http://pastebin.com/raw/PqfGKtKR",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1699529322651194893/087BE79B67C5C8081B6667F024E5CF5CFE280EEE/",
+                "NormalURL": "http://cloud-3.steamusercontent.com/ugc/861734852198391028/D75480247FA058266F0D423501D867407458666D/",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 0,
+                "TypeIndex": 6,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.5,
+                  "SpecularSharpness": 5.000001,
+                  "FresnelStrength": 0.4
+                },
+                "CastShadows": true
+              },
+              "Bag": {
+                "Order": 0
+              },
+              "LuaScript": "    CHARACTER_PLACER_GUID = \"d2c68a\"\n    CHARACTER_RANDOMIZER_GUID = \"bc6e13\"\n    PLAYER_COLORS = {'Red', 'Blue', 'Yellow', 'Green'}\n\n    spawnData = nil\n\n    function onLoad()\n      spawnData = loadSpawnData()\n      initButtons()\n    end\n\n    function loadSpawnData()\n      local characterPlacer = getObjectFromGUID(CHARACTER_PLACER_GUID)\n      return characterPlacer.getTable(\"SPAWN_DATA\")\n    end\n\n    function initButtons()\n      self.clearButtons()\n      self.interactable = false\n\n      self.createButton({\n        click_function = \"selectCharacter\",\n        function_owner = self,\n        label          = \"Select\",\n        position       = {0, 0.3, 1.7},\n        width          = 760,\n        height         = 260,\n        font_size      = 180,\n        font_color     = {1, 1, 1},\n        color          = {84/225, 110/255, 122/255}\n      })\n      self.createButton({\n        click_function = \"unlock\",\n        function_owner = self,\n        label          = \"Unlock\",\n        position       = {0.4, 0.3, -1.7},\n        width          = 400,\n        height         = 110,\n        font_size      = 80,\n        color          = {102/225, 187/255, 106/255}\n      })\n      self.createButton({\n        click_function = \"lock\",\n        function_owner = self,\n        label          = \"Lock\",\n        position       = {-0.4, 0.3, -1.7},\n        width          = 400,\n        height         = 110,\n        font_size      = 80,\n        color          = {239/225, 83/255, 80/255}\n      })\n    end\n\n    function selectCharacter(_, playerClickerColor)\n      if spawnData[playerClickerColor] == nil then\n        Global.call(\"printWarningTP\", {text = \"Invalid player color. No position points for this color. Available colors: [DA1917]Red[-], [1E87FF]Blue[-], [E6E42B]Yellow[-], [30B22A]Green[-]\", color =  playerClickerColor})\n        return\n      end\n\n      local characterRandomizer = getObjectFromGUID(CHARACTER_RANDOMIZER_GUID)\n      local waitForSelectCharacters = characterRandomizer.getTable(\"waitForSelectCharacters\")\n      if #waitForSelectCharacters[playerClickerColor] > 0 and not isCharacterInPullToSelect(waitForSelectCharacters) then\n        Global.call(\"printWarningTP\", {text = \"You can't select character from global pull while you select from random.\", color =  playerClickerColor})\n        return\n      end\n\n      if isCharacterInAnotherPlayerPullToSelect(playerClickerColor, waitForSelectCharacters) then\n        Global.call(\"printWarningTP\", {text = \"You can't select character from another player pull.\", color =  playerClickerColor})\n        return\n      end\n\n      cleanupSpawnedObj(playerClickerColor)\n\n      local spawnedObj = {}\n      local cardsInPackCount = self.getQuantity()\n      for i = 1, cardsInPackCount do\n        local obj = self.takeObject({ index = 0 })\n        local objClone = obj.clone()\n        Wait.frames(function() self.putObject(obj) end, 5)\n        local objDescription = objClone.getDescription()\n\n        local cardSpawnData = getCardSpawnData(objDescription, playerClickerColor)\n        objClone.setPositionSmooth(cardSpawnData.position, false)\n        objClone.setRotation(cardSpawnData.rotation)\n\n        if objClone.getStateId() != -1 then\n          for _, state in pairs(objClone.getStates()) do\n            table.insert(spawnedObj, state.guid)\n          end\n        end\n\n        table.insert(spawnedObj, objClone.guid)\n      end\n\n      updatePlayerSpawnedObj(playerClickerColor, spawnedObj)\n    end\n\n    function isCharacterInPullToSelect(waitForSelectCharacters)\n      local isInPull = false\n      for _, pull in pairs(waitForSelectCharacters) do\n        for _, obj in pairs(pull) do\n          if obj.guid == self.guid then\n            isInPull = true\n          end\n        end\n      end\n      return isInPull\n    end\n\n    function isCharacterInAnotherPlayerPullToSelect(clickedPlayerColor, waitForSelectCharacters)\n        local inAnotherPull = false\n        for _, color in pairs(PLAYER_COLORS) do\n            if (color != clickedPlayerColor) then\n                inAnotherPull = isCharacterInPlayerPullToSelect(color, waitForSelectCharacters)\n                if (inAnotherPull == true) then break end\n            end\n        end\n        return inAnotherPull\n    end\n\n    function isCharacterInPlayerPullToSelect(playerColor, waitForSelectCharacters)\n      local isInPull = false\n      for _, obj in pairs(waitForSelectCharacters[playerColor]) do\n        if obj.guid == self.guid then\n          isInPull = true\n        end\n      end\n      return isInPull\n    end\n\n    function cleanupSpawnedObj(playerColor)\n      local playerCharacterObj = getPlayerSpanedObj(playerColor)\n      if playerCharacterObj ~= nil then\n        for _, guid in pairs(playerCharacterObj) do\n          local obj = getObjectFromGUID(guid)\n          if obj ~= nil then\n            obj.destruct()\n          end\n        end\n        updatePlayerSpawnedObj(playerColor, {})\n      end\n    end\n\n    function getCardSpawnData(description, playerColor)\n      if description == \"character\" then\n        return spawnData[playerColor].character\n      elseif description == \"character-item\" or description == \"character-item-counter\" then\n        return spawnData[playerColor].characterItem\n      elseif description == \"character-soul\" then\n        return spawnData[playerColor].characterStartSoul\n      else\n        printToColor(\"[ef5350][ERROR][-] Unknown \" .. description .. \" card description matadata. Maybe you changed description of card?\" , playerColor)\n        return\n      end\n    end\n\n    function getPlayerSpanedObj(playercolor)\n      characterPlacer = getObjectFromGUID(CHARACTER_PLACER_GUID)\n      return characterPlacer.getTable(\"playersSpawnedCharacterObj\")[playercolor]\n    end\n\n    function updatePlayerSpawnedObj(playerColor, spawnedObj)\n      characterPlacer = getObjectFromGUID(CHARACTER_PLACER_GUID)\n      local playersSpawnedCharacterObj = characterPlacer.getTable(\"playersSpawnedCharacterObj\")\n      playersSpawnedCharacterObj[playerColor] = spawnedObj\n      characterPlacer.setTable(\"playersSpawnedCharacterObj\", playersSpawnedCharacterObj)\n    end\n\n    function unlock(obj)\n      obj.interactable = true\n    end\n\n    function lock(obj)\n        obj.interactable = false\n    end\n\n    -- For extended calls\n    function selectCharacterByCall(params)\n      selectCharacter(nil, params.playerColor)\n    end\n\n    function isCharacterInPullToSelectByCall(params)\n      return isCharacterInPullToSelect(params.waitForSelectCharacters)\n    end\n  ",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "ContainedObjects": [
+                {
+                  "GUID": "2f5c7d",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": -5.50004148,
+                    "posY": 1.32262361,
+                    "posZ": -7.943063,
+                    "rotX": -0.00381151773,
+                    "rotY": 180.020218,
+                    "rotZ": 0.006732751,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Eyes",
+                  "Description": "US_character",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "Active",
+                    "Character"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 5202,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "52": {
+                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/987883208224000343/FD150AE68328E805699807A3CD4199D98BB803DF/",
+                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/987883208224002004/E4AAFF1A1425F9B3C650DD77904DA0C52A009CF0/",
+                      "NumWidth": 5,
+                      "NumHeight": 3,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "function getHP()\n  return 2\nend",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "a99baf",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": -6.34010744,
+                    "posY": 1.3223021,
+                    "posZ": -8.545,
+                    "rotX": -0.00270592049,
+                    "rotY": 180.029266,
+                    "rotZ": -0.00344564579,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Telekinesis",
+                  "Description": "US_character-item",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.709803939,
+                    "g": 0.709803939,
+                    "b": 0.709803939
+                  },
+                  "Tags": [
+                    "Eternal",
+                    "Item"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 62802,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "628": {
+                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/993513973464486089/7CBC7A63ED7CCFB77781F488A580EC94806D0D78/",
+                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/987883208220073879/B7262893D76BC4EA26F59DCE57903EBE93871685/",
+                      "NumWidth": 5,
+                      "NumHeight": 3,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                }
+              ]
+            },
+            {
+              "GUID": "32c823",
+              "Name": "Custom_Model_Bag",
+              "Transform": {
+                "posX": -6.35268641,
+                "posY": 2.741677,
+                "posZ": 9.944007,
+                "rotX": 0.715305567,
+                "rotY": 180.006271,
+                "rotZ": 1.00936937,
+                "scaleX": 0.85,
+                "scaleY": 0.85,
+                "scaleZ": 0.85
+              },
+              "Nickname": "Crystal (TNE)",
+              "Description": "character-pack",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "Tags": [
+                "C_BAG"
+              ],
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "MaterialIndex": -1,
+              "MeshIndex": -1,
+              "CustomMesh": {
+                "MeshURL": "http://pastebin.com/raw/PqfGKtKR",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1699529322651189044/202F32100AE8300BD4209B3B08A54DD69D3E77D0/",
+                "NormalURL": "http://cloud-3.steamusercontent.com/ugc/861734852198391028/D75480247FA058266F0D423501D867407458666D/",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 0,
+                "TypeIndex": 6,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.5,
+                  "SpecularSharpness": 5.000001,
+                  "FresnelStrength": 0.4
+                },
+                "CastShadows": true
+              },
+              "Bag": {
+                "Order": 0
+              },
+              "LuaScript": "    CHARACTER_PLACER_GUID = \"d2c68a\"\n    CHARACTER_RANDOMIZER_GUID = \"bc6e13\"\n    PLAYER_COLORS = {'Red', 'Blue', 'Yellow', 'Green'}\n\n    spawnData = nil\n\n    function onLoad()\n      spawnData = loadSpawnData()\n      initButtons()\n    end\n\n    function loadSpawnData()\n      local characterPlacer = getObjectFromGUID(CHARACTER_PLACER_GUID)\n      return characterPlacer.getTable(\"SPAWN_DATA\")\n    end\n\n    function initButtons()\n      self.clearButtons()\n      self.interactable = false\n\n      self.createButton({\n        click_function = \"selectCharacter\",\n        function_owner = self,\n        label          = \"Select\",\n        position       = {0, 0.3, 1.7},\n        width          = 760,\n        height         = 260,\n        font_size      = 180,\n        font_color     = {1, 1, 1},\n        color          = {84/225, 110/255, 122/255}\n      })\n      self.createButton({\n        click_function = \"unlock\",\n        function_owner = self,\n        label          = \"Unlock\",\n        position       = {0.4, 0.3, -1.7},\n        width          = 400,\n        height         = 110,\n        font_size      = 80,\n        color          = {102/225, 187/255, 106/255}\n      })\n      self.createButton({\n        click_function = \"lock\",\n        function_owner = self,\n        label          = \"Lock\",\n        position       = {-0.4, 0.3, -1.7},\n        width          = 400,\n        height         = 110,\n        font_size      = 80,\n        color          = {239/225, 83/255, 80/255}\n      })\n    end\n\n    function selectCharacter(_, playerClickerColor)\n      if spawnData[playerClickerColor] == nil then\n        Global.call(\"printWarningTP\", {text = \"Invalid player color. No position points for this color. Available colors: [DA1917]Red[-], [1E87FF]Blue[-], [E6E42B]Yellow[-], [30B22A]Green[-]\", color =  playerClickerColor})\n        return\n      end\n\n      local characterRandomizer = getObjectFromGUID(CHARACTER_RANDOMIZER_GUID)\n      local waitForSelectCharacters = characterRandomizer.getTable(\"waitForSelectCharacters\")\n      if #waitForSelectCharacters[playerClickerColor] > 0 and not isCharacterInPullToSelect(waitForSelectCharacters) then\n        Global.call(\"printWarningTP\", {text = \"You can't select character from global pull while you select from random.\", color =  playerClickerColor})\n        return\n      end\n\n      if isCharacterInAnotherPlayerPullToSelect(playerClickerColor, waitForSelectCharacters) then\n        Global.call(\"printWarningTP\", {text = \"You can't select character from another player pull.\", color =  playerClickerColor})\n        return\n      end\n\n      cleanupSpawnedObj(playerClickerColor)\n\n      local spawnedObj = {}\n      local cardsInPackCount = self.getQuantity()\n      for i = 1, cardsInPackCount do\n        local obj = self.takeObject({ index = 0 })\n        local objClone = obj.clone()\n        Wait.frames(function() self.putObject(obj) end, 5)\n        local objDescription = objClone.getDescription()\n\n        local cardSpawnData = getCardSpawnData(objDescription, playerClickerColor)\n        objClone.setPositionSmooth(cardSpawnData.position, false)\n        objClone.setRotation(cardSpawnData.rotation)\n\n        if objClone.getStateId() != -1 then\n          for _, state in pairs(objClone.getStates()) do\n            table.insert(spawnedObj, state.guid)\n          end\n        end\n\n        table.insert(spawnedObj, objClone.guid)\n      end\n\n      updatePlayerSpawnedObj(playerClickerColor, spawnedObj)\n    end\n\n    function isCharacterInPullToSelect(waitForSelectCharacters)\n      local isInPull = false\n      for _, pull in pairs(waitForSelectCharacters) do\n        for _, obj in pairs(pull) do\n          if obj.guid == self.guid then\n            isInPull = true\n          end\n        end\n      end\n      return isInPull\n    end\n\n    function isCharacterInAnotherPlayerPullToSelect(clickedPlayerColor, waitForSelectCharacters)\n        local inAnotherPull = false\n        for _, color in pairs(PLAYER_COLORS) do\n            if (color != clickedPlayerColor) then\n                inAnotherPull = isCharacterInPlayerPullToSelect(color, waitForSelectCharacters)\n                if (inAnotherPull == true) then break end\n            end\n        end\n        return inAnotherPull\n    end\n\n    function isCharacterInPlayerPullToSelect(playerColor, waitForSelectCharacters)\n      local isInPull = false\n      for _, obj in pairs(waitForSelectCharacters[playerColor]) do\n        if obj.guid == self.guid then\n          isInPull = true\n        end\n      end\n      return isInPull\n    end\n\n    function cleanupSpawnedObj(playerColor)\n      local playerCharacterObj = getPlayerSpanedObj(playerColor)\n      if playerCharacterObj ~= nil then\n        for _, guid in pairs(playerCharacterObj) do\n          local obj = getObjectFromGUID(guid)\n          if obj ~= nil then\n            obj.destruct()\n          end\n        end\n        updatePlayerSpawnedObj(playerColor, {})\n      end\n    end\n\n    function getCardSpawnData(description, playerColor)\n      if description == \"character\" then\n        return spawnData[playerColor].character\n      elseif description == \"character-item\" or description == \"character-item-counter\" then\n        return spawnData[playerColor].characterItem\n      elseif description == \"character-soul\" then\n        return spawnData[playerColor].characterStartSoul\n      else\n        printToColor(\"[ef5350][ERROR][-] Unknown \" .. description .. \" card description matadata. Maybe you changed description of card?\" , playerColor)\n        return\n      end\n    end\n\n    function getPlayerSpanedObj(playercolor)\n      characterPlacer = getObjectFromGUID(CHARACTER_PLACER_GUID)\n      return characterPlacer.getTable(\"playersSpawnedCharacterObj\")[playercolor]\n    end\n\n    function updatePlayerSpawnedObj(playerColor, spawnedObj)\n      characterPlacer = getObjectFromGUID(CHARACTER_PLACER_GUID)\n      local playersSpawnedCharacterObj = characterPlacer.getTable(\"playersSpawnedCharacterObj\")\n      playersSpawnedCharacterObj[playerColor] = spawnedObj\n      characterPlacer.setTable(\"playersSpawnedCharacterObj\", playersSpawnedCharacterObj)\n    end\n\n    function unlock(obj)\n      obj.interactable = true\n    end\n\n    function lock(obj)\n        obj.interactable = false\n    end\n\n    -- For extended calls\n    function selectCharacterByCall(params)\n      selectCharacter(nil, params.playerColor)\n    end\n\n    function isCharacterInPullToSelectByCall(params)\n      return isCharacterInPullToSelect(params.waitForSelectCharacters)\n    end\n  ",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "ContainedObjects": [
+                {
+                  "GUID": "a838a9",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": 9.848119,
+                    "posY": 1.32233763,
+                    "posZ": -5.233216,
+                    "rotX": -0.000375721866,
+                    "rotY": 180.003983,
+                    "rotZ": 0.001393037,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Crystal",
+                  "Description": "US_character",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "Active",
+                    "Character"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 5201,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "52": {
+                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/987883208224000343/FD150AE68328E805699807A3CD4199D98BB803DF/",
+                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/987883208224002004/E4AAFF1A1425F9B3C650DD77904DA0C52A009CF0/",
+                      "NumWidth": 5,
+                      "NumHeight": 3,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "function getHP()\n  return 3\nend",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "f39a5c",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": 9.717297,
+                    "posY": 1.32228434,
+                    "posZ": -5.4107523,
+                    "rotX": 0.00110811018,
+                    "rotY": 180.020569,
+                    "rotZ": 0.00204477436,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Reflective Shield",
+                  "Description": "US_character-item",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.709803939,
+                    "g": 0.709803939,
+                    "b": 0.709803939
+                  },
+                  "Tags": [
+                    "Active",
+                    "Eternal",
+                    "Item"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 5301,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "53": {
+                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/987883208224006528/26FDF25627208F413EF2A282629AA64CAEFB4C3F/",
+                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/987883208220073879/B7262893D76BC4EA26F59DCE57903EBE93871685/",
+                      "NumWidth": 5,
+                      "NumHeight": 3,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                }
+              ]
+            },
+            {
+              "GUID": "26fef6",
+              "Name": "Custom_Model_Bag",
+              "Transform": {
+                "posX": -6.7744236,
+                "posY": 2.70198846,
+                "posZ": 9.556073,
+                "rotX": 1.8750155,
+                "rotY": 179.934372,
+                "rotZ": 355.999146,
+                "scaleX": 0.85,
+                "scaleY": 0.85,
+                "scaleZ": 0.85
+              },
+              "Nickname": "Horror (TNE)",
+              "Description": "character-pack",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "Tags": [
+                "C_BAG"
+              ],
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "MaterialIndex": -1,
+              "MeshIndex": -1,
+              "CustomMesh": {
+                "MeshURL": "http://pastebin.com/raw/PqfGKtKR",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1699529322651199644/D87A72FC7910FACFD737346C92460E5BCFFB7582/",
+                "NormalURL": "http://cloud-3.steamusercontent.com/ugc/861734852198391028/D75480247FA058266F0D423501D867407458666D/",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 0,
+                "TypeIndex": 6,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.5,
+                  "SpecularSharpness": 5.000001,
+                  "FresnelStrength": 0.4
+                },
+                "CastShadows": true
+              },
+              "Bag": {
+                "Order": 0
+              },
+              "LuaScript": "    CHARACTER_PLACER_GUID = \"d2c68a\"\n    CHARACTER_RANDOMIZER_GUID = \"bc6e13\"\n    PLAYER_COLORS = {'Red', 'Blue', 'Yellow', 'Green'}\n\n    spawnData = nil\n\n    function onLoad()\n      spawnData = loadSpawnData()\n      initButtons()\n    end\n\n    function loadSpawnData()\n      local characterPlacer = getObjectFromGUID(CHARACTER_PLACER_GUID)\n      return characterPlacer.getTable(\"SPAWN_DATA\")\n    end\n\n    function initButtons()\n      self.clearButtons()\n      self.interactable = false\n\n      self.createButton({\n        click_function = \"selectCharacter\",\n        function_owner = self,\n        label          = \"Select\",\n        position       = {0, 0.3, 1.7},\n        width          = 760,\n        height         = 260,\n        font_size      = 180,\n        font_color     = {1, 1, 1},\n        color          = {84/225, 110/255, 122/255}\n      })\n      self.createButton({\n        click_function = \"unlock\",\n        function_owner = self,\n        label          = \"Unlock\",\n        position       = {0.4, 0.3, -1.7},\n        width          = 400,\n        height         = 110,\n        font_size      = 80,\n        color          = {102/225, 187/255, 106/255}\n      })\n      self.createButton({\n        click_function = \"lock\",\n        function_owner = self,\n        label          = \"Lock\",\n        position       = {-0.4, 0.3, -1.7},\n        width          = 400,\n        height         = 110,\n        font_size      = 80,\n        color          = {239/225, 83/255, 80/255}\n      })\n    end\n\n    function selectCharacter(_, playerClickerColor)\n      if spawnData[playerClickerColor] == nil then\n        Global.call(\"printWarningTP\", {text = \"Invalid player color. No position points for this color. Available colors: [DA1917]Red[-], [1E87FF]Blue[-], [E6E42B]Yellow[-], [30B22A]Green[-]\", color =  playerClickerColor})\n        return\n      end\n\n      local characterRandomizer = getObjectFromGUID(CHARACTER_RANDOMIZER_GUID)\n      local waitForSelectCharacters = characterRandomizer.getTable(\"waitForSelectCharacters\")\n      if #waitForSelectCharacters[playerClickerColor] > 0 and not isCharacterInPullToSelect(waitForSelectCharacters) then\n        Global.call(\"printWarningTP\", {text = \"You can't select character from global pull while you select from random.\", color =  playerClickerColor})\n        return\n      end\n\n      if isCharacterInAnotherPlayerPullToSelect(playerClickerColor, waitForSelectCharacters) then\n        Global.call(\"printWarningTP\", {text = \"You can't select character from another player pull.\", color =  playerClickerColor})\n        return\n      end\n\n      cleanupSpawnedObj(playerClickerColor)\n\n      local spawnedObj = {}\n      local cardsInPackCount = self.getQuantity()\n      for i = 1, cardsInPackCount do\n        local obj = self.takeObject({ index = 0 })\n        local objClone = obj.clone()\n        Wait.frames(function() self.putObject(obj) end, 5)\n        local objDescription = objClone.getDescription()\n\n        local cardSpawnData = getCardSpawnData(objDescription, playerClickerColor)\n        objClone.setPositionSmooth(cardSpawnData.position, false)\n        objClone.setRotation(cardSpawnData.rotation)\n\n        if objClone.getStateId() != -1 then\n          for _, state in pairs(objClone.getStates()) do\n            table.insert(spawnedObj, state.guid)\n          end\n        end\n\n        table.insert(spawnedObj, objClone.guid)\n      end\n\n      updatePlayerSpawnedObj(playerClickerColor, spawnedObj)\n    end\n\n    function isCharacterInPullToSelect(waitForSelectCharacters)\n      local isInPull = false\n      for _, pull in pairs(waitForSelectCharacters) do\n        for _, obj in pairs(pull) do\n          if obj.guid == self.guid then\n            isInPull = true\n          end\n        end\n      end\n      return isInPull\n    end\n\n    function isCharacterInAnotherPlayerPullToSelect(clickedPlayerColor, waitForSelectCharacters)\n        local inAnotherPull = false\n        for _, color in pairs(PLAYER_COLORS) do\n            if (color != clickedPlayerColor) then\n                inAnotherPull = isCharacterInPlayerPullToSelect(color, waitForSelectCharacters)\n                if (inAnotherPull == true) then break end\n            end\n        end\n        return inAnotherPull\n    end\n\n    function isCharacterInPlayerPullToSelect(playerColor, waitForSelectCharacters)\n      local isInPull = false\n      for _, obj in pairs(waitForSelectCharacters[playerColor]) do\n        if obj.guid == self.guid then\n          isInPull = true\n        end\n      end\n      return isInPull\n    end\n\n    function cleanupSpawnedObj(playerColor)\n      local playerCharacterObj = getPlayerSpanedObj(playerColor)\n      if playerCharacterObj ~= nil then\n        for _, guid in pairs(playerCharacterObj) do\n          local obj = getObjectFromGUID(guid)\n          if obj ~= nil then\n            obj.destruct()\n          end\n        end\n        updatePlayerSpawnedObj(playerColor, {})\n      end\n    end\n\n    function getCardSpawnData(description, playerColor)\n      if description == \"character\" then\n        return spawnData[playerColor].character\n      elseif description == \"character-item\" or description == \"character-item-counter\" then\n        return spawnData[playerColor].characterItem\n      elseif description == \"character-soul\" then\n        return spawnData[playerColor].characterStartSoul\n      else\n        printToColor(\"[ef5350][ERROR][-] Unknown \" .. description .. \" card description matadata. Maybe you changed description of card?\" , playerColor)\n        return\n      end\n    end\n\n    function getPlayerSpanedObj(playercolor)\n      characterPlacer = getObjectFromGUID(CHARACTER_PLACER_GUID)\n      return characterPlacer.getTable(\"playersSpawnedCharacterObj\")[playercolor]\n    end\n\n    function updatePlayerSpawnedObj(playerColor, spawnedObj)\n      characterPlacer = getObjectFromGUID(CHARACTER_PLACER_GUID)\n      local playersSpawnedCharacterObj = characterPlacer.getTable(\"playersSpawnedCharacterObj\")\n      playersSpawnedCharacterObj[playerColor] = spawnedObj\n      characterPlacer.setTable(\"playersSpawnedCharacterObj\", playersSpawnedCharacterObj)\n    end\n\n    function unlock(obj)\n      obj.interactable = true\n    end\n\n    function lock(obj)\n        obj.interactable = false\n    end\n\n    -- For extended calls\n    function selectCharacterByCall(params)\n      selectCharacter(nil, params.playerColor)\n    end\n\n    function isCharacterInPullToSelectByCall(params)\n      return isCharacterInPullToSelect(params.waitForSelectCharacters)\n    end\n  ",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "ContainedObjects": [
+                {
+                  "GUID": "b97983",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": -1.46845949,
+                    "posY": 1.32273889,
+                    "posZ": -8.738978,
+                    "rotX": 0.009082511,
+                    "rotY": 179.979065,
+                    "rotZ": 0.0474160761,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Horror",
+                  "Description": "US_character",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "Active",
+                    "Character"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 20609,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "206": {
+                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/993513973464476367/6F7A1A792288C9555DE51B38E5DB673AC44AA0D3/",
+                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/987883208224002004/E4AAFF1A1425F9B3C650DD77904DA0C52A009CF0/",
+                      "NumWidth": 5,
+                      "NumHeight": 3,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "function getHP()\n  return 2\nend",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "734bfa",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": -2.27759337,
+                    "posY": 1.33937514,
+                    "posZ": -9.489335,
+                    "rotX": 0.000156865877,
+                    "rotY": 180.025909,
+                    "rotZ": 0.000101415113,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Rad Beam",
+                  "Description": "US_character-item",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.709803939,
+                    "g": 0.709803939,
+                    "b": 0.709803939
+                  },
+                  "Tags": [
+                    "Eternal",
+                    "Item"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 63209,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "632": {
+                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/993513973464486089/7CBC7A63ED7CCFB77781F488A580EC94806D0D78/",
+                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/987883208220073879/B7262893D76BC4EA26F59DCE57903EBE93871685/",
+                      "NumWidth": 5,
+                      "NumHeight": 3,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                }
+              ]
+            },
+            {
+              "GUID": "aaec36",
+              "Name": "Custom_Model_Bag",
+              "Transform": {
+                "posX": -6.52645445,
+                "posY": 2.7387085,
+                "posZ": 9.930181,
+                "rotX": 0.775088251,
+                "rotY": 179.987381,
+                "rotZ": 358.15033,
+                "scaleX": 0.85,
+                "scaleY": 0.85,
+                "scaleZ": 0.85
+              },
+              "Nickname": "Melting (TNE)",
+              "Description": "character-pack",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "Tags": [
+                "C_BAG"
+              ],
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "MaterialIndex": -1,
+              "MeshIndex": -1,
+              "CustomMesh": {
+                "MeshURL": "http://pastebin.com/raw/PqfGKtKR",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1699529322651140493/30163D89DDC6DEA860B7C96987A7DB48300EFDD2/",
+                "NormalURL": "http://cloud-3.steamusercontent.com/ugc/861734852198391028/D75480247FA058266F0D423501D867407458666D/",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 0,
+                "TypeIndex": 6,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.5,
+                  "SpecularSharpness": 5.000001,
+                  "FresnelStrength": 0.4
+                },
+                "CastShadows": true
+              },
+              "Bag": {
+                "Order": 0
+              },
+              "LuaScript": "    CHARACTER_PLACER_GUID = \"d2c68a\"\n    CHARACTER_RANDOMIZER_GUID = \"bc6e13\"\n    PLAYER_COLORS = {'Red', 'Blue', 'Yellow', 'Green'}\n\n    spawnData = nil\n\n    function onLoad()\n      spawnData = loadSpawnData()\n      initButtons()\n    end\n\n    function loadSpawnData()\n      local characterPlacer = getObjectFromGUID(CHARACTER_PLACER_GUID)\n      return characterPlacer.getTable(\"SPAWN_DATA\")\n    end\n\n    function initButtons()\n      self.clearButtons()\n      self.interactable = false\n\n      self.createButton({\n        click_function = \"selectCharacter\",\n        function_owner = self,\n        label          = \"Select\",\n        position       = {0, 0.3, 1.7},\n        width          = 760,\n        height         = 260,\n        font_size      = 180,\n        font_color     = {1, 1, 1},\n        color          = {84/225, 110/255, 122/255}\n      })\n      self.createButton({\n        click_function = \"unlock\",\n        function_owner = self,\n        label          = \"Unlock\",\n        position       = {0.4, 0.3, -1.7},\n        width          = 400,\n        height         = 110,\n        font_size      = 80,\n        color          = {102/225, 187/255, 106/255}\n      })\n      self.createButton({\n        click_function = \"lock\",\n        function_owner = self,\n        label          = \"Lock\",\n        position       = {-0.4, 0.3, -1.7},\n        width          = 400,\n        height         = 110,\n        font_size      = 80,\n        color          = {239/225, 83/255, 80/255}\n      })\n    end\n\n    function selectCharacter(_, playerClickerColor)\n      if spawnData[playerClickerColor] == nil then\n        Global.call(\"printWarningTP\", {text = \"Invalid player color. No position points for this color. Available colors: [DA1917]Red[-], [1E87FF]Blue[-], [E6E42B]Yellow[-], [30B22A]Green[-]\", color =  playerClickerColor})\n        return\n      end\n\n      local characterRandomizer = getObjectFromGUID(CHARACTER_RANDOMIZER_GUID)\n      local waitForSelectCharacters = characterRandomizer.getTable(\"waitForSelectCharacters\")\n      if #waitForSelectCharacters[playerClickerColor] > 0 and not isCharacterInPullToSelect(waitForSelectCharacters) then\n        Global.call(\"printWarningTP\", {text = \"You can't select character from global pull while you select from random.\", color =  playerClickerColor})\n        return\n      end\n\n      if isCharacterInAnotherPlayerPullToSelect(playerClickerColor, waitForSelectCharacters) then\n        Global.call(\"printWarningTP\", {text = \"You can't select character from another player pull.\", color =  playerClickerColor})\n        return\n      end\n\n      cleanupSpawnedObj(playerClickerColor)\n\n      local spawnedObj = {}\n      local cardsInPackCount = self.getQuantity()\n      for i = 1, cardsInPackCount do\n        local obj = self.takeObject({ index = 0 })\n        local objClone = obj.clone()\n        Wait.frames(function() self.putObject(obj) end, 5)\n        local objDescription = objClone.getDescription()\n\n        local cardSpawnData = getCardSpawnData(objDescription, playerClickerColor)\n        objClone.setPositionSmooth(cardSpawnData.position, false)\n        objClone.setRotation(cardSpawnData.rotation)\n\n        if objClone.getStateId() != -1 then\n          for _, state in pairs(objClone.getStates()) do\n            table.insert(spawnedObj, state.guid)\n          end\n        end\n\n        table.insert(spawnedObj, objClone.guid)\n      end\n\n      updatePlayerSpawnedObj(playerClickerColor, spawnedObj)\n    end\n\n    function isCharacterInPullToSelect(waitForSelectCharacters)\n      local isInPull = false\n      for _, pull in pairs(waitForSelectCharacters) do\n        for _, obj in pairs(pull) do\n          if obj.guid == self.guid then\n            isInPull = true\n          end\n        end\n      end\n      return isInPull\n    end\n\n    function isCharacterInAnotherPlayerPullToSelect(clickedPlayerColor, waitForSelectCharacters)\n        local inAnotherPull = false\n        for _, color in pairs(PLAYER_COLORS) do\n            if (color != clickedPlayerColor) then\n                inAnotherPull = isCharacterInPlayerPullToSelect(color, waitForSelectCharacters)\n                if (inAnotherPull == true) then break end\n            end\n        end\n        return inAnotherPull\n    end\n\n    function isCharacterInPlayerPullToSelect(playerColor, waitForSelectCharacters)\n      local isInPull = false\n      for _, obj in pairs(waitForSelectCharacters[playerColor]) do\n        if obj.guid == self.guid then\n          isInPull = true\n        end\n      end\n      return isInPull\n    end\n\n    function cleanupSpawnedObj(playerColor)\n      local playerCharacterObj = getPlayerSpanedObj(playerColor)\n      if playerCharacterObj ~= nil then\n        for _, guid in pairs(playerCharacterObj) do\n          local obj = getObjectFromGUID(guid)\n          if obj ~= nil then\n            obj.destruct()\n          end\n        end\n        updatePlayerSpawnedObj(playerColor, {})\n      end\n    end\n\n    function getCardSpawnData(description, playerColor)\n      if description == \"character\" then\n        return spawnData[playerColor].character\n      elseif description == \"character-item\" or description == \"character-item-counter\" then\n        return spawnData[playerColor].characterItem\n      elseif description == \"character-soul\" then\n        return spawnData[playerColor].characterStartSoul\n      else\n        printToColor(\"[ef5350][ERROR][-] Unknown \" .. description .. \" card description matadata. Maybe you changed description of card?\" , playerColor)\n        return\n      end\n    end\n\n    function getPlayerSpanedObj(playercolor)\n      characterPlacer = getObjectFromGUID(CHARACTER_PLACER_GUID)\n      return characterPlacer.getTable(\"playersSpawnedCharacterObj\")[playercolor]\n    end\n\n    function updatePlayerSpawnedObj(playerColor, spawnedObj)\n      characterPlacer = getObjectFromGUID(CHARACTER_PLACER_GUID)\n      local playersSpawnedCharacterObj = characterPlacer.getTable(\"playersSpawnedCharacterObj\")\n      playersSpawnedCharacterObj[playerColor] = spawnedObj\n      characterPlacer.setTable(\"playersSpawnedCharacterObj\", playersSpawnedCharacterObj)\n    end\n\n    function unlock(obj)\n      obj.interactable = true\n    end\n\n    function lock(obj)\n        obj.interactable = false\n    end\n\n    -- For extended calls\n    function selectCharacterByCall(params)\n      selectCharacter(nil, params.playerColor)\n    end\n\n    function isCharacterInPullToSelectByCall(params)\n      return isCharacterInPullToSelect(params.waitForSelectCharacters)\n    end\n  ",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "ContainedObjects": [
+                {
+                  "GUID": "6f66fa",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": 1.17006409,
+                    "posY": 1.32236767,
+                    "posZ": -8.632432,
+                    "rotX": -1.90608012E-06,
+                    "rotY": 180.011475,
+                    "rotZ": 0.0004926059,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Melting",
+                  "Description": "US_character",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "Active",
+                    "Character"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 20805,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "208": {
+                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/987883208224000343/FD150AE68328E805699807A3CD4199D98BB803DF/",
+                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/987883208224002004/E4AAFF1A1425F9B3C650DD77904DA0C52A009CF0/",
+                      "NumWidth": 5,
+                      "NumHeight": 3,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "function getHP()\n  return 2\nend",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "80d011",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": 0.8028018,
+                    "posY": 1.32195854,
+                    "posZ": -9.485954,
+                    "rotX": 0.007864309,
+                    "rotY": 180.012558,
+                    "rotZ": -0.00289691729,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Exploding Corpses",
+                  "Description": "US_character-item",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.709803939,
+                    "g": 0.709803939,
+                    "b": 0.709803939
+                  },
+                  "Tags": [
+                    "Eternal",
+                    "Item"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 62505,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "625": {
+                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/993513973468382366/63FC4600C22021A8D9B574FF8BBB963AF272389B/",
+                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/987883208220073879/B7262893D76BC4EA26F59DCE57903EBE93871685/",
+                      "NumWidth": 5,
+                      "NumHeight": 3,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                }
+              ]
+            },
+            {
+              "GUID": "e5c867",
+              "Name": "Custom_Model_Bag",
+              "Transform": {
+                "posX": -6.372362,
+                "posY": 2.71500754,
+                "posZ": 10.6953478,
+                "rotX": 357.364227,
+                "rotY": 179.9696,
+                "rotZ": 0.488050163,
+                "scaleX": 0.85,
+                "scaleY": 0.85,
+                "scaleZ": 0.85
+              },
+              "Nickname": "Plant (TNE)",
+              "Description": "character-pack",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "Tags": [
+                "C_BAG"
+              ],
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "MaterialIndex": -1,
+              "MeshIndex": -1,
+              "CustomMesh": {
+                "MeshURL": "http://pastebin.com/raw/PqfGKtKR",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1699529322651193431/CD24780E38C48CC418CCEE460402242CCD4DD2F6/",
+                "NormalURL": "http://cloud-3.steamusercontent.com/ugc/861734852198391028/D75480247FA058266F0D423501D867407458666D/",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 0,
+                "TypeIndex": 6,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.5,
+                  "SpecularSharpness": 5.000001,
+                  "FresnelStrength": 0.4
+                },
+                "CastShadows": true
+              },
+              "Bag": {
+                "Order": 0
+              },
+              "LuaScript": "    CHARACTER_PLACER_GUID = \"d2c68a\"\n    CHARACTER_RANDOMIZER_GUID = \"bc6e13\"\n    PLAYER_COLORS = {'Red', 'Blue', 'Yellow', 'Green'}\n\n    spawnData = nil\n\n    function onLoad()\n      spawnData = loadSpawnData()\n      initButtons()\n    end\n\n    function loadSpawnData()\n      local characterPlacer = getObjectFromGUID(CHARACTER_PLACER_GUID)\n      return characterPlacer.getTable(\"SPAWN_DATA\")\n    end\n\n    function initButtons()\n      self.clearButtons()\n      self.interactable = false\n\n      self.createButton({\n        click_function = \"selectCharacter\",\n        function_owner = self,\n        label          = \"Select\",\n        position       = {0, 0.3, 1.7},\n        width          = 760,\n        height         = 260,\n        font_size      = 180,\n        font_color     = {1, 1, 1},\n        color          = {84/225, 110/255, 122/255}\n      })\n      self.createButton({\n        click_function = \"unlock\",\n        function_owner = self,\n        label          = \"Unlock\",\n        position       = {0.4, 0.3, -1.7},\n        width          = 400,\n        height         = 110,\n        font_size      = 80,\n        color          = {102/225, 187/255, 106/255}\n      })\n      self.createButton({\n        click_function = \"lock\",\n        function_owner = self,\n        label          = \"Lock\",\n        position       = {-0.4, 0.3, -1.7},\n        width          = 400,\n        height         = 110,\n        font_size      = 80,\n        color          = {239/225, 83/255, 80/255}\n      })\n    end\n\n    function selectCharacter(_, playerClickerColor)\n      if spawnData[playerClickerColor] == nil then\n        Global.call(\"printWarningTP\", {text = \"Invalid player color. No position points for this color. Available colors: [DA1917]Red[-], [1E87FF]Blue[-], [E6E42B]Yellow[-], [30B22A]Green[-]\", color =  playerClickerColor})\n        return\n      end\n\n      local characterRandomizer = getObjectFromGUID(CHARACTER_RANDOMIZER_GUID)\n      local waitForSelectCharacters = characterRandomizer.getTable(\"waitForSelectCharacters\")\n      if #waitForSelectCharacters[playerClickerColor] > 0 and not isCharacterInPullToSelect(waitForSelectCharacters) then\n        Global.call(\"printWarningTP\", {text = \"You can't select character from global pull while you select from random.\", color =  playerClickerColor})\n        return\n      end\n\n      if isCharacterInAnotherPlayerPullToSelect(playerClickerColor, waitForSelectCharacters) then\n        Global.call(\"printWarningTP\", {text = \"You can't select character from another player pull.\", color =  playerClickerColor})\n        return\n      end\n\n      cleanupSpawnedObj(playerClickerColor)\n\n      local spawnedObj = {}\n      local cardsInPackCount = self.getQuantity()\n      for i = 1, cardsInPackCount do\n        local obj = self.takeObject({ index = 0 })\n        local objClone = obj.clone()\n        Wait.frames(function() self.putObject(obj) end, 5)\n        local objDescription = objClone.getDescription()\n\n        local cardSpawnData = getCardSpawnData(objDescription, playerClickerColor)\n        objClone.setPositionSmooth(cardSpawnData.position, false)\n        objClone.setRotation(cardSpawnData.rotation)\n\n        if objClone.getStateId() != -1 then\n          for _, state in pairs(objClone.getStates()) do\n            table.insert(spawnedObj, state.guid)\n          end\n        end\n\n        table.insert(spawnedObj, objClone.guid)\n      end\n\n      updatePlayerSpawnedObj(playerClickerColor, spawnedObj)\n    end\n\n    function isCharacterInPullToSelect(waitForSelectCharacters)\n      local isInPull = false\n      for _, pull in pairs(waitForSelectCharacters) do\n        for _, obj in pairs(pull) do\n          if obj.guid == self.guid then\n            isInPull = true\n          end\n        end\n      end\n      return isInPull\n    end\n\n    function isCharacterInAnotherPlayerPullToSelect(clickedPlayerColor, waitForSelectCharacters)\n        local inAnotherPull = false\n        for _, color in pairs(PLAYER_COLORS) do\n            if (color != clickedPlayerColor) then\n                inAnotherPull = isCharacterInPlayerPullToSelect(color, waitForSelectCharacters)\n                if (inAnotherPull == true) then break end\n            end\n        end\n        return inAnotherPull\n    end\n\n    function isCharacterInPlayerPullToSelect(playerColor, waitForSelectCharacters)\n      local isInPull = false\n      for _, obj in pairs(waitForSelectCharacters[playerColor]) do\n        if obj.guid == self.guid then\n          isInPull = true\n        end\n      end\n      return isInPull\n    end\n\n    function cleanupSpawnedObj(playerColor)\n      local playerCharacterObj = getPlayerSpanedObj(playerColor)\n      if playerCharacterObj ~= nil then\n        for _, guid in pairs(playerCharacterObj) do\n          local obj = getObjectFromGUID(guid)\n          if obj ~= nil then\n            obj.destruct()\n          end\n        end\n        updatePlayerSpawnedObj(playerColor, {})\n      end\n    end\n\n    function getCardSpawnData(description, playerColor)\n      if description == \"character\" then\n        return spawnData[playerColor].character\n      elseif description == \"character-item\" or description == \"character-item-counter\" then\n        return spawnData[playerColor].characterItem\n      elseif description == \"character-soul\" then\n        return spawnData[playerColor].characterStartSoul\n      else\n        printToColor(\"[ef5350][ERROR][-] Unknown \" .. description .. \" card description matadata. Maybe you changed description of card?\" , playerColor)\n        return\n      end\n    end\n\n    function getPlayerSpanedObj(playercolor)\n      characterPlacer = getObjectFromGUID(CHARACTER_PLACER_GUID)\n      return characterPlacer.getTable(\"playersSpawnedCharacterObj\")[playercolor]\n    end\n\n    function updatePlayerSpawnedObj(playerColor, spawnedObj)\n      characterPlacer = getObjectFromGUID(CHARACTER_PLACER_GUID)\n      local playersSpawnedCharacterObj = characterPlacer.getTable(\"playersSpawnedCharacterObj\")\n      playersSpawnedCharacterObj[playerColor] = spawnedObj\n      characterPlacer.setTable(\"playersSpawnedCharacterObj\", playersSpawnedCharacterObj)\n    end\n\n    function unlock(obj)\n      obj.interactable = true\n    end\n\n    function lock(obj)\n        obj.interactable = false\n    end\n\n    -- For extended calls\n    function selectCharacterByCall(params)\n      selectCharacter(nil, params.playerColor)\n    end\n\n    function isCharacterInPullToSelectByCall(params)\n      return isCharacterInPullToSelect(params.waitForSelectCharacters)\n    end\n  ",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "ContainedObjects": [
+                {
+                  "GUID": "8e15e7",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": -6.00316429,
+                    "posY": 1.32223916,
+                    "posZ": -0.17310594,
+                    "rotX": -0.000146518782,
+                    "rotY": 180.014053,
+                    "rotZ": 0.00074469205,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Ensnare",
+                  "Description": "US_character-item",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.709803939,
+                    "g": 0.709803939,
+                    "b": 0.709803939
+                  },
+                  "Tags": [
+                    "Active",
+                    "Eternal",
+                    "Item"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 5306,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "53": {
+                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/987883208224006528/26FDF25627208F413EF2A282629AA64CAEFB4C3F/",
+                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/987883208220073879/B7262893D76BC4EA26F59DCE57903EBE93871685/",
+                      "NumWidth": 5,
+                      "NumHeight": 3,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "146023",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": -0.494484633,
+                    "posY": 1.19945931,
+                    "posZ": -0.215461,
+                    "rotX": -1.85612589E-05,
+                    "rotY": 180.0177,
+                    "rotZ": 1.74560846E-05,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Plant",
+                  "Description": "US_character",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "Active",
+                    "Character"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 5206,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "52": {
+                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/987883208224000343/FD150AE68328E805699807A3CD4199D98BB803DF/",
+                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/987883208224002004/E4AAFF1A1425F9B3C650DD77904DA0C52A009CF0/",
+                      "NumWidth": 5,
+                      "NumHeight": 3,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "function getHP()\n  return 2\nend",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                }
+              ]
+            },
+            {
+              "GUID": "ca3e08",
+              "Name": "Custom_Model_Bag",
+              "Transform": {
+                "posX": -7.31753445,
+                "posY": 2.65582037,
+                "posZ": 10.7097921,
+                "rotX": 358.873047,
+                "rotY": 180.2389,
+                "rotZ": 355.231476,
+                "scaleX": 0.85,
+                "scaleY": 0.85,
+                "scaleZ": 0.85
+              },
+              "Nickname": "Rogue (TNE)",
+              "Description": "character-pack",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "Tags": [
+                "C_BAG"
+              ],
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "MaterialIndex": -1,
+              "MeshIndex": -1,
+              "CustomMesh": {
+                "MeshURL": "http://pastebin.com/raw/PqfGKtKR",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1699529322651192164/5FDE23EB5CE24BD5FB570DD17E093274744C9308/",
+                "NormalURL": "http://cloud-3.steamusercontent.com/ugc/861734852198391028/D75480247FA058266F0D423501D867407458666D/",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 0,
+                "TypeIndex": 6,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.5,
+                  "SpecularSharpness": 5.000001,
+                  "FresnelStrength": 0.4
+                },
+                "CastShadows": true
+              },
+              "Bag": {
+                "Order": 0
+              },
+              "LuaScript": "    CHARACTER_PLACER_GUID = \"d2c68a\"\n    CHARACTER_RANDOMIZER_GUID = \"bc6e13\"\n    PLAYER_COLORS = {'Red', 'Blue', 'Yellow', 'Green'}\n\n    spawnData = nil\n\n    function onLoad()\n      spawnData = loadSpawnData()\n      initButtons()\n    end\n\n    function loadSpawnData()\n      local characterPlacer = getObjectFromGUID(CHARACTER_PLACER_GUID)\n      return characterPlacer.getTable(\"SPAWN_DATA\")\n    end\n\n    function initButtons()\n      self.clearButtons()\n      self.interactable = false\n\n      self.createButton({\n        click_function = \"selectCharacter\",\n        function_owner = self,\n        label          = \"Select\",\n        position       = {0, 0.3, 1.7},\n        width          = 760,\n        height         = 260,\n        font_size      = 180,\n        font_color     = {1, 1, 1},\n        color          = {84/225, 110/255, 122/255}\n      })\n      self.createButton({\n        click_function = \"unlock\",\n        function_owner = self,\n        label          = \"Unlock\",\n        position       = {0.4, 0.3, -1.7},\n        width          = 400,\n        height         = 110,\n        font_size      = 80,\n        color          = {102/225, 187/255, 106/255}\n      })\n      self.createButton({\n        click_function = \"lock\",\n        function_owner = self,\n        label          = \"Lock\",\n        position       = {-0.4, 0.3, -1.7},\n        width          = 400,\n        height         = 110,\n        font_size      = 80,\n        color          = {239/225, 83/255, 80/255}\n      })\n    end\n\n    function selectCharacter(_, playerClickerColor)\n      if spawnData[playerClickerColor] == nil then\n        Global.call(\"printWarningTP\", {text = \"Invalid player color. No position points for this color. Available colors: [DA1917]Red[-], [1E87FF]Blue[-], [E6E42B]Yellow[-], [30B22A]Green[-]\", color =  playerClickerColor})\n        return\n      end\n\n      local characterRandomizer = getObjectFromGUID(CHARACTER_RANDOMIZER_GUID)\n      local waitForSelectCharacters = characterRandomizer.getTable(\"waitForSelectCharacters\")\n      if #waitForSelectCharacters[playerClickerColor] > 0 and not isCharacterInPullToSelect(waitForSelectCharacters) then\n        Global.call(\"printWarningTP\", {text = \"You can't select character from global pull while you select from random.\", color =  playerClickerColor})\n        return\n      end\n\n      if isCharacterInAnotherPlayerPullToSelect(playerClickerColor, waitForSelectCharacters) then\n        Global.call(\"printWarningTP\", {text = \"You can't select character from another player pull.\", color =  playerClickerColor})\n        return\n      end\n\n      cleanupSpawnedObj(playerClickerColor)\n\n      local spawnedObj = {}\n      local cardsInPackCount = self.getQuantity()\n      for i = 1, cardsInPackCount do\n        local obj = self.takeObject({ index = 0 })\n        local objClone = obj.clone()\n        Wait.frames(function() self.putObject(obj) end, 5)\n        local objDescription = objClone.getDescription()\n\n        local cardSpawnData = getCardSpawnData(objDescription, playerClickerColor)\n        objClone.setPositionSmooth(cardSpawnData.position, false)\n        objClone.setRotation(cardSpawnData.rotation)\n\n        if objClone.getStateId() != -1 then\n          for _, state in pairs(objClone.getStates()) do\n            table.insert(spawnedObj, state.guid)\n          end\n        end\n\n        table.insert(spawnedObj, objClone.guid)\n      end\n\n      updatePlayerSpawnedObj(playerClickerColor, spawnedObj)\n    end\n\n    function isCharacterInPullToSelect(waitForSelectCharacters)\n      local isInPull = false\n      for _, pull in pairs(waitForSelectCharacters) do\n        for _, obj in pairs(pull) do\n          if obj.guid == self.guid then\n            isInPull = true\n          end\n        end\n      end\n      return isInPull\n    end\n\n    function isCharacterInAnotherPlayerPullToSelect(clickedPlayerColor, waitForSelectCharacters)\n        local inAnotherPull = false\n        for _, color in pairs(PLAYER_COLORS) do\n            if (color != clickedPlayerColor) then\n                inAnotherPull = isCharacterInPlayerPullToSelect(color, waitForSelectCharacters)\n                if (inAnotherPull == true) then break end\n            end\n        end\n        return inAnotherPull\n    end\n\n    function isCharacterInPlayerPullToSelect(playerColor, waitForSelectCharacters)\n      local isInPull = false\n      for _, obj in pairs(waitForSelectCharacters[playerColor]) do\n        if obj.guid == self.guid then\n          isInPull = true\n        end\n      end\n      return isInPull\n    end\n\n    function cleanupSpawnedObj(playerColor)\n      local playerCharacterObj = getPlayerSpanedObj(playerColor)\n      if playerCharacterObj ~= nil then\n        for _, guid in pairs(playerCharacterObj) do\n          local obj = getObjectFromGUID(guid)\n          if obj ~= nil then\n            obj.destruct()\n          end\n        end\n        updatePlayerSpawnedObj(playerColor, {})\n      end\n    end\n\n    function getCardSpawnData(description, playerColor)\n      if description == \"character\" then\n        return spawnData[playerColor].character\n      elseif description == \"character-item\" or description == \"character-item-counter\" then\n        return spawnData[playerColor].characterItem\n      elseif description == \"character-soul\" then\n        return spawnData[playerColor].characterStartSoul\n      else\n        printToColor(\"[ef5350][ERROR][-] Unknown \" .. description .. \" card description matadata. Maybe you changed description of card?\" , playerColor)\n        return\n      end\n    end\n\n    function getPlayerSpanedObj(playercolor)\n      characterPlacer = getObjectFromGUID(CHARACTER_PLACER_GUID)\n      return characterPlacer.getTable(\"playersSpawnedCharacterObj\")[playercolor]\n    end\n\n    function updatePlayerSpawnedObj(playerColor, spawnedObj)\n      characterPlacer = getObjectFromGUID(CHARACTER_PLACER_GUID)\n      local playersSpawnedCharacterObj = characterPlacer.getTable(\"playersSpawnedCharacterObj\")\n      playersSpawnedCharacterObj[playerColor] = spawnedObj\n      characterPlacer.setTable(\"playersSpawnedCharacterObj\", playersSpawnedCharacterObj)\n    end\n\n    function unlock(obj)\n      obj.interactable = true\n    end\n\n    function lock(obj)\n        obj.interactable = false\n    end\n\n    -- For extended calls\n    function selectCharacterByCall(params)\n      selectCharacter(nil, params.playerColor)\n    end\n\n    function isCharacterInPullToSelectByCall(params)\n      return isCharacterInPullToSelect(params.waitForSelectCharacters)\n    end\n  ",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "ContainedObjects": [
+                {
+                  "GUID": "786a71",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": 7.176955,
+                    "posY": 1.32184172,
+                    "posZ": -9.847001,
+                    "rotX": 0.00297362427,
+                    "rotY": 180.023041,
+                    "rotZ": 359.9913,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Portal Strike",
+                  "Description": "US_character-item",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.709803939,
+                    "g": 0.709803939,
+                    "b": 0.709803939
+                  },
+                  "Tags": [
+                    "Eternal",
+                    "Item"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 22811,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "228": {
+                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/993513973464486089/7CBC7A63ED7CCFB77781F488A580EC94806D0D78/",
+                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/987883208220073879/B7262893D76BC4EA26F59DCE57903EBE93871685/",
+                      "NumWidth": 5,
+                      "NumHeight": 3,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "3efd9b",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": 11.2630777,
+                    "posY": 1.32182038,
+                    "posZ": -8.974338,
+                    "rotX": 359.989838,
+                    "rotY": 180.00946,
+                    "rotZ": 0.0194895733,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Rogue",
+                  "Description": "US_character",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "Active",
+                    "Character"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 22911,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "229": {
+                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/993513973464476367/6F7A1A792288C9555DE51B38E5DB673AC44AA0D3/",
+                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/987883208224002004/E4AAFF1A1425F9B3C650DD77904DA0C52A009CF0/",
+                      "NumWidth": 5,
+                      "NumHeight": 3,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "function getHP()\n  return 2\nend",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                }
+              ]
+            },
+            {
+              "GUID": "96852e",
+              "Name": "Custom_Model_Bag",
+              "Transform": {
+                "posX": -6.36919165,
+                "posY": 2.728294,
+                "posZ": 9.645095,
+                "rotX": 2.062846,
+                "rotY": 180.011719,
+                "rotZ": 0.658587635,
+                "scaleX": 0.85,
+                "scaleY": 0.85,
+                "scaleZ": 0.85
+              },
+              "Nickname": "Rebel (TNE)",
+              "Description": "character-pack",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "Tags": [
+                "C_BAG"
+              ],
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "MaterialIndex": -1,
+              "MeshIndex": -1,
+              "CustomMesh": {
+                "MeshURL": "http://pastebin.com/raw/PqfGKtKR",
+                "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1699529322651189824/040EAFDEB112A9EFBC6B98628E9835051CDFBE57/",
+                "NormalURL": "http://cloud-3.steamusercontent.com/ugc/861734852198391028/D75480247FA058266F0D423501D867407458666D/",
+                "ColliderURL": "",
+                "Convex": true,
+                "MaterialIndex": 0,
+                "TypeIndex": 6,
+                "CustomShader": {
+                  "SpecularColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                  },
+                  "SpecularIntensity": 0.5,
+                  "SpecularSharpness": 5.000001,
+                  "FresnelStrength": 0.4
+                },
+                "CastShadows": true
+              },
+              "Bag": {
+                "Order": 0
+              },
+              "LuaScript": "    CHARACTER_PLACER_GUID = \"d2c68a\"\n    CHARACTER_RANDOMIZER_GUID = \"bc6e13\"\n    PLAYER_COLORS = {'Red', 'Blue', 'Yellow', 'Green'}\n\n    spawnData = nil\n\n    function onLoad()\n      spawnData = loadSpawnData()\n      initButtons()\n    end\n\n    function loadSpawnData()\n      local characterPlacer = getObjectFromGUID(CHARACTER_PLACER_GUID)\n      return characterPlacer.getTable(\"SPAWN_DATA\")\n    end\n\n    function initButtons()\n      self.clearButtons()\n      self.interactable = false\n\n      self.createButton({\n        click_function = \"selectCharacter\",\n        function_owner = self,\n        label          = \"Select\",\n        position       = {0, 0.3, 1.7},\n        width          = 760,\n        height         = 260,\n        font_size      = 180,\n        font_color     = {1, 1, 1},\n        color          = {84/225, 110/255, 122/255}\n      })\n      self.createButton({\n        click_function = \"unlock\",\n        function_owner = self,\n        label          = \"Unlock\",\n        position       = {0.4, 0.3, -1.7},\n        width          = 400,\n        height         = 110,\n        font_size      = 80,\n        color          = {102/225, 187/255, 106/255}\n      })\n      self.createButton({\n        click_function = \"lock\",\n        function_owner = self,\n        label          = \"Lock\",\n        position       = {-0.4, 0.3, -1.7},\n        width          = 400,\n        height         = 110,\n        font_size      = 80,\n        color          = {239/225, 83/255, 80/255}\n      })\n    end\n\n    function selectCharacter(_, playerClickerColor)\n      if spawnData[playerClickerColor] == nil then\n        Global.call(\"printWarningTP\", {text = \"Invalid player color. No position points for this color. Available colors: [DA1917]Red[-], [1E87FF]Blue[-], [E6E42B]Yellow[-], [30B22A]Green[-]\", color =  playerClickerColor})\n        return\n      end\n\n      local characterRandomizer = getObjectFromGUID(CHARACTER_RANDOMIZER_GUID)\n      local waitForSelectCharacters = characterRandomizer.getTable(\"waitForSelectCharacters\")\n      if #waitForSelectCharacters[playerClickerColor] > 0 and not isCharacterInPullToSelect(waitForSelectCharacters) then\n        Global.call(\"printWarningTP\", {text = \"You can't select character from global pull while you select from random.\", color =  playerClickerColor})\n        return\n      end\n\n      if isCharacterInAnotherPlayerPullToSelect(playerClickerColor, waitForSelectCharacters) then\n        Global.call(\"printWarningTP\", {text = \"You can't select character from another player pull.\", color =  playerClickerColor})\n        return\n      end\n\n      cleanupSpawnedObj(playerClickerColor)\n\n      local spawnedObj = {}\n      local cardsInPackCount = self.getQuantity()\n      for i = 1, cardsInPackCount do\n        local obj = self.takeObject({ index = 0 })\n        local objClone = obj.clone()\n        Wait.frames(function() self.putObject(obj) end, 5)\n        local objDescription = objClone.getDescription()\n\n        local cardSpawnData = getCardSpawnData(objDescription, playerClickerColor)\n        objClone.setPositionSmooth(cardSpawnData.position, false)\n        objClone.setRotation(cardSpawnData.rotation)\n\n        if objClone.getStateId() != -1 then\n          for _, state in pairs(objClone.getStates()) do\n            table.insert(spawnedObj, state.guid)\n          end\n        end\n\n        table.insert(spawnedObj, objClone.guid)\n      end\n\n      updatePlayerSpawnedObj(playerClickerColor, spawnedObj)\n    end\n\n    function isCharacterInPullToSelect(waitForSelectCharacters)\n      local isInPull = false\n      for _, pull in pairs(waitForSelectCharacters) do\n        for _, obj in pairs(pull) do\n          if obj.guid == self.guid then\n            isInPull = true\n          end\n        end\n      end\n      return isInPull\n    end\n\n    function isCharacterInAnotherPlayerPullToSelect(clickedPlayerColor, waitForSelectCharacters)\n        local inAnotherPull = false\n        for _, color in pairs(PLAYER_COLORS) do\n            if (color != clickedPlayerColor) then\n                inAnotherPull = isCharacterInPlayerPullToSelect(color, waitForSelectCharacters)\n                if (inAnotherPull == true) then break end\n            end\n        end\n        return inAnotherPull\n    end\n\n    function isCharacterInPlayerPullToSelect(playerColor, waitForSelectCharacters)\n      local isInPull = false\n      for _, obj in pairs(waitForSelectCharacters[playerColor]) do\n        if obj.guid == self.guid then\n          isInPull = true\n        end\n      end\n      return isInPull\n    end\n\n    function cleanupSpawnedObj(playerColor)\n      local playerCharacterObj = getPlayerSpanedObj(playerColor)\n      if playerCharacterObj ~= nil then\n        for _, guid in pairs(playerCharacterObj) do\n          local obj = getObjectFromGUID(guid)\n          if obj ~= nil then\n            obj.destruct()\n          end\n        end\n        updatePlayerSpawnedObj(playerColor, {})\n      end\n    end\n\n    function getCardSpawnData(description, playerColor)\n      if description == \"character\" then\n        return spawnData[playerColor].character\n      elseif description == \"character-item\" or description == \"character-item-counter\" then\n        return spawnData[playerColor].characterItem\n      elseif description == \"character-soul\" then\n        return spawnData[playerColor].characterStartSoul\n      else\n        printToColor(\"[ef5350][ERROR][-] Unknown \" .. description .. \" card description matadata. Maybe you changed description of card?\" , playerColor)\n        return\n      end\n    end\n\n    function getPlayerSpanedObj(playercolor)\n      characterPlacer = getObjectFromGUID(CHARACTER_PLACER_GUID)\n      return characterPlacer.getTable(\"playersSpawnedCharacterObj\")[playercolor]\n    end\n\n    function updatePlayerSpawnedObj(playerColor, spawnedObj)\n      characterPlacer = getObjectFromGUID(CHARACTER_PLACER_GUID)\n      local playersSpawnedCharacterObj = characterPlacer.getTable(\"playersSpawnedCharacterObj\")\n      playersSpawnedCharacterObj[playerColor] = spawnedObj\n      characterPlacer.setTable(\"playersSpawnedCharacterObj\", playersSpawnedCharacterObj)\n    end\n\n    function unlock(obj)\n      obj.interactable = true\n    end\n\n    function lock(obj)\n        obj.interactable = false\n    end\n\n    -- For extended calls\n    function selectCharacterByCall(params)\n      selectCharacter(nil, params.playerColor)\n    end\n\n    function isCharacterInPullToSelectByCall(params)\n      return isCharacterInPullToSelect(params.waitForSelectCharacters)\n    end\n  ",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "ContainedObjects": [
+                {
+                  "GUID": "ca61a5",
+                  "Name": "Infinite_Bag",
+                  "Transform": {
+                    "posX": 10.5867538,
+                    "posY": 1.29400039,
+                    "posZ": -9.344225,
+                    "rotX": 0.0761414245,
+                    "rotY": 90.00039,
+                    "rotZ": 0.02833345,
+                    "scaleX": 0.775000155,
+                    "scaleY": 0.775000155,
+                    "scaleZ": 0.775000155
+                  },
+                  "Nickname": "Rebel Guard Sack",
+                  "Description": "character-item-counter",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.352941066,
+                    "g": 0.450980365,
+                    "b": 0.768627465
+                  },
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": false,
+                  "Hands": false,
+                  "MaterialIndex": -1,
+                  "MeshIndex": -1,
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": "",
+                  "ContainedObjects": [
+                    {
+                      "GUID": "d72aad",
+                      "Name": "Card",
+                      "Transform": {
+                        "posX": -43.70012,
+                        "posY": 2.47500515,
+                        "posZ": -6.770467,
+                        "rotX": 1.42540514,
+                        "rotY": 89.98313,
+                        "rotZ": 356.883942,
+                        "scaleX": 1.4,
+                        "scaleY": 1.0,
+                        "scaleZ": 1.4
+                      },
+                      "Nickname": "Rebel Guard",
+                      "Description": "",
+                      "GMNotes": "",
+                      "AltLookAngle": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                      },
+                      "ColorDiffuse": {
+                        "r": 0.709803939,
+                        "g": 0.709803939,
+                        "b": 0.709803939
+                      },
+                      "LayoutGroupSortIndex": 0,
+                      "Value": 0,
+                      "Locked": false,
+                      "Grid": true,
+                      "Snap": true,
+                      "IgnoreFoW": false,
+                      "MeasureMovement": false,
+                      "DragSelectable": true,
+                      "Autoraise": true,
+                      "Sticky": true,
+                      "Tooltip": true,
+                      "GridProjection": false,
+                      "HideWhenFaceDown": true,
+                      "Hands": true,
+                      "CardID": 63812,
+                      "SidewaysCard": false,
+                      "CustomDeck": {
+                        "638": {
+                          "FaceURL": "http://cloud-3.steamusercontent.com/ugc/993513973464486089/7CBC7A63ED7CCFB77781F488A580EC94806D0D78/",
+                          "BackURL": "http://cloud-3.steamusercontent.com/ugc/987883208220073879/B7262893D76BC4EA26F59DCE57903EBE93871685/",
+                          "NumWidth": 5,
+                          "NumHeight": 3,
+                          "BackIsHidden": true,
+                          "UniqueBack": false,
+                          "Type": 0
+                        }
+                      },
+                      "LuaScript": "",
+                      "LuaScriptState": "",
+                      "XmlUI": ""
+                    }
+                  ]
+                },
+                {
+                  "GUID": "da490a",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": 10.6520958,
+                    "posY": 1.322309,
+                    "posZ": -8.94345951,
+                    "rotX": -0.0008254077,
+                    "rotY": 180.014816,
+                    "rotZ": 0.00127296674,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Rebel Gyard",
+                  "Description": "US_character-item",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.709803939,
+                    "g": 0.709803939,
+                    "b": 0.709803939
+                  },
+                  "Tags": [
+                    "Active",
+                    "Eternal",
+                    "Item"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 63610,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "636": {
+                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/993513973464486089/7CBC7A63ED7CCFB77781F488A580EC94806D0D78/",
+                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/987883208220073879/B7262893D76BC4EA26F59DCE57903EBE93871685/",
+                      "NumWidth": 5,
+                      "NumHeight": 3,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "67cd49",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": 9.695966,
+                    "posY": 1.32136655,
+                    "posZ": -9.901225,
+                    "rotX": 0.00588806067,
+                    "rotY": 180.000366,
+                    "rotZ": 359.974548,
+                    "scaleX": 1.4,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.4
+                  },
+                  "Nickname": "Rebel",
+                  "Description": "US_character",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "Active",
+                    "Character"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 20610,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "206": {
+                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/993513973464476367/6F7A1A792288C9555DE51B38E5DB673AC44AA0D3/",
+                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/987883208224002004/E4AAFF1A1425F9B3C650DD77904DA0C52A009CF0/",
+                      "NumWidth": 5,
+                      "NumHeight": 3,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "function getHP()\n  return 2\nend",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
