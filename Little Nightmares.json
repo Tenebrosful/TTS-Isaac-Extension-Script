@@ -20,12 +20,12 @@
       "GUID": "f387f9",
       "Name": "Bag",
       "Transform": {
-        "posX": -23.0130272,
-        "posY": 0.514559269,
-        "posZ": -5.302208,
-        "rotX": -4.27025441E-07,
-        "rotY": 179.9965,
-        "rotZ": -4.55900454E-06,
+        "posX": -73.36157,
+        "posY": 0.715885,
+        "posZ": 5.290657,
+        "rotX": -5.549586E-06,
+        "rotY": 179.99649,
+        "rotZ": -1.9091483E-06,
         "scaleX": 0.725000262,
         "scaleY": 0.725000262,
         "scaleZ": 0.725000262
@@ -318,15 +318,15 @@
           ]
         },
         {
-          "GUID": "e0202f",
+          "GUID": "8b2c0e",
           "Name": "Bag",
           "Transform": {
-            "posX": -22.97745,
-            "posY": 2.00984645,
-            "posZ": -5.399715,
-            "rotX": 1.190892,
-            "rotY": 179.98877,
-            "rotZ": 0.311114,
+            "posX": -73.44005,
+            "posY": 2.147561,
+            "posZ": 4.70988131,
+            "rotX": 5.34796858,
+            "rotY": 179.882156,
+            "rotZ": 359.222443,
             "scaleX": 0.7750002,
             "scaleY": 0.7750002,
             "scaleZ": 0.7750002
@@ -340,9 +340,9 @@
             "z": 0.0
           },
           "ColorDiffuse": {
-            "r": 0.187281519,
-            "g": 0.179614067,
-            "b": 0.179614067
+            "r": 0.187281489,
+            "g": 0.179614037,
+            "b": 0.179614037
           },
           "LayoutGroupSortIndex": 0,
           "Value": 0,
@@ -1114,17 +1114,17 @@
               "GUID": "072d29",
               "Name": "Deck",
               "Transform": {
-                "posX": -16.97082,
-                "posY": 2.28998637,
-                "posZ": -5.755984,
-                "rotX": 358.43045,
-                "rotY": 180.015564,
-                "rotZ": 359.367249,
+                "posX": -69.65795,
+                "posY": 2.51391816,
+                "posZ": 0.247803837,
+                "rotX": 0.009973767,
+                "rotY": 179.999741,
+                "rotZ": 0.420285761,
                 "scaleX": 1.4,
                 "scaleY": 1.0,
                 "scaleZ": 1.4
               },
-              "Nickname": "",
+              "Nickname": "LOOT",
               "Description": "",
               "GMNotes": "",
               "AltLookAngle": {
@@ -1156,15 +1156,15 @@
               "Hands": false,
               "SidewaysCard": false,
               "DeckIDs": [
-                301,
-                300,
-                303,
-                304,
-                305,
-                302
+                11905401,
+                11905400,
+                11905403,
+                11905404,
+                11905405,
+                11905402
               ],
               "CustomDeck": {
-                "3": {
+                "119054": {
                   "FaceURL": "http://cloud-3.steamusercontent.com/ugc/1850431100638140437/1CAC570368B7E2BF1C2328F6DCBD2EAD81EC447D/",
                   "BackURL": "http://cloud-3.steamusercontent.com/ugc/1850431100638141553/259784FEB6DB6B945DC1492E94831E4DA255AF51/",
                   "NumWidth": 3,
@@ -1222,7 +1222,7 @@
                   "GridProjection": false,
                   "HideWhenFaceDown": true,
                   "Hands": true,
-                  "CardID": 301,
+                  "CardID": 11905401,
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "3": {
@@ -1283,7 +1283,7 @@
                   "GridProjection": false,
                   "HideWhenFaceDown": true,
                   "Hands": true,
-                  "CardID": 300,
+                  "CardID": 11905400,
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "3": {
@@ -1345,7 +1345,7 @@
                   "GridProjection": false,
                   "HideWhenFaceDown": true,
                   "Hands": true,
-                  "CardID": 303,
+                  "CardID": 11905403,
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "3": {
@@ -1406,7 +1406,7 @@
                   "GridProjection": false,
                   "HideWhenFaceDown": true,
                   "Hands": true,
-                  "CardID": 304,
+                  "CardID": 11905404,
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "3": {
@@ -1468,7 +1468,7 @@
                   "GridProjection": false,
                   "HideWhenFaceDown": true,
                   "Hands": true,
-                  "CardID": 305,
+                  "CardID": 11905405,
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "3": {
@@ -1529,7 +1529,7 @@
                   "GridProjection": false,
                   "HideWhenFaceDown": true,
                   "Hands": true,
-                  "CardID": 302,
+                  "CardID": 11905402,
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "3": {
@@ -1552,12 +1552,12 @@
               "GUID": "7a43ce",
               "Name": "Deck",
               "Transform": {
-                "posX": -16.5623569,
-                "posY": 2.29565215,
-                "posZ": -6.011123,
-                "rotX": 358.956726,
-                "rotY": 179.982224,
-                "rotZ": 1.3825357,
+                "posX": -69.1153641,
+                "posY": 2.469581,
+                "posZ": -0.193484277,
+                "rotX": 1.29458606,
+                "rotY": 180.038162,
+                "rotZ": 3.36801672,
                 "scaleX": 1.4,
                 "scaleY": 1.0,
                 "scaleZ": 1.4
@@ -1595,15 +1595,15 @@
               "Hands": false,
               "SidewaysCard": false,
               "DeckIDs": [
-                11887401,
-                11887400,
-                11887403,
-                11887405,
-                11887402,
-                11887404
+                11905301,
+                11905300,
+                11905303,
+                11905305,
+                11905302,
+                11905304
               ],
               "CustomDeck": {
-                "118874": {
+                "119053": {
                   "FaceURL": "http://cloud-3.steamusercontent.com/ugc/1850431100638138087/9E9E62CE2C391720D533B344E38E6E653113749D/",
                   "BackURL": "http://cloud-3.steamusercontent.com/ugc/1850431100638132982/706CC2BAE9221DAE3061203EF85028853982BA7F/",
                   "NumWidth": 3,
@@ -1662,7 +1662,7 @@
                   "GridProjection": false,
                   "HideWhenFaceDown": true,
                   "Hands": true,
-                  "CardID": 11887401,
+                  "CardID": 11905301,
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "118874": {
@@ -1724,7 +1724,7 @@
                   "GridProjection": false,
                   "HideWhenFaceDown": true,
                   "Hands": true,
-                  "CardID": 11887400,
+                  "CardID": 11905300,
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "118874": {
@@ -1786,7 +1786,7 @@
                   "GridProjection": false,
                   "HideWhenFaceDown": true,
                   "Hands": true,
-                  "CardID": 11887403,
+                  "CardID": 11905303,
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "118874": {
@@ -1848,7 +1848,7 @@
                   "GridProjection": false,
                   "HideWhenFaceDown": true,
                   "Hands": true,
-                  "CardID": 11887405,
+                  "CardID": 11905305,
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "118874": {
@@ -1910,7 +1910,7 @@
                   "GridProjection": false,
                   "HideWhenFaceDown": true,
                   "Hands": true,
-                  "CardID": 11887402,
+                  "CardID": 11905302,
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "118874": {
@@ -1972,7 +1972,7 @@
                   "GridProjection": false,
                   "HideWhenFaceDown": true,
                   "Hands": true,
-                  "CardID": 11887404,
+                  "CardID": 11905304,
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "118874": {
