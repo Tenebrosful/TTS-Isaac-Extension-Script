@@ -1,0 +1,3107 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "fd9495",
+      "Name": "Bag",
+      "Transform": {
+        "posX": -13.2846708,
+        "posY": 0.825849652,
+        "posZ": 5.193024,
+        "rotX": 1.0073968E-05,
+        "rotY": 269.9969,
+        "rotZ": 4.906823E-07,
+        "scaleX": 0.725000262,
+        "scaleY": 0.725000262,
+        "scaleZ": 0.725000262
+      },
+      "Nickname": "Minecraft",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 0.787783146,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "Tags": [
+        "EXPANSION"
+      ],
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "MaterialIndex": -1,
+      "MeshIndex": -1,
+      "Bag": {
+        "Order": 0
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "ContainedObjects": [
+        {
+          "GUID": "5b8a6d",
+          "Name": "Bag",
+          "Transform": {
+            "posX": -13.5630054,
+            "posY": 2.338874,
+            "posZ": 5.237284,
+            "rotX": 0.2564605,
+            "rotY": 359.981964,
+            "rotZ": 1.69622815,
+            "scaleX": 0.7750002,
+            "scaleY": 0.7750002,
+            "scaleZ": 0.7750002
+          },
+          "Nickname": "Characters",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.7058823,
+            "g": 0.366520882,
+            "b": 0.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": false,
+          "Snap": false,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "MaterialIndex": -1,
+          "MeshIndex": -1,
+          "Bag": {
+            "Order": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "ContainedObjects": [
+            {
+              "GUID": "4fb3f4",
+              "Name": "Deck",
+              "Transform": {
+                "posX": -9.117591,
+                "posY": 2.57447672,
+                "posZ": 6.57568026,
+                "rotX": 357.994843,
+                "rotY": 179.964966,
+                "rotZ": 1.99416614,
+                "scaleX": 1.39266264,
+                "scaleY": 1.0,
+                "scaleZ": 1.39266264
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "Tags": [
+                "Active"
+              ],
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": true,
+              "Hands": false,
+              "SidewaysCard": false,
+              "DeckIDs": [
+                223500,
+                200
+              ],
+              "CustomDeck": {
+                "2235": {
+                  "FaceURL": "https://i.imgur.com/RF8sCBp.jpg",
+                  "BackURL": "https://i.imgur.com/yv5pwjl.png",
+                  "NumWidth": 1,
+                  "NumHeight": 1,
+                  "BackIsHidden": true,
+                  "UniqueBack": false,
+                  "Type": 0
+                },
+                "2": {
+                  "FaceURL": "https://i.imgur.com/6zlfz26.jpg",
+                  "BackURL": "https://i.imgur.com/1z3jba3.png",
+                  "NumWidth": 1,
+                  "NumHeight": 1,
+                  "BackIsHidden": true,
+                  "UniqueBack": false,
+                  "Type": 0
+                }
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "ContainedObjects": [
+                {
+                  "GUID": "0e2fc5",
+                  "Name": "CardCustom",
+                  "Transform": {
+                    "posX": -5.712642,
+                    "posY": 0.9734393,
+                    "posZ": 6.299516,
+                    "rotX": -0.003763539,
+                    "rotY": 179.999847,
+                    "rotZ": 0.0113682905,
+                    "scaleX": 1.39266264,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.39266264
+                  },
+                  "Nickname": "Diamond Sword",
+                  "Description": "US_character-item",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "Active",
+                    "Eternal",
+                    "Item"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 223500,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2235": {
+                      "FaceURL": "https://i.imgur.com/RF8sCBp.jpg",
+                      "BackURL": "https://i.imgur.com/yv5pwjl.png",
+                      "NumWidth": 1,
+                      "NumHeight": 1,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "96f7a5",
+                  "Name": "CardCustom",
+                  "Transform": {
+                    "posX": -5.3297,
+                    "posY": 1.00391281,
+                    "posZ": 6.2565937,
+                    "rotX": 359.759277,
+                    "rotY": 180.000366,
+                    "rotZ": 359.720917,
+                    "scaleX": 1.39266264,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.39266264
+                  },
+                  "Nickname": "Alex",
+                  "Description": "US_character",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "Active",
+                    "Character"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 200,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2": {
+                      "FaceURL": "https://i.imgur.com/6zlfz26.jpg",
+                      "BackURL": "https://i.imgur.com/1z3jba3.png",
+                      "NumWidth": 1,
+                      "NumHeight": 1,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "function getHP()\n  return 2\nend",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                }
+              ]
+            },
+            {
+              "GUID": "92fc76",
+              "Name": "Deck",
+              "Transform": {
+                "posX": -9.080094,
+                "posY": 2.58778286,
+                "posZ": 6.17627525,
+                "rotX": 359.300018,
+                "rotY": 179.984344,
+                "rotZ": 2.56785512,
+                "scaleX": 1.39266264,
+                "scaleY": 1.0,
+                "scaleZ": 1.39266264
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": true,
+              "Hands": false,
+              "SidewaysCard": false,
+              "DeckIDs": [
+                11889700,
+                100
+              ],
+              "CustomDeck": {
+                "118897": {
+                  "FaceURL": "https://i.imgur.com/KyPUrya.jpg",
+                  "BackURL": "https://i.imgur.com/yv5pwjl.png",
+                  "NumWidth": 1,
+                  "NumHeight": 1,
+                  "BackIsHidden": true,
+                  "UniqueBack": false,
+                  "Type": 0
+                },
+                "1": {
+                  "FaceURL": "https://i.imgur.com/W1EKCWx.jpg",
+                  "BackURL": "https://i.imgur.com/1z3jba3.png",
+                  "NumWidth": 1,
+                  "NumHeight": 1,
+                  "BackIsHidden": true,
+                  "UniqueBack": false,
+                  "Type": 0
+                }
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "ContainedObjects": [
+                {
+                  "GUID": "57fc8d",
+                  "Name": "CardCustom",
+                  "Transform": {
+                    "posX": 1.011473,
+                    "posY": 0.9730032,
+                    "posZ": 5.375808,
+                    "rotX": 0.0208021849,
+                    "rotY": 180.000031,
+                    "rotZ": 0.006420478,
+                    "scaleX": 1.39266264,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.39266264
+                  },
+                  "Nickname": "Notched Axe",
+                  "Description": "US_character-item",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "Eternal",
+                    "Item"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 11889700,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "118897": {
+                      "FaceURL": "https://i.imgur.com/KyPUrya.jpg",
+                      "BackURL": "https://i.imgur.com/yv5pwjl.png",
+                      "NumWidth": 1,
+                      "NumHeight": 1,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "d8aa86",
+                  "Name": "CardCustom",
+                  "Transform": {
+                    "posX": 0.401520252,
+                    "posY": 1.0038507,
+                    "posZ": 4.972632,
+                    "rotX": 0.225442588,
+                    "rotY": 179.999481,
+                    "rotZ": 359.713165,
+                    "scaleX": 1.39266264,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.39266264
+                  },
+                  "Nickname": "Steve",
+                  "Description": "US_character",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "Active",
+                    "Character"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 100,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "1": {
+                      "FaceURL": "https://i.imgur.com/W1EKCWx.jpg",
+                      "BackURL": "https://i.imgur.com/1z3jba3.png",
+                      "NumWidth": 1,
+                      "NumHeight": 1,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "function getHP()\n  return 2\nend",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "GUID": "ac7a9c",
+          "Name": "Bag",
+          "Transform": {
+            "posX": -13.2411947,
+            "posY": 2.35082269,
+            "posZ": 5.324923,
+            "rotX": 359.483124,
+            "rotY": 180.004318,
+            "rotZ": 0.112720281,
+            "scaleX": 0.7750002,
+            "scaleY": 0.7750002,
+            "scaleZ": 0.7750002
+          },
+          "Nickname": "US",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.187281817,
+            "g": 0.179614365,
+            "b": 0.179614365
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "MaterialIndex": -1,
+          "MeshIndex": -1,
+          "Bag": {
+            "Order": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "ContainedObjects": [
+            {
+              "GUID": "67a994",
+              "Name": "Deck",
+              "Transform": {
+                "posX": -12.6924648,
+                "posY": 2.62217951,
+                "posZ": 2.23526454,
+                "rotX": 1.9396615,
+                "rotY": 180.018555,
+                "rotZ": 0.24198173,
+                "scaleX": 1.39266264,
+                "scaleY": 1.0,
+                "scaleZ": 1.39266264
+              },
+              "Nickname": "MONSTER",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "Tags": [
+                "M_BOSS"
+              ],
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": true,
+              "Hands": false,
+              "SidewaysCard": false,
+              "DeckIDs": [
+                224005,
+                224001,
+                224002,
+                224006,
+                224007,
+                224000,
+                224008,
+                224003,
+                224004
+              ],
+              "CustomDeck": {
+                "2240": {
+                  "FaceURL": "https://i.imgur.com/dItDJyo.png",
+                  "BackURL": "https://i.imgur.com/wDP5qsA.png",
+                  "NumWidth": 10,
+                  "NumHeight": 7,
+                  "BackIsHidden": false,
+                  "UniqueBack": false,
+                  "Type": 0
+                }
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "ContainedObjects": [
+                {
+                  "GUID": "d89792",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": -10.2052975,
+                    "posY": 0.9736171,
+                    "posZ": -3.45852351,
+                    "rotX": -0.00035330627,
+                    "rotY": 224.340927,
+                    "rotZ": 2.48061915E-05,
+                    "scaleX": 1.39266264,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.39266264
+                  },
+                  "Nickname": "Shulker",
+                  "Description": "3 Hearts | 5+ DICE | 1 Attack\n\nThe player that owns this soul card has a maximum hand size of 30.\n\nRewards: Loot 4\n+1 Soul",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "M_BOSS"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 224005,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2240": {
+                      "FaceURL": "https://i.imgur.com/dItDJyo.png",
+                      "BackURL": "https://i.imgur.com/wDP5qsA.png",
+                      "NumWidth": 10,
+                      "NumHeight": 7,
+                      "BackIsHidden": false,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "hp = 3\ndice = 5\natk = 1\nsoul = 1\nrewards = {CENTS = 0, LOOT = 4, TREASURES = 0, SOULS = 1}",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "5d889b",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": -7.34809256,
+                    "posY": 0.9948437,
+                    "posZ": -3.74105644,
+                    "rotX": 0.326554418,
+                    "rotY": 179.981232,
+                    "rotZ": 0.3378503,
+                    "scaleX": 1.39266264,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.39266264
+                  },
+                  "Nickname": "Elder Guardian",
+                  "Description": "2 Hearts | 3+ DICE | 1 Attack\n\nThe attacking player can't play loot cards, and this can't be targeted by loot cards.\n\nRewards: 5￠.\n+1 Soul",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "M_BOSS"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 224001,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2240": {
+                      "FaceURL": "https://i.imgur.com/dItDJyo.png",
+                      "BackURL": "https://i.imgur.com/wDP5qsA.png",
+                      "NumWidth": 10,
+                      "NumHeight": 7,
+                      "BackIsHidden": false,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "hp = 2\ndice = 3\natk = 1\nsoul = 1\nrewards = {CENTS = 5, LOOT = 0, TREASURES = 0, SOULS = 1}",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "ef38d1",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": -2.40200734,
+                    "posY": 0.973604739,
+                    "posZ": -5.276096,
+                    "rotX": 2.23039E-07,
+                    "rotY": 180.000015,
+                    "rotZ": 3.14975227E-06,
+                    "scaleX": 1.39266264,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.39266264
+                  },
+                  "Nickname": "Ender Dragon",
+                  "Description": "3 Hearts | 4+ DICE | 1 Attack\n\nWhen this takes damage at 3 Hearts, roll:\n\n1-5: Prevent that damage.\n6: Nothing.\n\nRewards: Loot 3\n+2 Souls",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "M_EPIC"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 224002,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2240": {
+                      "FaceURL": "https://i.imgur.com/dItDJyo.png",
+                      "BackURL": "https://i.imgur.com/wDP5qsA.png",
+                      "NumWidth": 10,
+                      "NumHeight": 7,
+                      "BackIsHidden": false,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "hp = 3\ndice = 4\natk = 1\nsoul = 2\nrewards = {CENTS = 0, LOOT = 3, TREASURES = 0, SOULS = 2}",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "6044a3",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": -5.80212069,
+                    "posY": 0.973605931,
+                    "posZ": -9.540912,
+                    "rotX": 1.78712471E-05,
+                    "rotY": 224.96521,
+                    "rotZ": -6.823004E-05,
+                    "scaleX": 1.39266264,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.39266264
+                  },
+                  "Nickname": "Wandering Trader",
+                  "Description": "$: Pay 5￠: Loot 2.\n\n$: Discard 3 loot: Gain +1 Treasure.\n\nAt the end of the turn, discard this.",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "M_GOOD"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 224006,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2240": {
+                      "FaceURL": "https://i.imgur.com/dItDJyo.png",
+                      "BackURL": "https://i.imgur.com/wDP5qsA.png",
+                      "NumWidth": 10,
+                      "NumHeight": 7,
+                      "BackIsHidden": false,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "isEvent = true\neventType = \"goodEvent\"",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "da03ab",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": -1.820181,
+                    "posY": 0.9878685,
+                    "posZ": -10.0530224,
+                    "rotX": 0.000883875939,
+                    "rotY": 180.0054,
+                    "rotZ": 0.529285967,
+                    "scaleX": 1.39266264,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.39266264
+                  },
+                  "Nickname": "Wither",
+                  "Description": "6 Hearts | 3+ DICE | 1 Attack\n\nWhen this is revealed, all players and active monsters take 1 damage.\n\nRewards: 8￠.\n+1 Soul",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "M_BOSS"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 224007,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2240": {
+                      "FaceURL": "https://i.imgur.com/dItDJyo.png",
+                      "BackURL": "https://i.imgur.com/wDP5qsA.png",
+                      "NumWidth": 10,
+                      "NumHeight": 7,
+                      "BackIsHidden": false,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "hp = 6\ndice = 3\natk = 1\nsoul = 1\nrewards = {CENTS = 8, LOOT = 0, TREASURES = 0, SOULS = 1}",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "d7a78b",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": 1.683311,
+                    "posY": 0.9735946,
+                    "posZ": -9.749327,
+                    "rotX": 0.000366592256,
+                    "rotY": 180.0002,
+                    "rotZ": 0.000145557337,
+                    "scaleX": 1.39266264,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.39266264
+                  },
+                  "Nickname": "Creeper",
+                  "Description": "1 Heart | 5+ DICE | 4 Attack\n\nWhen this deals damage, it dies.\n\nRewards: Loot 3",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "M_BASIC"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 224000,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2240": {
+                      "FaceURL": "https://i.imgur.com/dItDJyo.png",
+                      "BackURL": "https://i.imgur.com/wDP5qsA.png",
+                      "NumWidth": 10,
+                      "NumHeight": 7,
+                      "BackIsHidden": false,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "hp = 1\ndice = 5\natk = 4\nrewards = {CENTS = 0, LOOT = 3, TREASURES = 0, SOULS = 0}",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "aa62ec",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": 4.01776934,
+                    "posY": 1.00605452,
+                    "posZ": -6.27615,
+                    "rotX": 359.128143,
+                    "rotY": 179.998962,
+                    "rotZ": -9.732671E-05,
+                    "scaleX": 1.39266264,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.39266264
+                  },
+                  "Nickname": "Zombie",
+                  "Description": "2 Hearts | 4+ DICE | 1 Attack\n\nIf the attacking player rolls a 1, cancel the attack. You may make an additional attack this turn.\n\nRewards: Loot 1",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "M_BASIC"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 224008,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2240": {
+                      "FaceURL": "https://i.imgur.com/dItDJyo.png",
+                      "BackURL": "https://i.imgur.com/wDP5qsA.png",
+                      "NumWidth": 10,
+                      "NumHeight": 7,
+                      "BackIsHidden": false,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "hp = 2\ndice = 4\natk = 1\nrewards = {CENTS = 0, LOOT = 1, TREASURES = 0, SOULS = 0}",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "4876a4",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": 4.38148737,
+                    "posY": 0.989006758,
+                    "posZ": -10.1109247,
+                    "rotX": 0.000152891735,
+                    "rotY": 180.000122,
+                    "rotZ": 0.5728705,
+                    "scaleX": 1.39266264,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.39266264
+                  },
+                  "Nickname": "Endermen",
+                  "Description": "3 Hearts | 3+ DICE | 2 Damage\n\nEach time this takes damage, move it to another active slot.\n\nRewards: +1 Treasure",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "M_BASIC"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 224003,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2240": {
+                      "FaceURL": "https://i.imgur.com/dItDJyo.png",
+                      "BackURL": "https://i.imgur.com/wDP5qsA.png",
+                      "NumWidth": 10,
+                      "NumHeight": 7,
+                      "BackIsHidden": false,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "hp = 3\ndice = 3\natk = 2\nrewards = {CENTS = 0, LOOT = 0, TREASURES = 1, SOULS = 0}",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "4a1ab9",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": 6.83653736,
+                    "posY": 0.995745,
+                    "posZ": -9.608591,
+                    "rotX": 0.282399058,
+                    "rotY": 135.008743,
+                    "rotZ": 0.432732761,
+                    "scaleX": 1.39266264,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.39266264
+                  },
+                  "Nickname": "Ghast",
+                  "Description": "2 Hearts | 5+ DICE | 1 Attack\n\nWhen you miss an attack, roll:\n\n1-2: Lose 1￠.\n3-4: This takes 1 damage.\n5-6: Prevent any damate to you and this takes 1 damage.\n\nRewards: 5￠.",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "M_BASIC"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 224004,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2240": {
+                      "FaceURL": "https://i.imgur.com/dItDJyo.png",
+                      "BackURL": "https://i.imgur.com/wDP5qsA.png",
+                      "NumWidth": 10,
+                      "NumHeight": 7,
+                      "BackIsHidden": false,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "hp = 2\ndice = 5\natk = 1\nrewards = {CENTS = 5, LOOT = 0, TREASURES = 0, SOULS = 0}",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                }
+              ]
+            },
+            {
+              "GUID": "0548a5",
+              "Name": "Deck",
+              "Transform": {
+                "posX": -12.7808685,
+                "posY": 2.637368,
+                "posZ": 2.1705544,
+                "rotX": 2.10847282,
+                "rotY": 179.994308,
+                "rotZ": 359.5638,
+                "scaleX": 1.39266264,
+                "scaleY": 1.0,
+                "scaleZ": 1.39266264
+              },
+              "Nickname": "TREASURE",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "Tags": [
+                "Active",
+                "Item",
+                "T_ACTIVE"
+              ],
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": true,
+              "Hands": false,
+              "SidewaysCard": false,
+              "DeckIDs": [
+                223600,
+                223602,
+                223610,
+                223611,
+                223605,
+                223604,
+                223606,
+                223603,
+                223700,
+                223609,
+                223608,
+                223601,
+                223612
+              ],
+              "CustomDeck": {
+                "2236": {
+                  "FaceURL": "https://i.imgur.com/h0LakiA.png",
+                  "BackURL": "https://i.imgur.com/MXQftvO.png",
+                  "NumWidth": 10,
+                  "NumHeight": 7,
+                  "BackIsHidden": false,
+                  "UniqueBack": false,
+                  "Type": 0
+                },
+                "2237": {
+                  "FaceURL": "https://i.imgur.com/mc7FSY6.jpg",
+                  "BackURL": "https://i.imgur.com/MXQftvO.png",
+                  "NumWidth": 1,
+                  "NumHeight": 1,
+                  "BackIsHidden": true,
+                  "UniqueBack": false,
+                  "Type": 0
+                }
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "ContainedObjects": [
+                {
+                  "GUID": "5bbfbc",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": -8.76526,
+                    "posY": 0.991631269,
+                    "posZ": -7.69403744,
+                    "rotX": 0.02654387,
+                    "rotY": 180.000229,
+                    "rotZ": 359.366028,
+                    "scaleX": 1.39266264,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.39266264
+                  },
+                  "Nickname": "TNT",
+                  "Description": "Destroy this: Deal 4 damage as you choose to any players or monsters. (ACTIVE)",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "Active",
+                    "Item",
+                    "T_ACTIVE"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 223600,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2236": {
+                      "FaceURL": "https://i.imgur.com/h0LakiA.png",
+                      "BackURL": "https://i.imgur.com/MXQftvO.png",
+                      "NumWidth": 10,
+                      "NumHeight": 7,
+                      "BackIsHidden": false,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "0cd45d",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": 4.8571763,
+                    "posY": 0.9979969,
+                    "posZ": -2.93425632,
+                    "rotX": -5.85336238E-05,
+                    "rotY": 179.998825,
+                    "rotZ": 0.9077074,
+                    "scaleX": 1.39266264,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.39266264
+                  },
+                  "Nickname": "Totem of Undying",
+                  "Description": "+1 Heart.\n\nIf you would die, destroy this. Prevent your death and end your turn. (PASSIVE)",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "Item",
+                    "T_PASSIVE"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 223602,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2236": {
+                      "FaceURL": "https://i.imgur.com/h0LakiA.png",
+                      "BackURL": "https://i.imgur.com/MXQftvO.png",
+                      "NumWidth": 10,
+                      "NumHeight": 7,
+                      "BackIsHidden": false,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "function getHP()\n  return 1\nend",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "9cf171",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": 3.15207458,
+                    "posY": 0.987781048,
+                    "posZ": -3.22307253,
+                    "rotX": 0.000354160526,
+                    "rotY": 180.004868,
+                    "rotZ": 0.5269669,
+                    "scaleX": 1.39266264,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.39266264
+                  },
+                  "Nickname": "Healing Potion",
+                  "Description": "Each time another player takes damage, you may heal them for 1 Heart. (PASSIVE)",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "Item",
+                    "T_PASSIVE"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 223610,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2236": {
+                      "FaceURL": "https://i.imgur.com/h0LakiA.png",
+                      "BackURL": "https://i.imgur.com/MXQftvO.png",
+                      "NumWidth": 10,
+                      "NumHeight": 7,
+                      "BackIsHidden": false,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "46295a",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": 0.211365655,
+                    "posY": 0.98766,
+                    "posZ": -3.09149981,
+                    "rotX": -5.1828938E-05,
+                    "rotY": 180.000916,
+                    "rotZ": 0.522843063,
+                    "scaleX": 1.39266264,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.39266264
+                  },
+                  "Nickname": "Minecart",
+                  "Description": "Before you attack the monster deck, look at the top card. You may discard it and end your attack. (PASSIVE)",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "Item",
+                    "T_PASSIVE"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 223611,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2236": {
+                      "FaceURL": "https://i.imgur.com/h0LakiA.png",
+                      "BackURL": "https://i.imgur.com/MXQftvO.png",
+                      "NumWidth": 10,
+                      "NumHeight": 7,
+                      "BackIsHidden": false,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "92c77e",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": -2.76671624,
+                    "posY": 0.9736034,
+                    "posZ": -2.781039,
+                    "rotX": 3.89429479E-05,
+                    "rotY": 179.999619,
+                    "rotZ": 1.05693262E-05,
+                    "scaleX": 1.39266264,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.39266264
+                  },
+                  "Nickname": "Elytra",
+                  "Description": "Each time another player gains a soul, look at the top 10 cards of the discard pile of the loot deck. Add one to your hand. (PASSIVE)",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "Item",
+                    "T_PASSIVE"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 223605,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2236": {
+                      "FaceURL": "https://i.imgur.com/h0LakiA.png",
+                      "BackURL": "https://i.imgur.com/MXQftvO.png",
+                      "NumWidth": 10,
+                      "NumHeight": 7,
+                      "BackIsHidden": false,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "a0fe45",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": 1.59268916,
+                    "posY": 0.973599732,
+                    "posZ": -8.445632,
+                    "rotX": 0.000111913811,
+                    "rotY": 179.99971,
+                    "rotZ": 7.697299E-05,
+                    "scaleX": 1.39266264,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.39266264
+                  },
+                  "Nickname": "Crafting Table",
+                  "Description": "$: Destroy any 2 trinkets in play: Gain +1 Treasure. (ACTIVE)",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "Item",
+                    "T_PAID"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 223604,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2236": {
+                      "FaceURL": "https://i.imgur.com/h0LakiA.png",
+                      "BackURL": "https://i.imgur.com/MXQftvO.png",
+                      "NumWidth": 10,
+                      "NumHeight": 7,
+                      "BackIsHidden": false,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "3d9297",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": 3.858602,
+                    "posY": 0.9920356,
+                    "posZ": -8.760823,
+                    "rotX": 2.73513651E-05,
+                    "rotY": 179.999939,
+                    "rotZ": 0.6857457,
+                    "scaleX": 1.39266264,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.39266264
+                  },
+                  "Nickname": "Emerald",
+                  "Description": "$: Discard 3 loot: Gain +1 Treasure.\n\n$: Destroy an item you own: Loot 2. (ACTIVE)",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "Item",
+                    "T_PAID"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 223606,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2236": {
+                      "FaceURL": "https://i.imgur.com/h0LakiA.png",
+                      "BackURL": "https://i.imgur.com/MXQftvO.png",
+                      "NumWidth": 10,
+                      "NumHeight": 7,
+                      "BackIsHidden": false,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "fe7517",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": -6.30698872,
+                    "posY": 0.9736126,
+                    "posZ": -2.14360476,
+                    "rotX": -0.00021290021,
+                    "rotY": 179.999374,
+                    "rotZ": -1.13573042E-05,
+                    "scaleX": 1.39266264,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.39266264
+                  },
+                  "Nickname": "Wheat",
+                  "Description": "At the start of your turn, expand the number of acdtive monsters by 1.\n\nAt the end of your turn, remove an active monster pile and discard all monsters in that pile. (PASSIVE)",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "Item",
+                    "T_PASSIVE"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 223603,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2236": {
+                      "FaceURL": "https://i.imgur.com/h0LakiA.png",
+                      "BackURL": "https://i.imgur.com/MXQftvO.png",
+                      "NumWidth": 10,
+                      "NumHeight": 7,
+                      "BackIsHidden": false,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "c3c908",
+                  "Name": "CardCustom",
+                  "Transform": {
+                    "posX": -5.048331,
+                    "posY": 1.001769,
+                    "posZ": -9.351839,
+                    "rotX": 0.7567551,
+                    "rotY": 179.998459,
+                    "rotZ": 5.027526E-06,
+                    "scaleX": 1.39266264,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.39266264
+                  },
+                  "Nickname": "Enchanting Table",
+                  "Description": "Roll:\n\n1-3: Halve the activated effect of any item in play (rounded down).\n4-6: Double the activated effect of any item in play. (ACTIVE)",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "Active",
+                    "Item",
+                    "T_ACTIVE"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 223700,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2237": {
+                      "FaceURL": "https://i.imgur.com/mc7FSY6.jpg",
+                      "BackURL": "https://i.imgur.com/MXQftvO.png",
+                      "NumWidth": 1,
+                      "NumHeight": 1,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "34cc31",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": -6.488034,
+                    "posY": 0.973632157,
+                    "posZ": -7.38838959,
+                    "rotX": -0.000791104161,
+                    "rotY": 180.000519,
+                    "rotZ": -6.549533E-05,
+                    "scaleX": 1.39266264,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.39266264
+                  },
+                  "Nickname": "Grass Block",
+                  "Description": "Deactivate any number of items you own, then recharge that many items in play\n\nWhen anyone rolls a 3, recharge this. (ACTIVE)",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "Active",
+                    "Item",
+                    "T_ACTIVE"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 223609,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2236": {
+                      "FaceURL": "https://i.imgur.com/h0LakiA.png",
+                      "BackURL": "https://i.imgur.com/MXQftvO.png",
+                      "NumWidth": 10,
+                      "NumHeight": 7,
+                      "BackIsHidden": false,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "9d1a1a",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": -8.231324,
+                    "posY": 0.9952735,
+                    "posZ": -2.42210984,
+                    "rotX": -0.000117557713,
+                    "rotY": 180.000275,
+                    "rotZ": 359.1939,
+                    "scaleX": 1.39266264,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.39266264
+                  },
+                  "Nickname": "Eye of Ender",
+                  "Description": "When you gain this, reveal cards off the top of the loot deck till you reveal a trinket, then play it.\n\nEach time you play a trinket, loot 2. (PASSIVE)",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "Item",
+                    "T_PASSIVE"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 223608,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2236": {
+                      "FaceURL": "https://i.imgur.com/h0LakiA.png",
+                      "BackURL": "https://i.imgur.com/MXQftvO.png",
+                      "NumWidth": 10,
+                      "NumHeight": 7,
+                      "BackIsHidden": false,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "7df025",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": -5.962977,
+                    "posY": 1.01610148,
+                    "posZ": -10.7454929,
+                    "rotX": 1.10862207,
+                    "rotY": 180.0032,
+                    "rotZ": 0.0461443774,
+                    "scaleX": 1.39266264,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.39266264
+                  },
+                  "Nickname": "Torch",
+                  "Description": "Discard a monster that is being revealed.\n\nWhen a monster dies, recharge this. (ACTIVE)",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "Active",
+                    "Item",
+                    "T_ACTIVE"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 223601,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2236": {
+                      "FaceURL": "https://i.imgur.com/h0LakiA.png",
+                      "BackURL": "https://i.imgur.com/MXQftvO.png",
+                      "NumWidth": 10,
+                      "NumHeight": 7,
+                      "BackIsHidden": false,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "8069e6",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": -10.1431818,
+                    "posY": 0.9954592,
+                    "posZ": -2.13568139,
+                    "rotX": 3.251879E-06,
+                    "rotY": 180.002533,
+                    "rotZ": 359.186829,
+                    "scaleX": 1.39266264,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.39266264
+                  },
+                  "Nickname": "Nether Gold",
+                  "Description": "Each time a player buys an item, roll:\n\n1-2: Look at the top card of the treasure deck.\n3-4: Loot 2.\n5-6: Gain 4￠. (PASSIVE)",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "Item",
+                    "T_PASSIVE"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 223612,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2236": {
+                      "FaceURL": "https://i.imgur.com/h0LakiA.png",
+                      "BackURL": "https://i.imgur.com/MXQftvO.png",
+                      "NumWidth": 10,
+                      "NumHeight": 7,
+                      "BackIsHidden": false,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                }
+              ]
+            },
+            {
+              "GUID": "9bfa38",
+              "Name": "Deck",
+              "Transform": {
+                "posX": -13.154995,
+                "posY": 2.6434536,
+                "posZ": 2.60918832,
+                "rotX": 0.4013404,
+                "rotY": 179.978149,
+                "rotZ": 356.912262,
+                "scaleX": 1.39266264,
+                "scaleY": 1.0,
+                "scaleZ": 1.39266264
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "Tags": [
+                "L_FOUR_CENT"
+              ],
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": true,
+              "Hands": false,
+              "SidewaysCard": false,
+              "DeckIDs": [
+                223811,
+                223808,
+                223808,
+                223908,
+                11889908,
+                223906,
+                223907,
+                223905,
+                11889905,
+                223909,
+                223900,
+                223904,
+                223903,
+                223902,
+                223901
+              ],
+              "CustomDeck": {
+                "2238": {
+                  "FaceURL": "http://cloud-3.steamusercontent.com/ugc/946220291600145019/D5219D299ADE2182514F518835107F66A44F7FE3/",
+                  "BackURL": "http://cloud-3.steamusercontent.com/ugc/950710827603812703/48E892407B832EE01DD26111A51B2D9CCC6202DB/",
+                  "NumWidth": 6,
+                  "NumHeight": 5,
+                  "BackIsHidden": true,
+                  "UniqueBack": false,
+                  "Type": 0
+                },
+                "2239": {
+                  "FaceURL": "https://i.imgur.com/Dd47Fwc.png",
+                  "BackURL": "https://i.imgur.com/b96N6j3.png",
+                  "NumWidth": 10,
+                  "NumHeight": 7,
+                  "BackIsHidden": false,
+                  "UniqueBack": false,
+                  "Type": 0
+                },
+                "118899": {
+                  "FaceURL": "http://cloud-3.steamusercontent.com/ugc/952963184820477695/49C87392C3A6DCEC24572D5FEAC36E59AA5C22EC/",
+                  "BackURL": "http://cloud-3.steamusercontent.com/ugc/950710827603812703/48E892407B832EE01DD26111A51B2D9CCC6202DB/",
+                  "NumWidth": 9,
+                  "NumHeight": 6,
+                  "BackIsHidden": true,
+                  "UniqueBack": false,
+                  "Type": 0
+                }
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "ContainedObjects": [
+                {
+                  "GUID": "baed64",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": -8.629858,
+                    "posY": 1.09758127,
+                    "posZ": -2.67820883,
+                    "rotX": 0.017136002,
+                    "rotY": 179.9974,
+                    "rotZ": 3.751388,
+                    "scaleX": 1.39266264,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.39266264
+                  },
+                  "Nickname": "4 Cents!",
+                  "Description": "Gain 4￠ .",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "L_FOUR_CENT"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 223811,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2238": {
+                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/946220291600145019/D5219D299ADE2182514F518835107F66A44F7FE3/",
+                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/950710827603812703/48E892407B832EE01DD26111A51B2D9CCC6202DB/",
+                      "NumWidth": 6,
+                      "NumHeight": 5,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "0d9d25",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": -7.76638269,
+                    "posY": 1.09108067,
+                    "posZ": -2.67816734,
+                    "rotX": 0.0171356779,
+                    "rotY": 179.9974,
+                    "rotZ": 3.751388,
+                    "scaleX": 1.39266264,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.39266264
+                  },
+                  "Nickname": "3 Cents!",
+                  "Description": "Gain 3￠ .",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "L_THREE_CENT"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 223808,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2238": {
+                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/946220291600145019/D5219D299ADE2182514F518835107F66A44F7FE3/",
+                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/950710827603812703/48E892407B832EE01DD26111A51B2D9CCC6202DB/",
+                      "NumWidth": 6,
+                      "NumHeight": 5,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "ce207d",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": -6.902988,
+                    "posY": 1.0865593,
+                    "posZ": -2.67813516,
+                    "rotX": 0.0173376426,
+                    "rotY": 179.997879,
+                    "rotZ": 3.87110543,
+                    "scaleX": 1.39266264,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.39266264
+                  },
+                  "Nickname": "3 Cents!",
+                  "Description": "Gain 3￠.",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "L_THREE_CENT"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 223808,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2238": {
+                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/946220291600145019/D5219D299ADE2182514F518835107F66A44F7FE3/",
+                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/950710827603812703/48E892407B832EE01DD26111A51B2D9CCC6202DB/",
+                      "NumWidth": 6,
+                      "NumHeight": 5,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "2234db",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": -6.039595,
+                    "posY": 1.08162808,
+                    "posZ": -2.678092,
+                    "rotX": 0.0173277482,
+                    "rotY": 179.998032,
+                    "rotZ": 3.87110543,
+                    "scaleX": 1.39266264,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.39266264
+                  },
+                  "Nickname": "Melon Slice",
+                  "Description": "Heal 1 heart and your next attack roll this turn gets +1.",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "L_TAROT_MISC"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 223908,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2239": {
+                      "FaceURL": "https://i.imgur.com/Dd47Fwc.png",
+                      "BackURL": "https://i.imgur.com/b96N6j3.png",
+                      "NumWidth": 10,
+                      "NumHeight": 7,
+                      "BackIsHidden": false,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "e7c035",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": -5.17751074,
+                    "posY": 1.087089,
+                    "posZ": -2.67787385,
+                    "rotX": 0.0174038149,
+                    "rotY": 179.996658,
+                    "rotZ": 4.25045252,
+                    "scaleX": 1.39266264,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.39266264
+                  },
+                  "Nickname": "2 Cents!",
+                  "Description": "Gain 2¢.",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "L_TWO_CENT"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 11889908,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "118899": {
+                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/952963184820477695/49C87392C3A6DCEC24572D5FEAC36E59AA5C22EC/",
+                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/950710827603812703/48E892407B832EE01DD26111A51B2D9CCC6202DB/",
+                      "NumWidth": 9,
+                      "NumHeight": 6,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "af0ae4",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": -4.31921053,
+                    "posY": 1.10089862,
+                    "posZ": -2.678059,
+                    "rotX": 0.0102473358,
+                    "rotY": 179.999878,
+                    "rotZ": 4.49698,
+                    "scaleX": 1.39266264,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.39266264
+                  },
+                  "Nickname": "Suspicious Stew",
+                  "Description": "Roll:\n\n1-3: All monsters gain -1 DICE till the end of turn.\n4-6: All monsters gain +1 DICE till the end of turn.",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "L_TAROT_MISC"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 223906,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2239": {
+                      "FaceURL": "https://i.imgur.com/Dd47Fwc.png",
+                      "BackURL": "https://i.imgur.com/b96N6j3.png",
+                      "NumWidth": 10,
+                      "NumHeight": 7,
+                      "BackIsHidden": false,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "c101c5",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": -3.45798826,
+                    "posY": 1.11574781,
+                    "posZ": -2.677914,
+                    "rotX": -0.0038307223,
+                    "rotY": 179.998337,
+                    "rotZ": 5.287919,
+                    "scaleX": 1.39266264,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.39266264
+                  },
+                  "Nickname": "Suspicious Stew",
+                  "Description": "Roll:\n\n1-3: Swap any two items in play.\n4-6: The player to your right may swap any two items in play.",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "L_TAROT_MISC"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 223907,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2239": {
+                      "FaceURL": "https://i.imgur.com/Dd47Fwc.png",
+                      "BackURL": "https://i.imgur.com/b96N6j3.png",
+                      "NumWidth": 10,
+                      "NumHeight": 7,
+                      "BackIsHidden": false,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "16b7e3",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": -2.596069,
+                    "posY": 1.126379,
+                    "posZ": -2.67804575,
+                    "rotX": 0.00202717469,
+                    "rotY": 179.999161,
+                    "rotZ": 5.38081264,
+                    "scaleX": 1.39266264,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.39266264
+                  },
+                  "Nickname": "Suspicious Stew",
+                  "Description": "Roll:\n\n1-3: Heal up to full hearts.\n4-6: Die.",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "L_TAROT_MISC"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 223905,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2239": {
+                      "FaceURL": "https://i.imgur.com/Dd47Fwc.png",
+                      "BackURL": "https://i.imgur.com/b96N6j3.png",
+                      "NumWidth": 10,
+                      "NumHeight": 7,
+                      "BackIsHidden": false,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "921022",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": -1.7350415,
+                    "posY": 1.13432634,
+                    "posZ": -2.67793,
+                    "rotX": -0.0001588029,
+                    "rotY": 179.996384,
+                    "rotZ": 6.056868,
+                    "scaleX": 1.39266264,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.39266264
+                  },
+                  "Nickname": "A Penny!",
+                  "Description": "Gain 1¢.",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "L_ONE_CENT"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 11889905,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "118899": {
+                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/952963184820477695/49C87392C3A6DCEC24572D5FEAC36E59AA5C22EC/",
+                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/950710827603812703/48E892407B832EE01DD26111A51B2D9CCC6202DB/",
+                      "NumWidth": 9,
+                      "NumHeight": 6,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "e319a0",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": -0.870868,
+                    "posY": 1.14579821,
+                    "posZ": -2.67785144,
+                    "rotX": 0.00133295334,
+                    "rotY": 179.9983,
+                    "rotZ": 6.035429,
+                    "scaleX": 1.39266264,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.39266264
+                  },
+                  "Nickname": "Redstone",
+                  "Description": "Each time an active item is destroyed, copy its activated effects. (TRINKET)(PASSIVE)",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "L_TRINKET"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 223909,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2239": {
+                      "FaceURL": "https://i.imgur.com/Dd47Fwc.png",
+                      "BackURL": "https://i.imgur.com/b96N6j3.png",
+                      "NumWidth": 10,
+                      "NumHeight": 7,
+                      "BackIsHidden": false,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "3a9add",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": -0.0115757547,
+                    "posY": 1.15733635,
+                    "posZ": -2.677854,
+                    "rotX": 0.00203734543,
+                    "rotY": 179.997421,
+                    "rotZ": 6.37497139,
+                    "scaleX": 1.39266264,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.39266264
+                  },
+                  "Nickname": "Dragon Egg",
+                  "Description": "Choose 1:\n\nMove an active monster to another active slot.\n\nSearch the monster deck for Ender Dragon, put it into an active slot, and shufle the deck.",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "L_TAROT_MISC"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 223900,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2239": {
+                      "FaceURL": "https://i.imgur.com/Dd47Fwc.png",
+                      "BackURL": "https://i.imgur.com/b96N6j3.png",
+                      "NumWidth": 10,
+                      "NumHeight": 7,
+                      "BackIsHidden": false,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "a8ff07",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": 0.8509158,
+                    "posY": 1.1674211,
+                    "posZ": -2.67794847,
+                    "rotX": 0.00198337622,
+                    "rotY": 180.002151,
+                    "rotZ": 6.374972,
+                    "scaleX": 1.39266264,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.39266264
+                  },
+                  "Nickname": "Ender Pearl",
+                  "Description": "Cancel your attack on a monster.",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "L_TAROT_MISC"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 223904,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2239": {
+                      "FaceURL": "https://i.imgur.com/Dd47Fwc.png",
+                      "BackURL": "https://i.imgur.com/b96N6j3.png",
+                      "NumWidth": 10,
+                      "NumHeight": 7,
+                      "BackIsHidden": false,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "a63dbd",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": 1.71169817,
+                    "posY": 1.17864048,
+                    "posZ": -2.677988,
+                    "rotX": 0.00242020283,
+                    "rotY": 179.999649,
+                    "rotZ": 6.501105,
+                    "scaleX": 1.39266264,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.39266264
+                  },
+                  "Nickname": "Ender Pearl",
+                  "Description": "Cancel your attack on a monster.",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "L_TAROT_MISC"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 223903,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2239": {
+                      "FaceURL": "https://i.imgur.com/Dd47Fwc.png",
+                      "BackURL": "https://i.imgur.com/b96N6j3.png",
+                      "NumWidth": 10,
+                      "NumHeight": 7,
+                      "BackIsHidden": false,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "289476",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": 2.57426262,
+                    "posY": 1.18959188,
+                    "posZ": -2.67808723,
+                    "rotX": 0.00241971039,
+                    "rotY": 180.000153,
+                    "rotZ": 6.50110435,
+                    "scaleX": 1.39266264,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.39266264
+                  },
+                  "Nickname": "Ender Pearl",
+                  "Description": "Cancel your attack on a monster.",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "L_TAROT_MISC"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 223902,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2239": {
+                      "FaceURL": "https://i.imgur.com/Dd47Fwc.png",
+                      "BackURL": "https://i.imgur.com/b96N6j3.png",
+                      "NumWidth": 10,
+                      "NumHeight": 7,
+                      "BackIsHidden": false,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "19c6d7",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": 3.43570232,
+                    "posY": 1.2018218,
+                    "posZ": -2.67808652,
+                    "rotX": 0.00257738,
+                    "rotY": 179.999878,
+                    "rotZ": 6.51532841,
+                    "scaleX": 1.39266264,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.39266264
+                  },
+                  "Nickname": "Ender Pearl",
+                  "Description": "Cancel your attack on a monster.",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "L_TAROT_MISC"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 223901,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2239": {
+                      "FaceURL": "https://i.imgur.com/Dd47Fwc.png",
+                      "BackURL": "https://i.imgur.com/b96N6j3.png",
+                      "NumWidth": 10,
+                      "NumHeight": 7,
+                      "BackIsHidden": false,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
